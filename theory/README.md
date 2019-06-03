@@ -31,7 +31,6 @@
 * Concepts of support, confidence, lift
 * A priori algorithm
 * Measures of interestingness
-
 * Advanced topics: approximate basket analysis; other applications; other algorithms
 
 **Recommender systems**
