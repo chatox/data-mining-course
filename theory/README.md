@@ -44,11 +44,11 @@
 * Density-based methods
 
 **Streams**
-* Sampling
-* Frequent patterns
-* Clustering in streams
-* Outlier detection in streams
-* Streaming classification
+* Load shedding
+* Sampling (fixed proportion)
+* Sampling (fixed size)
+* Bloom filters
+* Probabilistic counting
 
 **Time series**
 * Cleaning
