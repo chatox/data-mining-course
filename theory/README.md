@@ -49,6 +49,7 @@
 * Sampling (fixed size)
 * Bloom filters
 * Probabilistic counting
+* Moments
 
 **Time series**
 * Cleaning
