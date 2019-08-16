@@ -19,7 +19,7 @@ There are 11 theory sessions of 2 hours each. In two of the sessions, a *partial
 | **TT11 Time series mining** | Series preparation (interpolation, smoothing); Dynamic time warping; Time series forecasting; Event detection | 10-11 (2h) | [pdf](pdf/tt11_time_series.pdf) [odp](tt11_time_series.odp) |
 | **TT12 Spectral graph clustering** | Graph projections | 11 (1h) | [pdf](pdf/tt12_spectral_graph_clustering.pdf) [odp](tt12_spectral_graph_clustering.odp) |
 |  | *Final exam*: Topics TT01-TT11 | Ex (2h) |  |
-                                    |
+
 Note: session numbers are approximate and subject to change.
 
 # Bibliography
