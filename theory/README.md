@@ -2,7 +2,7 @@
 
 There are 11 theory sessions of 2 hours each. In two of the sessions, a *partial exam* will be taken.
 
-| Topic | Content |  Sess. (dur.) | Materials |
+| Topic | Contents |  Sess. (dur.) | Materials |
 |-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------|
 | **TT01 Introduction to Data Mining** | Data mining scenarios; Data types; Methods overview; Challenges overview |  1 (1.5h) | [pdf](pdf/tt01_introduction.pdf) [odp](tt01_introduction.odp) |
 | **TT02 Data preparation** | Data type conversions; Data cleaning; Sampling; Data reduction |  1-2 (1.5h) | [pdf](pdf/tt02_data_preparation.pdf) [odp](tt02_data_preparation.odp) |
