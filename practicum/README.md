@@ -11,7 +11,7 @@ Look for [**CODE**] and [**REPORT**] parts in those notebooks, and the "Deliver"
 | Session                                             | Contents |
 |-----------------------------------------------------|----------|
 | [PS02](ps02_near_duplicates.ipynb)                  | Near-duplicate detection |
-| [PS02](ps08_data_streams.ipynb)                  | Data streams |
+| [PS08](ps08_data_streams.ipynb)                  | Data streams |
 
 ## Assignments
 
