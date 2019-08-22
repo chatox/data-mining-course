@@ -1,0 +1,4 @@
+theme: jekyll-theme-dinky
+
+plugins:
+  - jemoji
