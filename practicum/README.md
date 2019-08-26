@@ -20,8 +20,9 @@ Assignments, as a general rule, are done in pairs and in your own time. There is
 
 There are 3 assignments in this course. Assignment descriptions start with "asNN".
 
-| Assignment                           | Contents |
-|--------------------------------------|----------|
+| Assignment                              | Contents |
+|-----------------------------------------|----------|
+| [AS03](as03_time_series_analysis.ipynb) | Time series analysis |
 
 # Guidelines for submitting your work
 

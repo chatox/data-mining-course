@@ -16,3 +16,4 @@ To download from GitHub's web interface go to the [data/](https://github.com/cha
 | user_queries.csv | [Ahmad 2016](https://github.com/wasiahmad/aol_query_log_analysis) |
 | EstamosPorTi.json.gz | [Gabriele  2018](https://archive.org/details/EstamosporTIOohmm2018032618831Ids) |
 | furniture-sales.csv | [Tableau community forum](https://community.tableau.com/docs/DOC-1236) |
+| prices-split-adjusted.csv | [Kaggle](https://www.kaggle.com/dgawlik/nyse) |
