@@ -17,3 +17,4 @@ To download from GitHub's web interface go to the [data/](https://github.com/cha
 | EstamosPorTi.json.gz | [Gabriele  2018](https://archive.org/details/EstamosporTIOohmm2018032618831Ids) |
 | furniture-sales.csv | [Tableau community forum](https://community.tableau.com/docs/DOC-1236) |
 | prices-split-adjusted.csv | [Kaggle](https://www.kaggle.com/dgawlik/nyse) |
+| thyroid.csv | [ODDS](http://odds.cs.stonybrook.edu/thyroid-disease-dataset/) |
