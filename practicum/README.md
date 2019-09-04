@@ -8,6 +8,8 @@ There are 09 practice sessions in this course. Notebooks for each session start 
 
 Look for [**CODE**] and [**REPORT**] parts in those notebooks, and the "Deliver" section. Please ask in the course forum or to your teaching assistant ("*profesor/a de prácticas*") any questions you may have.
 
+:bulb: **Read the practice descriptions before the session,** as they can be sometimes long. You can start working on these at any point, but they are not definitive until the end of the session; details may change.
+
 | Session                               | Contents |
 |---------------------------------------|----------|
 | [PS03](ps03_near_duplicates.ipynb)    | Near-duplicate detection |
