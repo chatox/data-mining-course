@@ -19,4 +19,4 @@ To download from GitHub's web interface go to the [data/](https://github.com/cha
 | prices-split-adjusted.csv | [Kaggle](https://www.kaggle.com/dgawlik/nyse) |
 | thyroid.csv | [ODDS](http://odds.cs.stonybrook.edu/thyroid-disease-dataset/) |
 | device_db.csv | From a telco company |
-
+| dataset_associationrules.csv | From a telco company |
