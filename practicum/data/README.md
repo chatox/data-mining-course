@@ -18,3 +18,5 @@ To download from GitHub's web interface go to the [data/](https://github.com/cha
 | furniture-sales.csv | [Tableau community forum](https://community.tableau.com/docs/DOC-1236) |
 | prices-split-adjusted.csv | [Kaggle](https://www.kaggle.com/dgawlik/nyse) |
 | thyroid.csv | [ODDS](http://odds.cs.stonybrook.edu/thyroid-disease-dataset/) |
+| device_db.csv | From a telco company |
+
