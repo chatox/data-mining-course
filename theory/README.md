@@ -20,7 +20,7 @@ There are 11 theory sessions of 2 hours each. In two of the sessions, *midterm e
 | **TT12 Spectral graph clustering** | Graph projections | 11 (1h) | [pdf](pdf/tt12_spectral_graph_clustering.pdf) [odp](tt12_spectral_graph_clustering.odp) |
 |  | *Final exam*: Topics TT01-TT11 | Ex (2h) |  |
 
-Note: session numbers are approximate and subject to change.
+Note that session numbers are approximate and subject to change.
 
 # Bibliography
 
