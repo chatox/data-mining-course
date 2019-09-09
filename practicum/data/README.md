@@ -21,3 +21,4 @@ To download from GitHub's web interface go to the [data/](https://github.com/cha
 | device_db.csv | From a telco company |
 | re_dataset.csv | Derived from device_db.csv |
 | dataset_associationrules.csv | From a telco company |
+| movielens-1M.zip | [MovieLens](https://grouplens.org/datasets/movielens/1m/) |
