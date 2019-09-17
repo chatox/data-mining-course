@@ -12,7 +12,19 @@ This course offers the students the possibility of learning fundamental data min
 
 ## Associated competences
 
-Logical reasoning. Abstract thinking. Basic and advanced data structures.
+**Basic competences**
+
+CB3. That the students have the ability of collecting and interpreting relevant data (normally within their study area) to issue judgements which include a reflection about relevant topics of social, scientific or ethical nature.
+
+**Transversal competences**
+
+CT3. Applying with flexibility and creativity the acquired knowledge and adapting it to new contexts and situations.
+
+**Specific competences**
+
+RA.CE7.2 Recognizing the statistic techniques applied to data mining.
+
+RA.CE9.2 Recognizing and applying data mining techniques.
 
 ## Results from learning
 
