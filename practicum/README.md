@@ -16,6 +16,7 @@ Look for [**CODE**] and [**REPORT**] parts in those notebooks, and the "Deliver"
 | [PS03](ps03_near_duplicates.ipynb)    | Near-duplicate detection |
 | [PS04](ps04_association_rules.ipynb)  | Association rules mining |
 | [PS05](ps05_recommendation_engine.ipynb) | User-based recommendations |
+| [PS06](ps06_content_based_recsys.ipynb)  | Content-based recommendations |
 | [PS07](ps07_outlier_analysis.ipynb)   | Outlier analysis |
 | [PS08](ps08_data_streams.ipynb)       | Data streams |
 | [PS09](ps09_forecasting.ipynb)        | Time series forecasting |
