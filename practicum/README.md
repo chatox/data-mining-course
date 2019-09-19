@@ -12,7 +12,7 @@ Look for [**CODE**] and [**REPORT**] parts in those notebooks, and the "Deliver"
 
 | Session                               | Contents |
 |---------------------------------------|----------|
-| [PS01+PS02](ps01_02_datapreparation)     | Data preparation (two sessions, grade x 2) |
+| [PS01+PS02](ps01_02_datapreparation.ipynb)     | Data preparation (two sessions, grade x 2) |
 | [PS03](ps03_near_duplicates.ipynb)    | Near-duplicate detection |
 | [PS04](ps04_association_rules.ipynb)  | Association rules mining |
 | [PS05](ps05_recommendation_engine.ipynb) | User-based recommendations |
