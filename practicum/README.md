@@ -29,5 +29,6 @@ There are 3 assignments in this course. Assignment descriptions start with "asNN
 
 | Assignment                              | Contents |
 |-----------------------------------------|----------|
+| [AS01](as01_assignment_association_rules.ipynb) | Basket analysis |
 | [AS02](as02_recommendation.ipynb)       | Recommender system |
 | [AS03](as03_time_series_analysis.ipynb) | Time series analysis |
