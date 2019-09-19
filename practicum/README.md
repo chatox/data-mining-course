@@ -29,4 +29,5 @@ There are 3 assignments in this course. Assignment descriptions start with "asNN
 
 | Assignment                              | Contents |
 |-----------------------------------------|----------|
+| [AS02](as02_recommendation.ipynb)       | Recommender system |
 | [AS03](as03_time_series_analysis.ipynb) | Time series analysis |
