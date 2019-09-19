@@ -12,6 +12,7 @@ Look for [**CODE**] and [**REPORT**] parts in those notebooks, and the "Deliver"
 
 | Session                               | Contents |
 |---------------------------------------|----------|
+| [PS01+PS02](ps01_datapreparation)     | Data preparation (two sessions) |
 | [PS03](ps03_near_duplicates.ipynb)    | Near-duplicate detection |
 | [PS07](ps07_outlier_analysis.ipynb)   | Outlier analysis |
 | [PS08](ps08_data_streams.ipynb)       | Data streams |
