@@ -4,7 +4,7 @@
 
 Continuous evaluation will be based in the following elements:
 
-* A: Average grade in the 8-9 practical sessions with grade, minus the lowest one: 30%
+* A: Average grade in the 9 practical sessions with grade, minus the lowest one: 30%
 * B: Average grade in the 3 assignments: 20%
 * C: Average grade in the 2 in-class tests: 20%
 * D: Grade in the exam: 30%
