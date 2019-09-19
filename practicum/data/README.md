@@ -18,7 +18,7 @@ To download from GitHub's web interface go to the [data/](https://github.com/cha
 | furniture-sales.csv | [Tableau community forum](https://community.tableau.com/docs/DOC-1236) |
 | prices-split-adjusted.csv | [Kaggle](https://www.kaggle.com/dgawlik/nyse) |
 | thyroid.csv | [ODDS](http://odds.cs.stonybrook.edu/thyroid-disease-dataset/) |
-| device_db.csv | From a telco company |
-| re_dataset.csv | Derived from device_db.csv |
+| device_db.csv, re_dataset.csv | From a telco company (second file is derived) |
 | dataset_associationrules.csv | From a telco company |
 | movielens-1M.zip | [MovieLens](https://grouplens.org/datasets/movielens/1m/) |
+| instacart/ | [Instacart](https://www.kaggle.com/c/instacart-market-basket-analysis) |
