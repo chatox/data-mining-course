@@ -4,7 +4,7 @@
 
 Practice sessions are conducted in a computer lab and, as a general rule, are delivered individually within 24 hours of the end of the session.
 
-There are 09 practice sessions in this course. Notebooks for each session start with *psNN* and describe the activities that the students must perform during the practice session.
+There are 8 practice sessions in this course (one of them is double, so there are 9 practice grades). Notebooks for each session start with *psNN* and describe the activities that the students must perform during the practice session.
 
 Look for [**CODE**] and [**REPORT**] parts in those notebooks, and the "Deliver" section. Please ask in the course forum or to your teaching assistant ("*profesor/a de prácticas*") any questions you may have.
 
@@ -25,7 +25,7 @@ Look for [**CODE**] and [**REPORT**] parts in those notebooks, and the "Deliver"
 
 Assignments, as a general rule, are done in pairs and in your own time. There is, however, a lab session dedicated to the assignment, usually but not always close to the delivery date, in which the teaching assistant (*profesor/a de prácticas*) will answer any questions you may have. Feel free to also post questions in the course forum.
 
-There are 3 assignments in this course. Assignment descriptions start with "asNN".
+There are 3 assignments in this course. Assignment descriptions start with *asNN*.
 
 | Assignment                              | Contents |
 |-----------------------------------------|----------|
