@@ -9,9 +9,9 @@ This is not a full repository of datasets for data mining, but instead some data
 * For large files, browse to the dataset and click on "Download" (on the top-right corner).
 * For small files, browse to the dataset and click on "Raw" (on the top-right corner) and then "Save as ..." in yourbrowser.
 
-## Sources for the datasets in this repository
+# Credits
 
-| Filename | Source |
+| Filename | Credits |
 |----------|--------|
 | user_queries.csv | [Ahmad 2016](https://github.com/wasiahmad/aol_query_log_analysis) |
 | EstamosPorTi.json.gz | [Gabriele  2018](https://archive.org/details/EstamosporTIOohmm2018032618831Ids) |
