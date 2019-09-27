@@ -115,6 +115,6 @@ Delivering consistently top-quality work takes time and effort, but it can be ve
 
 **Be precise:** use the section numbers (1.1, 1.2, ...) of the notebook to present your results in the report, and refer to sections by their number. If you need to refer to your figures or tables, number them and refer to them by numbers. Do not include ambiguous statements or plots without a scale or a legend. Do not use colors if you do not explain what each color means. State clearly your assumptions and limitations.
 
-**Be careful** with the presentation of your work. For instance, do not use low-quality screenshots, or poorly cropped screenshots showing toolbars and window borders. Instead, export and save high-quality images from each application. Do not copy-paste or screenshot tables into your report without making them to actual tables.
+**Be careful** with the presentation of your work. For instance, do not use low-quality screenshots, or poorly cropped screenshots showing toolbars and window borders. Instead, export and save high-quality images from each application. Do not copy-paste or screenshot tables into your report without making them to actual tables that you can format in your report. Do not include screenshots of textual/numerical only information.
 
 As a data scientist your reports and code should be (among other things) correct, understandable, pristine, clear, and pleasant to look at. Ensure you set aside enough time to review, improve, and polish your work. Get used to produce top-quality work and it will become a habit.
