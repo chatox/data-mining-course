@@ -10,11 +10,11 @@ There are 11 theory sessions of 2 hours each. In two of the sessions, *midterm e
 | **TT04 Near duplicates** | Shingling; Min-hash; Locality-sensitive hashing | 3 (1.5h) | [pdf](pdf/tt04_near_duplicates.pdf) [odp](tt04_near_duplicates.odp) |
 | **TT05 Itemsets** | Transaction and itemset; Maximal and closed itemsets; Association rules; Support, confidence, lift | 4 (1.5h) | [pdf](pdf/tt05_itemsets.pdf) [odp](tt05_itemsets.odp) |
 | **TT06 Association rule mining** | A priori algorithm; Interesting patterns | 4-5 (1h) | [pdf](pdf/tt06_association_rule_mining.pdf) [odp](tt06_association_rule_mining.odp) |
-|  | *First midterm exam*: Topics TT01-TT05 | 5 (1h) |  |
+|  | *First midterm exam*: Topics TT01-TT04 | 5 (1h) |  |
 | **TT07 Extending association analysis** | Interestingness measures; Categorical and continuous attributes; Min-Apriori; Mining rules on a hierarchy | 6 (1.5h) | [pdf](pdf/tt07_extending_association_analysis.pdf) [odp](tt07_extending_association_analysis.odp) |
 | **TT08 Recommender systems** | Content-based recommendations; Interaction-based recommendations (user-based, item-based); Latent factors methods; Evaluation | 6-7 (2h) | [pdf](pdf/tt08_recommender_systems.pdf) [odp](tt08_recommender_systems.odp) |
 | **TT09 Outlier analysis** | Extreme values analysis; Isolation forest; Clustering-based methods; Distance-based methods; Density-based methods; Outlier validity | 7-8 (2.5h) | [pdf](pdf/tt09_outlier_detection.pdf) [odp](tt09_outlier_detection.odp) |
-|  | *Second midterm exam*: Topics TT06-TT09 | 9 (1h) |  |
+|  | *Second midterm exam*: Topics TT05-TT08 | 9 (1h) |  |
 | **TT10 Streams** | Load shedding; Sampling (fixed proportion); Sampling (fixed size); Bloom filters; Probabilistic counting; Moments | 9-10 (2h) | [pdf](pdf/tt10_streams.pdf) [odp](tt10_streams.odp) |
 | **TT11 Time series mining** | Series preparation (interpolation, smoothing); Dynamic time warping; Time series forecasting; Event detection | 10-11 (2h) | [pdf](pdf/tt11_time_series.pdf) [odp](tt11_time_series.odp) |
 | **TT12 Spectral graph clustering** | Graph projections | 11 (1h) | [pdf](pdf/tt12_spectral_graph_clustering.pdf) [odp](tt12_spectral_graph_clustering.odp) |
