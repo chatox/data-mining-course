@@ -13,8 +13,8 @@
 
 :warning: The exact date is subject to change if the course schedule changes.
 
-* Midterm EX01: theory session number 5
-    * 16 October 2019
+* Midterm EX01: theory session number <strike>5</strike> 6
+    * <strike>16 October 2019</strike> 29 October 2019
 * Midterm EX02: theory session number 9
     * 20 November 2019
 * Final exam: to be scheduled by the school
