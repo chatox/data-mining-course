@@ -8,9 +8,9 @@ There are 11 theory sessions of 2 hours each. In two of the sessions, *midterm e
 | **TT02 Data preparation** | Data type conversions; Data cleaning; Sampling; Data reduction |  1-2 (1.5h) | [pdf](pdf/tt02_data_preparation.pdf) [odp](tt02_data_preparation.odp) |
 | **TT03 Similarity** | Data types and similarity; Lp norm; Distances and orientation; Local variations | 2-3 (1.5h) | [pdf](pdf/tt03_similarity.pdf) [odp](tt03_similarity.odp) |
 | **TT04 Near duplicates** | Shingling; Min-hash; Locality-sensitive hashing | 3 (1.5h) | [pdf](pdf/tt04_near_duplicates.pdf) [odp](tt04_near_duplicates.odp) |
-| **TT05 Itemsets** | Transaction and itemset; Maximal and closed itemsets; Association rules; Support, confidence, lift | 4 (1.5h) | [pdf](pdf/tt05_itemsets.pdf) [odp](tt05_itemsets.odp) |
-| **TT06 Association rule mining** | A priori algorithm; Interesting patterns | 4-5 (1h) | [pdf](pdf/tt06_association_rule_mining.pdf) [odp](tt06_association_rule_mining.odp) |
-|  | *First midterm exam*: Topics TT01-TT04 | 5 (1h) |  |
+| **TT05 Itemsets** | Transaction and itemset; Maximal and closed itemsets; Association rules; Support, confidence, lift | 4 (2h) | [pdf](pdf/tt05_itemsets.pdf) [odp](tt05_itemsets.odp) |
+| **TT06 Association rule mining** | A priori algorithm; Interesting patterns | 5 (1h) | [pdf](pdf/tt06_association_rule_mining.pdf) [odp](tt06_association_rule_mining.odp) |
+|  | *First midterm exam*: Topics TT01-TT04 | <strike>5</strike> 6 (1h) |  |
 | **TT07 Extending association analysis** | Interestingness measures; Categorical and continuous attributes; Min-Apriori; Mining rules on a hierarchy | 6 (1.5h) | [pdf](pdf/tt07_extending_association_analysis.pdf) [odp](tt07_extending_association_analysis.odp) |
 | **TT08 Recommender systems** | Content-based recommendations; Interaction-based recommendations (user-based, item-based); Latent factors methods; Evaluation | 6-7 (2h) | [pdf](pdf/tt08_recommender_systems.pdf) [odp](tt08_recommender_systems.odp) |
 | **TT09 Outlier analysis** | Extreme values analysis; Isolation forest; Clustering-based methods; Distance-based methods; Density-based methods; Outlier validity | 7-8 (2.5h) | [pdf](pdf/tt09_outlier_detection.pdf) [odp](tt09_outlier_detection.odp) |
