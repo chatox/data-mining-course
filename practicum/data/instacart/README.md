@@ -1,4 +1,4 @@
 
-Source: https://www.kaggle.com/c/instacart-market-basket-analysis
+**Download from: http://chato.cl/2019/datamin/instacart.zip** (158 MB file)
 
-Download from: http://chato.cl/2019/datamin/instacart.zip
+Credits: https://www.kaggle.com/c/instacart-market-basket-analysis
