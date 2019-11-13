@@ -13,7 +13,7 @@ There are 11 theory sessions of 2 hours each. In two of the sessions, *midterm e
 |  | *First midterm exam*: Topics TT01-TT04 | <strike>5</strike> <strike>6</strike> 7 (1h) |  |
 | **TT07 Extending association analysis** | Interestingness measures; Categorical and continuous attributes; Min-Apriori; Mining rules on a hierarchy | <strike>6</strike> (on your own -- not evaluated) | [pdf](pdf/tt07_extending_association_analysis.pdf) [odp](tt07_extending_association_analysis.odp) |
 | **TT08 Recommender systems** | Content-based recommendations; Interaction-based recommendations (user-based, item-based); Latent factors methods; Evaluation | 7-8 (2h) | [pdf](pdf/tt08_recommender_systems.pdf) [odp](tt08_recommender_systems.odp) |
-| **TT09 Outlier analysis** | Extreme values analysis; Isolation forest; Clustering-based methods; Distance-based methods; Density-based methods; Outlier validity | 7-8 (2.5h) | [pdf](pdf/tt09_outlier_detection.pdf) [odp](tt09_outlier_detection.odp) |
+| **TT09 Outlier analysis** | Extreme values analysis; Isolation forest; Clustering-based methods; Distance-based methods; Density-based methods; Outlier validity | 8-9 (2h) | [pdf](pdf/tt09_outlier_detection.pdf) [odp](tt09_outlier_detection.odp) |
 |  | *Second midterm exam*: Topics TT05, TT06, TT08 | 9 (1h) |  |
 | **TT10 Streams** | Load shedding; Sampling (fixed proportion); Sampling (fixed size); Bloom filters; Probabilistic counting; Moments | 9-10 (2h) | [pdf](pdf/tt10_streams.pdf) [odp](tt10_streams.odp) |
 | **TT11 Time series mining** | Series preparation (interpolation, smoothing); Dynamic time warping; Time series forecasting; Event detection | 10-11 (2h) | [pdf](pdf/tt11_time_series.pdf) [odp](tt11_time_series.odp) |
