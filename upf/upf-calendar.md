@@ -17,4 +17,5 @@
     * <strike>16 October 2019</strike> 29 October 2019
 * Midterm EX02: theory session number 9
     * 20 November 2019
-* Final exam: to be scheduled by the school
+* Final exam: **always** check the [schedule of the school](https://www.upf.edu/web/etic/graus_tic_1t)
+    * 17 December 2019 (09:00-12:00)
