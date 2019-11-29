@@ -17,8 +17,8 @@ There are 11 theory sessions of 2 hours each. In two of the sessions, *midterm e
 |  | *Second midterm exam*: Topics TT05, TT06, TT08 | 9 (1h) |  |
 | **TT10 Streams** | Load shedding; Sampling (fixed proportion); Sampling (fixed size); Bloom filters; Probabilistic counting; Moments | 10-11 (2h) | [pdf](pdf/tt10_streams.pdf) [odp](tt10_streams.odp) |
 | **TT11 Time series mining** | Series preparation (interpolation, smoothing); Dynamic time warping; Time series forecasting; Event detection | 11 (1h) | [pdf](pdf/tt11_time_series.pdf) [odp](tt11_time_series.odp) |
-| **TT12 Spectral graph clustering** | Graph projections | 11? (1h)? | [pdf](pdf/tt12_spectral_graph_clustering.pdf) [odp](tt12_spectral_graph_clustering.odp) |
-|  | *Final exam*: Topics TT01-TT11 | Ex (2h) |  |
+| **TT12 Spectral graph clustering** | Graph projections | <strike>11? (1h)?</strike> (on your own -- not evaluated) | [pdf](pdf/tt12_spectral_graph_clustering.pdf) [odp](tt12_spectral_graph_clustering.odp) |
+|  | *Final exam*: Topics TT01-TT06, TT08-TT11 | Ex (2h) |  |
 
 Note that session numbers are approximate and subject to change.
 
