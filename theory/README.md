@@ -68,6 +68,7 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 * Presentation TT07: similarity computation beyond numerical data [odp](odp/tt07_sim_beyond_numerical.odp)/[pdf](pdf/tt07_sim_beyond_numerical.pdf)
    * Nearpod collaborate: compute Jaccard similarity
 * Presentation TT08: finding near-duplicates [odp](odp/tt08_near_duplicates.odp)/[pdf](pdf/tt08_near_duplicates.pdf)
+   * Nearpod draw it: compute signature matrix
 * Presentation TT09: locality-sensitive hashing [odp](odp/tt09_locality_sensitive_hashing.odp)/[pdf](pdf/tt09_locality_sensitive_hashing.pdf)
 
 ### After class
@@ -78,6 +79,23 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 ### Optional/additional material
 
 * :tv: Watch Jeffrey D. Ullman, a famous computer scientist and co-author of one of the books we use in the course and of this method specifically describe this near-duplicate finding method. Two 50-minutes videos: [part 1](https://www.youtube.com/watch?v=bQAYY8INBxg), [part 2](https://www.youtube.com/watch?v=MaqNlNSY4gc).
+* See presentation TT10: locality-sensitive hashing additional materials [odp](odp/tt10_locality_sensitive_hashing_additional.odp)/[pdf](pdf/tt10_locality_sensitive_hashing_additional.pdf)
+
+## Session 4: itemsets
+
+### Before class
+
+* :tv: Watch ...
+
+### During class
+
+* Presentation TT11: similarity computation beyond numerical data [odp](odp/tt07_sim_beyond_numerical.odp)/[pdf](pdf/tt07_sim_beyond_numerical.pdf)
+   * Nearpod collaborate: compute Jaccard similarity
+
+### After class
+
+* Read the rest of chapter 3 (section 3.2.2 and following) of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
+* Read [chapter 3 of Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/ch3n.pdf)
 
 # OLD MATERIAL BELOW THIS LINE
 
@@ -85,10 +103,6 @@ There are 11 theory sessions of 2 hours each. In two of the sessions, *midterm e
 
 | Topic | Contents |  Sess. (dur.) | Materials |
 |-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------|
-| **TT01 Introduction to Data Mining** | Data mining scenarios; Data types; Methods overview; Challenges overview |  1 (1.5h) | [pdf](pdf/tt01_introduction.pdf) [odp](tt01_introduction.odp) |
-| **TT02 Data preparation** | Data type conversions; Data cleaning; Sampling; Data reduction |  1-2 (1.5h) | [pdf](pdf/tt02_data_preparation.pdf) [odp](tt02_data_preparation.odp) |
-| **TT03 Similarity** | Data types and similarity; Lp norm; Distances and orientation; Local variations | 2-3 (1.5h) | [pdf](pdf/tt03_similarity.pdf) [odp](tt03_similarity.odp) |
-| **TT04 Near duplicates** | Shingling; Min-hash; Locality-sensitive hashing | 3 (1.5h) | [pdf](pdf/tt04_near_duplicates.pdf) [odp](tt04_near_duplicates.odp) |
 | **TT05 Itemsets** | Transaction and itemset; Maximal and closed itemsets; Association rules; Support, confidence, lift | 4 (2h) | [pdf](pdf/tt05_itemsets.pdf) [odp](tt05_itemsets.odp) |
 | **TT06 Association rule mining** | A priori algorithm; Interesting patterns | 5 (2h) | [pdf](pdf/tt06_association_rule_mining.pdf) [odp](tt06_association_rule_mining.odp) |
 |  | *First midterm exam*: Topics TT01-TT04 | <strike>5</strike> <strike>6</strike> 7 (1h) |  |
