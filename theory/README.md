@@ -8,7 +8,7 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 
 ### Before class
 
-* Watch this 6-minutes introduction to the [Knowledge Discovery in Databases](https://www.youtube.com/watch?v=0PDq4wYZqP0) process by Ali Soofastaei
+* :tv: Watch this 6-minutes introduction to the [Knowledge Discovery in Databases](https://www.youtube.com/watch?v=0PDq4wYZqP0) process by Ali Soofastaei
 * Take a look at the list of [theory topics](./),  [practice sessions](../practicum/README.md), and [evaluation rules](../upf/upf-evaluation.md)
 
 ### During class
@@ -22,10 +22,56 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
    * Nearpod open ended question: confidence of a rule
    * Nearpod time to climb: identify data mining tasks
 * Presentation TT03: data preparation, data types [odp](odp/tt03_data_types.odp)/[pdf](pdf/tt03_data_types.pdf)
+   * Google spreadsheet: compute binning
 
 ### After class
 
-* Read ...
+* Read chapter 1 of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
+* Read the beginning of chapter 2 (up to section 2.2 inclusive) of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
+
+### Optional/additional material
+
+* :computer: Strongly recommended to help you prepare for the practice sessions: [tutorials 1 and 2](http://www.cse.msu.edu/~ptan/dmbook/software/) of the book by Tan et al. These tutorials are an introduction to Python, which you should do unless you are very comfortable with this language, and about `numpy` and `pandas`, which will save you a ton of time in the practices.
+
+## Session 2: Data cleaning
+
+### Before class
+
+* :tv: Watch this 14-minutes video on [Cleaning Data](https://www.youtube.com/watch?v=zVImIQuqjQ0) by Mike Pound; his examples use R but the same can be done in many languages.
+* :tv: Watch this 5-minutes video on [Cleaning Data with Python and Pandas](https://www.youtube.com/watch?v=ZOX18HfLHGQ); the video ends with an advert for an online course that I do not endorse.
+
+### During class
+
+* Presentation TT04: data integration and cleaning [odp](odp/tt04_integration_cleaning.odp)/[pdf](pdf/tt04_integration_cleaning.pdf)
+   * Nearpod collaborate: how to handle missing data
+* Presentation TT05: data reduction and transformation [odp](odp/tt05_reduction.odp)/[pdf](pdf/tt05_reduction.pdf)
+* Presentation TT06: similarity computation on numerical data [odp](odp/tt06_sim_numerical.odp)/[pdf](pdf/tt06_sim_numerical.pdf)
+   * Nearpod collaborate: compute Lp norm
+
+### After class
+
+* Read the rest of chapter 2 (sections 2.3 and following) of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
+* Read the beginning of chapter 3 (up to section 3.2.1) of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
+
+### Optional/additional material
+
+* :computer: [Tutorials 3 and 4](http://www.cse.msu.edu/~ptan/dmbook/software/) of the book by Tan et al. cover issues of data exploration and data pre-processing. The latter is quite similar to our first practice session, but uses a different dataset.
+
+## Session 3: Near duplicates
+
+### Before class
+
+* :tv:
+
+### During class
+
+* Presentation TT07: similarity computation beyond numerical data [odp](odp/tt07_sim_beyond_numerical.odp)/[pdf](pdf/tt07_sim_beyond_numerical.pdf)
+* Presentation TT08: finding near-duplicates [odp](odp/tt08_near_duplicates.odp)/[pdf](pdf/tt08_near_duplicates.pdf)
+* Presentation TT09: locality-sensitive hashing [odp](odp/tt09_locality_sensitive_hashing.odp)/[pdf](pdf/tt09_locality_sensitive_hashing.pdf)
+
+### After class
+
+* Read the rest of chapter 3 (section 3.2.2 and following) of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
 
 # OLD MATERIAL BELOW THIS LINE
 
