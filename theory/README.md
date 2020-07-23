@@ -81,7 +81,7 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 * :tv: Watch Jeffrey D. Ullman, a famous computer scientist and co-author of one of the books we use in the course and of this method specifically describe this near-duplicate finding method. Two 50-minutes videos: [part 1](https://www.youtube.com/watch?v=bQAYY8INBxg), [part 2](https://www.youtube.com/watch?v=MaqNlNSY4gc).
 * See presentation TT10: locality-sensitive hashing additional materials [odp](odp/tt10_locality_sensitive_hashing_additional.odp)/[pdf](pdf/tt10_locality_sensitive_hashing_additional.pdf)
 
-## Session 4: itemsets
+## Session 4: Itemsets
 
 ### Before class
 
@@ -89,13 +89,22 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 
 ### During class
 
-* Presentation TT11: similarity computation beyond numerical data [odp](odp/tt07_sim_beyond_numerical.odp)/[pdf](pdf/tt07_sim_beyond_numerical.pdf)
-   * Nearpod collaborate: compute Jaccard similarity
+* Presentation TT11: itemsets [odp](odp/tt011_itemsets.odp)/[pdf](pdf/tt11_itemsets.pdf)
+   * Google spreadsheet: compute itemset support
+   * Nearpod collaborate: compute maximal itemsets
+* Presentation TT12: association rules [odp](odp/tt012_association_rules.odp)/[pdf](pdf/tt12_association_rules.pdf)
+   * Nearpod draw-it: compute support, confidence, and lift of a rule
 
 ### After class
 
 * Read the rest of chapter 3 (section 3.2.2 and following) of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
 * Read [chapter 3 of Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/ch3n.pdf)
+* Read [section 6.1 of Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/ch6.pdf)
+   * Or read section 4.1 of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
+
+## Session 5: Association rules mining
+
+## Session 6: Mid-term exam
 
 # OLD MATERIAL BELOW THIS LINE
 
@@ -103,7 +112,6 @@ There are 11 theory sessions of 2 hours each. In two of the sessions, *midterm e
 
 | Topic | Contents |  Sess. (dur.) | Materials |
 |-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------|
-| **TT05 Itemsets** | Transaction and itemset; Maximal and closed itemsets; Association rules; Support, confidence, lift | 4 (2h) | [pdf](pdf/tt05_itemsets.pdf) [odp](tt05_itemsets.odp) |
 | **TT06 Association rule mining** | A priori algorithm; Interesting patterns | 5 (2h) | [pdf](pdf/tt06_association_rule_mining.pdf) [odp](tt06_association_rule_mining.odp) |
 |  | *First midterm exam*: Topics TT01-TT04 | <strike>5</strike> <strike>6</strike> 7 (1h) |  |
 | **TT07 Extending association analysis** | Interestingness measures; Categorical and continuous attributes; Min-Apriori; Mining rules on a hierarchy | <strike>6</strike> (on your own -- not evaluated) | [pdf](pdf/tt07_extending_association_analysis.pdf) [odp](tt07_extending_association_analysis.odp) |
