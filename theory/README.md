@@ -61,17 +61,23 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 
 ### Before class
 
-* :tv:
+* :tv: Watch this 37-minutes video by Ben Langmead on [Jaccard coefficient and min-hashing](https://www.youtube.com/watch?v=aTwRpqUnQX8)
 
 ### During class
 
 * Presentation TT07: similarity computation beyond numerical data [odp](odp/tt07_sim_beyond_numerical.odp)/[pdf](pdf/tt07_sim_beyond_numerical.pdf)
+   * Nearpod collaborate: compute Jaccard similarity
 * Presentation TT08: finding near-duplicates [odp](odp/tt08_near_duplicates.odp)/[pdf](pdf/tt08_near_duplicates.pdf)
 * Presentation TT09: locality-sensitive hashing [odp](odp/tt09_locality_sensitive_hashing.odp)/[pdf](pdf/tt09_locality_sensitive_hashing.pdf)
 
 ### After class
 
 * Read the rest of chapter 3 (section 3.2.2 and following) of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
+* Read [chapter 3 of Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/ch3n.pdf)
+
+### Optional/additional material
+
+* :tv: Watch Jeffrey D. Ullman, a famous computer scientist and co-author of one of the books we use in the course and of this method specifically describe this near-duplicate finding method. Two 50-minutes videos: [part 1](https://www.youtube.com/watch?v=bQAYY8INBxg), [part 2](https://www.youtube.com/watch?v=MaqNlNSY4gc).
 
 # OLD MATERIAL BELOW THIS LINE
 
