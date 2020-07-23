@@ -1,5 +1,34 @@
 # List of theory topics
 
+:construction: I am currently (July-August 2020) adapting these contents for the 2020 edition.
+
+There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm exam* will be taken.
+
+## Session 1: Introduction
+
+### Before class
+
+* Watch this 6-minutes introduction to the [Knowledge Discovery in Databases](https://www.youtube.com/watch?v=0PDq4wYZqP0) process by Ali Soofastaei
+* Take a look at the list of [theory topics](./),  [practice sessions](../practicum/README.md), and [evaluation rules](../upf/upf-evaluation.md)
+
+### During class
+
+* Presentation TT01: introduction [odp](odp/tt01_introduction.odp)/[pdf](pdf/tt01_introduction.pdf)
+* Course overview
+   * Overview of [theory topics](./)
+   * Overview of [practice sessions](../practicum/README.md)
+   * Overview of [evaluation rules](../upf/upf-evaluation.md)
+* Presentation TT02: data, methods, and scenarios [odp](odp/tt02_data_methods_scenarios.odp)/[pdf](pdf/tt02_data_methods_scenarios.pdf)
+   * Nearpod open ended question: confidence of a rule
+   * Nearpod time to climb: identify data mining tasks
+* Presentation TT03: data preparation, data types [odp](odp/tt03_data_types.odp)/[pdf](pdf/tt03_data_types.pdf)
+
+### After class
+
+* Read ...
+
+# OLD MATERIAL BELOW THIS LINE
+
 There are 11 theory sessions of 2 hours each. In two of the sessions, *midterm exams* will be taken.
 
 | Topic | Contents |  Sess. (dur.) | Materials |
@@ -31,5 +60,7 @@ Note that session numbers are approximate and subject to change.
 :ledger: [Mining of Massive Datasets SECOND EDITION](https://www.cambridge.org/core/books/mining-of-massive-datasets/C1B37BA2CBB8361B94FDD1C6F4E47922) (2014) by Leskovec et al. ISBN 978-1107077232. Online materials: [http://www.mmds.org/](http://www.mmds.org/). [Free Download](http://infolab.stanford.edu/~ullman/mmds/bookL.pdf)
 
 :orange_book: [Introduction to Data Mining SECOND EDITION](https://www.pearson.com/us/higher-education/program/Tan-Introduction-to-Data-Mining-2nd-Edition/PGM214749.html) (2019) by Tan et al. ISBN 978-0-13-312890-1. Online materials: [https://www-users.cs.umn.edu/~kumar001/dmbook/index.php](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
+
+:blue_book: [Data Mining and Machine Learning SECOND EDITION](https://dataminingbook.info/book_html/) (2020) by Zaki and Meira. ISBN 978-1108473989.
 
 :notebook: [Data Mining Concepts and Techniques THIRD EDITION](https://www.elsevier.com/books/data-mining-concepts-and-techniques/han/978-0-12-381479-1) (2011) by Han et al. ISBN 978-0123814791.
