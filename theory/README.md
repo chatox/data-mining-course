@@ -85,7 +85,7 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 
 ### Before class
 
-* :tv: Watch ...
+* :tv: Watch the first 8 minutes of an [explanation of the Apriori algorithm](https://www.youtube.com/watch?v=WGlMlS_Yydk), for an explanation of the concepts of itemsets, support, confidence, and lift.
 
 ### During class
 
@@ -100,11 +100,49 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 * Read the rest of chapter 3 (section 3.2.2 and following) of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
 * Read [chapter 3 of Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/ch3n.pdf)
 * Read [section 6.1 of Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/ch6.pdf)
-   * Or read section 4.1 of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
+   * **Or** read section 4.1 of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
 
 ## Session 5: Association rules mining
 
+### Before class
+
+* :tv: Watch the rest of the [explanation of the Apriori algorithm](https://youtu.be/WGlMlS_Yydk?t=478), starting at mark 07:58.
+
+### During class
+
+* Presentation TT13: association rules mining [odp](odp/tt013_association_rules_mining.odp)/[pdf](pdf/tt13_association_rules_mining.pdf)
+   * Nearpod draw-it: prove confidence monotonicity
+   * Google spreadsheet: execute Apriori algorithm
+* Presentation TT14: speeding up association rules mining [odp](odp/tt014_improved_rules_mining.odp)/[pdf](pdf/tt14_improved_rules_mining.pdf)
+   * Nearpod draw-it: indicate which items are visited in a hash tree
+
+### After class
+
+* Read [section 6.2 of Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/ch6.pdf)
+   * **Or** read section 4.2-4.4 of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
+
+### Optional/additional material
+
+* See presentation TT15: extending association analysis [odp](odp/tt015_extended_association_analysis.odp)/[pdf](pdf/tt15_extended_association_analysis.pdf)
+* If you did not understand well the hash tree, watch these four videos (18 minutes in total) from the J. Academy: [support counting using hash tree (part 1)](https://www.youtube.com/watch?v=qPIp3Wq64Vs), [support counting using hash tree (part 2)](https://www.youtube.com/watch?v=AIqOQA5mnGA), [hash tree generation step by step](https://www.youtube.com/watch?v=btW-uU1dhWI), [hash tree and support counting](https://www.youtube.com/watch?v=d040C7c06e4); if you find this easy to follow check their entire [playlist on association rules mining](https://www.youtube.com/playlist?list=PLk6n8LK7VfVg8r39BtrJUBrjyShlZ0nqt).
+
 ## Session 6: Mid-term exam
+
+### Before class
+
+Study on your own TT01-TT09, TT11-TT14, try to solve exams from past years. Ask your questions in the forum.
+
+### During class
+
+We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
+
+## Session 7: Recommender systems
+
+## Session 8: Outlier analysis
+
+## Session 9: Data streams
+
+## Session 10: Time series mining
 
 # OLD MATERIAL BELOW THIS LINE
 
@@ -112,9 +150,6 @@ There are 11 theory sessions of 2 hours each. In two of the sessions, *midterm e
 
 | Topic | Contents |  Sess. (dur.) | Materials |
 |-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------|
-| **TT06 Association rule mining** | A priori algorithm; Interesting patterns | 5 (2h) | [pdf](pdf/tt06_association_rule_mining.pdf) [odp](tt06_association_rule_mining.odp) |
-|  | *First midterm exam*: Topics TT01-TT04 | <strike>5</strike> <strike>6</strike> 7 (1h) |  |
-| **TT07 Extending association analysis** | Interestingness measures; Categorical and continuous attributes; Min-Apriori; Mining rules on a hierarchy | <strike>6</strike> (on your own -- not evaluated) | [pdf](pdf/tt07_extending_association_analysis.pdf) [odp](tt07_extending_association_analysis.odp) |
 | **TT08 Recommender systems** | Content-based recommendations; Interaction-based recommendations (user-based, item-based); Latent factors methods; Evaluation | 7-8 (2h) | [pdf](pdf/tt08_recommender_systems.pdf) [odp](tt08_recommender_systems.odp) |
 | **TT09 Outlier analysis** | Extreme values analysis; Isolation forest; Clustering-based methods; Distance-based methods; Density-based methods; Outlier validity | 9-10 (2h) | [pdf](pdf/tt09_outlier_detection.pdf) [odp](tt09_outlier_detection.odp) |
 |  | *Second midterm exam*: Topics TT05, TT06, TT08 | 9 (1h) |  |
