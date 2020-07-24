@@ -52,6 +52,7 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 
 * Read the rest of chapter 2 (sections 2.3 and following) of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
 * Read the beginning of chapter 3 (up to section 3.2.1) of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
+* :tv: If the concept of *dimensionality reduction* still sounds pretty alien to you, watch this 12-minutes lecture on [dimensionality reduction](https://www.youtube.com/watch?v=yLdOS6xyM_Q) by Jure Leskovec
 
 ### Optional/additional material
 
@@ -138,7 +139,37 @@ We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
 
 ## Session 7: Recommender systems
 
-## Session 8: Outlier analysis
+### Before class
+
+* :tv: Watch the 6-minutes [introduction to recommender systems](https://www.youtube.com/watch?v=U-yq3I9QugQ)
+* :tv: Watch the 17-minutes [introductory lecture to recommender systems](https://www.youtube.com/watch?v=1JRrCEgiyHM) by Anand Rajaraman
+
+### During class
+
+* Presentation TT16: recommender systems [odp](odp/tt016_recommender_systems.odp)/[pdf](pdf/tt16_recommender_systems.pdf)
+   * ...
+* Presentation TT17: interaction-based recommender systems [odp](odp/tt017_interaction_based_recommenders.odp)/[pdf](pdf/tt17_interaction_based_recommenders.pdf)
+   * ...
+
+### After class
+
+* Read [sections 9.1-9.3 of Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
+* :tv: Watch the two 21-minutes lectures on [content-based recommender systems](https://www.youtube.com/watch?v=2uxXPzm-7FY) and [collaborative filtering](https://www.youtube.com/watch?v=h9gpufJFF-0) by Anand Rajaraman
+
+## Session 8: Recommender systems (cont.) + Outlier analysis
+
+### Before class
+
+* :tv: ...
+
+### During class
+
+* Presentation TT18: latent-factors based recommender systems and evaluation [odp](odp/tt018_latent_factors_recommenders.odp)/[pdf](pdf/tt18_latent_factors_recommenders.pdf)
+* ...
+
+### After class
+
+* Read [sections 9.4-9.5 of Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
 
 ## Session 9: Data streams
 
