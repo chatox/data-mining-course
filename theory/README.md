@@ -2,7 +2,7 @@
 
 :construction: I am currently (July-August 2020) adapting these contents for the 2020 edition.
 
-There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm exam* will be taken.
+There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm exam* will be taken. At the end of the course, a *final exam* will be taken. Exam questions are based only on the materials shown or discussed in the lectures during class -- all other videos and readings are optional.
 
 ## Session 1: Introduction
 
@@ -13,15 +13,15 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 
 ### During class
 
-* Presentation TT01: introduction [odp](odp/tt01_introduction.odp)/[pdf](pdf/tt01_introduction.pdf)
+* Lecture TT01: introduction [odp](odp/tt01_introduction.odp)/[pdf](pdf/tt01_introduction.pdf)
 * Course overview
    * Overview of [theory topics](./)
    * Overview of [practice sessions](../practicum/README.md)
    * Overview of [evaluation rules](../upf/upf-evaluation.md)
-* Presentation TT02: data, methods, and scenarios [odp](odp/tt02_data_methods_scenarios.odp)/[pdf](pdf/tt02_data_methods_scenarios.pdf)
+* Lecture TT02: data, methods, and scenarios [odp](odp/tt02_data_methods_scenarios.odp)/[pdf](pdf/tt02_data_methods_scenarios.pdf)
    * Nearpod open ended question: confidence of a rule
    * Nearpod time to climb: identify data mining tasks
-* Presentation TT03: data preparation, data types [odp](odp/tt03_data_types.odp)/[pdf](pdf/tt03_data_types.pdf)
+* Lecture TT03: data preparation, data types [odp](odp/tt03_data_types.odp)/[pdf](pdf/tt03_data_types.pdf)
    * Google spreadsheet: compute binning
 
 ### After class
@@ -42,10 +42,10 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 
 ### During class
 
-* Presentation TT04: data integration and cleaning [odp](odp/tt04_integration_cleaning.odp)/[pdf](pdf/tt04_integration_cleaning.pdf)
+* Lecture TT04: data integration and cleaning [odp](odp/tt04_integration_cleaning.odp)/[pdf](pdf/tt04_integration_cleaning.pdf)
    * Nearpod collaborate: how to handle missing data
-* Presentation TT05: data reduction and transformation [odp](odp/tt05_reduction.odp)/[pdf](pdf/tt05_reduction.pdf)
-* Presentation TT06: similarity computation on numerical data [odp](odp/tt06_sim_numerical.odp)/[pdf](pdf/tt06_sim_numerical.pdf)
+* Lecture TT05: data reduction and transformation [odp](odp/tt05_reduction.odp)/[pdf](pdf/tt05_reduction.pdf)
+* Lecture TT06: similarity computation on numerical data [odp](odp/tt06_sim_numerical.odp)/[pdf](pdf/tt06_sim_numerical.pdf)
    * Nearpod collaborate: compute Lp norm
 
 ### After class
@@ -66,11 +66,11 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 
 ### During class
 
-* Presentation TT07: similarity computation beyond numerical data [odp](odp/tt07_sim_beyond_numerical.odp)/[pdf](pdf/tt07_sim_beyond_numerical.pdf)
+* Lecture TT07: similarity computation beyond numerical data [odp](odp/tt07_sim_beyond_numerical.odp)/[pdf](pdf/tt07_sim_beyond_numerical.pdf)
    * Nearpod collaborate: compute Jaccard similarity
-* Presentation TT08: finding near-duplicates [odp](odp/tt08_near_duplicates.odp)/[pdf](pdf/tt08_near_duplicates.pdf)
+* Lecture TT08: finding near-duplicates [odp](odp/tt08_near_duplicates.odp)/[pdf](pdf/tt08_near_duplicates.pdf)
    * Nearpod draw it: compute signature matrix
-* Presentation TT09: locality-sensitive hashing [odp](odp/tt09_locality_sensitive_hashing.odp)/[pdf](pdf/tt09_locality_sensitive_hashing.pdf)
+* Lecture TT09: locality-sensitive hashing [odp](odp/tt09_locality_sensitive_hashing.odp)/[pdf](pdf/tt09_locality_sensitive_hashing.pdf)
 
 ### After class
 
@@ -90,10 +90,10 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 
 ### During class
 
-* Presentation TT11: itemsets [odp](odp/tt011_itemsets.odp)/[pdf](pdf/tt11_itemsets.pdf)
+* Lecture TT11: itemsets [odp](odp/tt011_itemsets.odp)/[pdf](pdf/tt11_itemsets.pdf)
    * Google spreadsheet: compute itemset support
    * Nearpod collaborate: compute maximal itemsets
-* Presentation TT12: association rules [odp](odp/tt012_association_rules.odp)/[pdf](pdf/tt12_association_rules.pdf)
+* Lecture TT12: association rules [odp](odp/tt012_association_rules.odp)/[pdf](pdf/tt12_association_rules.pdf)
    * Nearpod draw-it: compute support, confidence, and lift of a rule
 
 ### After class
@@ -111,10 +111,10 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 
 ### During class
 
-* Presentation TT13: association rules mining [odp](odp/tt013_association_rules_mining.odp)/[pdf](pdf/tt13_association_rules_mining.pdf)
+* Lecture TT13: association rules mining [odp](odp/tt013_association_rules_mining.odp)/[pdf](pdf/tt13_association_rules_mining.pdf)
    * Nearpod draw-it: prove confidence monotonicity
    * Google spreadsheet: execute Apriori algorithm
-* Presentation TT14: speeding up association rules mining [odp](odp/tt014_improved_rules_mining.odp)/[pdf](pdf/tt14_improved_rules_mining.pdf)
+* Lecture TT14: speeding up association rules mining [odp](odp/tt014_improved_rules_mining.odp)/[pdf](pdf/tt14_improved_rules_mining.pdf)
    * Nearpod draw-it: indicate which items are visited in a hash tree
 
 ### After class
@@ -146,9 +146,9 @@ We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
 
 ### During class
 
-* Presentation TT16: recommender systems [odp](odp/tt016_recommender_systems.odp)/[pdf](pdf/tt16_recommender_systems.pdf)
+* Lecture TT16: recommender systems [odp](odp/tt016_recommender_systems.odp)/[pdf](pdf/tt16_recommender_systems.pdf)
    * ...
-* Presentation TT17: interaction-based recommender systems [odp](odp/tt017_interaction_based_recommenders.odp)/[pdf](pdf/tt17_interaction_based_recommenders.pdf)
+* Lecture TT17: interaction-based recommender systems [odp](odp/tt017_interaction_based_recommenders.odp)/[pdf](pdf/tt17_interaction_based_recommenders.pdf)
    * ...
 
 ### After class
