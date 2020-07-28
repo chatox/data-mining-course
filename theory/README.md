@@ -147,9 +147,10 @@ We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
 ### During class
 
 * Lecture TT16: recommender systems [odp](odp/tt016_recommender_systems.odp)/[pdf](pdf/tt16_recommender_systems.pdf)
-   * ...
+   * Google spreadsheet: content-based single-user recommendations
 * Lecture TT17: interaction-based recommender systems [odp](odp/tt017_interaction_based_recommenders.odp)/[pdf](pdf/tt17_interaction_based_recommenders.pdf)
-   * ...
+   * Google spreadsheet: recommender based on user similarity
+* Lecture TT18: latent-factors based recommender systems [odp](odp/tt018_latent_factors_recommenders.odp)/[pdf](pdf/tt17_interaction_based_recommenders.pdf)
 
 ### After class
 
