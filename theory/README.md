@@ -90,10 +90,10 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 
 ### During class
 
-* Lecture TT11: itemsets [odp](odp/tt011_itemsets.odp)/[pdf](pdf/tt11_itemsets.pdf)
+* Lecture TT11: itemsets [odp](odp/tt11_itemsets.odp)/[pdf](pdf/tt11_itemsets.pdf)
    * Google spreadsheet: compute itemset support
    * Nearpod collaborate: compute maximal itemsets
-* Lecture TT12: association rules [odp](odp/tt012_association_rules.odp)/[pdf](pdf/tt12_association_rules.pdf)
+* Lecture TT12: association rules [odp](odp/tt12_association_rules.odp)/[pdf](pdf/tt12_association_rules.pdf)
    * Nearpod draw-it: compute support, confidence, and lift of a rule
 
 ### After class
@@ -111,10 +111,10 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 
 ### During class
 
-* Lecture TT13: association rules mining [odp](odp/tt013_association_rules_mining.odp)/[pdf](pdf/tt13_association_rules_mining.pdf)
+* Lecture TT13: association rules mining [odp](odp/tt13_association_rules_mining.odp)/[pdf](pdf/tt13_association_rules_mining.pdf)
    * Nearpod draw-it: prove confidence monotonicity
    * Google spreadsheet: execute Apriori algorithm
-* Lecture TT14: speeding up association rules mining [odp](odp/tt014_improved_rules_mining.odp)/[pdf](pdf/tt14_improved_rules_mining.pdf)
+* Lecture TT14: speeding up association rules mining [odp](odp/tt14_improved_rules_mining.odp)/[pdf](pdf/tt14_improved_rules_mining.pdf)
    * Nearpod draw-it: indicate which items are visited in a hash tree
 
 ### After class
@@ -146,11 +146,10 @@ We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
 
 ### During class
 
-* Lecture TT16: recommender systems [odp](odp/tt016_recommender_systems.odp)/[pdf](pdf/tt16_recommender_systems.pdf)
+* Lecture TT16: recommender systems [odp](odp/tt16_recommender_systems.odp)/[pdf](pdf/tt16_recommender_systems.pdf)
    * Google spreadsheet: content-based single-user recommendations
-* Lecture TT17: interaction-based recommender systems [odp](odp/tt017_interaction_based_recommenders.odp)/[pdf](pdf/tt17_interaction_based_recommenders.pdf)
+* Lecture TT17: interaction-based recommender systems [odp](odp/tt17_interaction_based_recommenders.odp)/[pdf](pdf/tt17_interaction_based_recommenders.pdf)
    * Google spreadsheet: recommender based on user similarity
-* Lecture TT18: latent-factors based recommender systems [odp](odp/tt018_latent_factors_recommenders.odp)/[pdf](pdf/tt17_interaction_based_recommenders.pdf)
 
 ### After class
 
@@ -161,16 +160,22 @@ We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
 
 ### Before class
 
-* :tv: ...
+* :tv: Watch the 8-minutes video [how recommender systems work](https://www.youtube.com/watch?v=n3RKsY2H-NE) by Art of the Problem, which describes a factorization-based method
+* :tv: Watch the 7-minutes video [outlier analysis](https://www.youtube.com/watch?v=R_XKJ_l1jBc) by Gourab Nath, discussing why outliers occur
 
 ### During class
 
-* Presentation TT18: latent-factors based recommender systems and evaluation [odp](odp/tt018_latent_factors_recommenders.odp)/[pdf](pdf/tt18_latent_factors_recommenders.pdf)
-* ...
+* Lecture TT18: latent-factors based recommender systems [odp](odp/tt18_latent_factors_recommenders.odp)/[pdf](pdf/tt18_latent_factors_recommenders.pdf)
+* Lecture TT19: outliers introduction and extreme value analysis [odp](odp/tt19_outliers_extreme_values.odp)/[pdf](pdf/tt19_outliers_extreme_values.pdf)
+   * Google spreadsheet: outliers using z-score
+* Lecture TT20: probability and density-based methods [odp](odp/tt20_outliers_probability_density.odp)/[pdf](pdf/tt20_outliers_probability_density.pdf)
+* Lecture TT21: isolation and distance-based methods [odp](odp/tt21_outliers_isolation.odp)/[pdf](pdf/tt21_outliers_isolation.pdf)
+   * Nearpod draw-it: isolation forest example
 
 ### After class
 
 * Read [sections 9.4-9.5 of Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
+* Read chapter 8 of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
 
 ## Session 9: Data streams
 
