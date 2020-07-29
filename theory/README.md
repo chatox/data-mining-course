@@ -160,15 +160,16 @@ We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
 
 ### Before class
 
-* :tv: Watch the 8-minutes presentation on [how recommender systems work](https://www.youtube.com/watch?v=n3RKsY2H-NE) by Art of the Problem, which describes a factorization-based method
 * :tv: Watch the 7-minutes lecture on [outlier analysis](https://www.youtube.com/watch?v=R_XKJ_l1jBc) by Gourab Nath, discussing why outliers occur
 
 ### During class
 
+* :tv: We will watch this 8-minutes presentation on [how recommender systems work](https://www.youtube.com/watch?v=n3RKsY2H-NE) by Art of the Problem, which describes a factorization-based (latent-factors based) method
 * Lecture TT18: latent-factors based recommender systems [odp](odp/tt18_latent_factors_recommenders.odp)/[pdf](pdf/tt18_latent_factors_recommenders.pdf)
 * Lecture TT19: outliers introduction and extreme value analysis [odp](odp/tt19_outliers_extreme_values.odp)/[pdf](pdf/tt19_outliers_extreme_values.pdf)
    * Google spreadsheet: outliers using z-score
 * Lecture TT20: probability and density-based methods [odp](odp/tt20_outliers_probability_density.odp)/[pdf](pdf/tt20_outliers_probability_density.pdf)
+   * Google spreadsheet: clustering-based outlier detection
 
 ### After class
 
@@ -193,39 +194,57 @@ We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
 
 ## After class
 
-* Read section except 8.5 of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
+* Read [sections 4.1 and 4.2 of Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/ch4.pdf)
+* Read section 8.5 of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
 
 ## Optional/additional material
 
 * Read the original ICDM 2008 [paper on isolation forests](https://scholar.google.com/scholar?cluster=11545522615192696786&hl=en&as_sdt=0,5) -- do not worry if you cannot follow all the details
-* See presentation TT26: moments estimation [odp](odp/tt26_estimating_moments.odp)/[pdf](pdf/tt26_estimating_moments.pdf)
 
 ## Session 10: Streams (cont.) + Time series mining
 
 ### Before class
+
 * :tv: Watch this 3-minutes quick presentation on [bloom filters](https://www.youtube.com/watch?v=-SuTGoFYjZs) by Cube Drone
 
-### During class 
+### During class
 
 * Lecture TT24: bloom filters [odp](odp/tt24_bloom_filters.odp)/[pdf](pdf/tt24_bloom_filters.pdf)
    * :tv: We will watch this 6-minutes [animation on Bloom Filters](https://www.youtube.com/watch?v=kfFacplFY4Y)
-*
+* Lecture TT25: probabilistic counting [odp](odp/tt25_probabilistic_counting.odp)/[pdf](pdf/tt25_probabilistic_counting.pdf)
+   * Nearpod open-ended question: ideas for simple probabilistic counting
+* Lecture TT27: time series [odp](odp/tt27_time_series.odp)/[pdf](pdf/tt27_time_series.pdf)
+   * Google spreadsheet: smooth a time series
 
-## Session 11: Spectral Clustering
+### After class
 
-# OLD MATERIAL BELOW THIS LINE
+* Read [sections 4.3 and 4.4 of Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/ch4.pdf)
+* Read sections 14.1 and 14.2 of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
 
-There are 11 theory sessions of 2 hours each. In two of the sessions, *midterm exams* will be taken.
+### Optional/additional material
 
-| Topic | Contents |  Sess. (dur.) | Materials |
-|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------|
-| **TT08 Recommender systems** | Content-based recommendations; Interaction-based recommendations (user-based, item-based); Latent factors methods; Evaluation | 7-8 (2h) | [pdf](pdf/tt08_recommender_systems.pdf) [odp](tt08_recommender_systems.odp) |
-| **TT09 Outlier analysis** | Extreme values analysis; Isolation forest; Clustering-based methods; Distance-based methods; Density-based methods; Outlier validity | 9-10 (2h) | [pdf](pdf/tt09_outlier_detection.pdf) [odp](tt09_outlier_detection.odp) |
-|  | *Second midterm exam*: Topics TT05, TT06, TT08 | 9 (1h) |  |
-| **TT10 Streams** | Load shedding; Sampling (fixed proportion); Sampling (fixed size); Bloom filters; Probabilistic counting; Moments | 10-11 (2h) | [pdf](pdf/tt10_streams.pdf) [odp](tt10_streams.odp) |
-| **TT11 Time series mining** | Series preparation (interpolation, smoothing); Dynamic time warping; Time series forecasting; Event detection | 11 (1h) | [pdf](pdf/tt11_time_series.pdf) [odp](tt11_time_series.odp) |
-| **TT12 Spectral graph clustering** | Graph projections | <strike>11? (1h)?</strike> (on your own -- not evaluated) | [pdf](pdf/tt12_spectral_graph_clustering.pdf) [odp](tt12_spectral_graph_clustering.odp) |
-|  | *Final exam*: Topics TT01-TT06, TT08-TT11 | Ex (2h) |  |
+* See presentation TT26: moments estimation [odp](odp/tt26_estimating_moments.odp)/[pdf](pdf/tt26_estimating_moments.pdf)
+
+## Session 11: Time series mining (cont.)
+
+### Before class
+
+* :tv: Watch this 7-minutes talk on the [moving average model](https://www.youtube.com/watch?v=voryLhxiPzE) and this 9-minutes talk on the [autoregressive model](https://www.youtube.com/watch?v=5-2C4eO4cPQ).
+
+### During class
+
+* Lecture TT28: time series similarity [odp](odp/tt28_time_series_similarity.odp)/[pdf](pdf/tt28_time_series_similarity.pdf)
+   *
+* Lecture TT29: time series forecasting [odp](odp/tt29_forecasting.odp)/[pdf](pdf/tt29_forecasting.pdf)
+   *
+
+### After class
+
+* Read section 14.3 of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
+
+### Optional/additional material
+
+* See presentation TT30: spectral graph clustering [odp](odp/tt30_spectral_graph_clustering.odp)/[pdf](pdf/tt30_spectral_graph_clustering.pdf)
 
 Note that session numbers are approximate and subject to change.
 
