@@ -1,8 +1,14 @@
 # List of theory topics
 
-:construction: I am currently (July-August 2020) adapting these contents for the 2020 edition.
+:construction: These materials should not be considered final until the end of the course. Materials from previous editions can be found in other branches of the repository for the course.
 
-There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm exam* will be taken. At the end of the course, a *final exam* will be taken. Exam questions are based only on the materials shown or discussed in the lectures during class -- all other videos and readings are optional.
+There are 11 theory sessions of 2 hours each. They will all take place remotely.
+
+**Before each class, there are short videos you should watch.** They are up to 20 minutes in total, and watching them requires some preparation/scheduling on your part. Please set aside time in your schedule to watch these videos before coming to class, ideally on the day before.
+
+**During class,** I will present the contents using slides and we will do together some exercises using Nearpod or Google Spreadsheets. Please avoid distractions: place your phone in airplane mode, close all other windows in your computer, and try to stay focused. We will pause frequently during the session to help you regain focus. In one of the sessions, a *midterm exam* will be taken, and at the end of the course, a *final exam* will be taken. The exam questions are based exclusively on the materials shown or discussed in the lectures during class.
+
+**After each session, there is some reading for you to do.** These readings will be much easier after you have attended each lecture, will bring depth to what you learn in class, and will help you remember these contents better. Think of these readings as a form of continuous studying that will save you time and effort when preparing for the exams.
 
 ## Session 1: Introduction
 
@@ -62,7 +68,7 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 
 ### Before class
 
-* :tv: Watch this 37-minutes lecture by Ben Langmead on [Jaccard coefficient and min-hashing](https://www.youtube.com/watch?v=aTwRpqUnQX8)
+* :tv: Watch this 3-minutes video on [Jaccard similarity](https://www.youtube.com/watch?v=Ah_4xqvS1WU) by Victor Axelsson
 
 ### During class
 
@@ -79,6 +85,7 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 
 ### Optional/additional material
 
+* :tv: Watch this 37-minutes lecture by Ben Langmead on [Jaccard coefficient and min-hashing](https://www.youtube.com/watch?v=aTwRpqUnQX8)
 * :tv: Watch Jeffrey D. Ullman, a famous computer scientist and co-author of one of the books we use in the course and of this method specifically describe this near-duplicate finding method. Two 50-minutes videos: [part 1](https://www.youtube.com/watch?v=bQAYY8INBxg), [part 2](https://www.youtube.com/watch?v=MaqNlNSY4gc).
 * See presentation TT10: locality-sensitive hashing additional materials [odp](odp/tt10_locality_sensitive_hashing_additional.odp)/[pdf](pdf/tt10_locality_sensitive_hashing_additional.pdf)
 
@@ -234,9 +241,9 @@ We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
 ### During class
 
 * Lecture TT28: time series similarity [odp](odp/tt28_time_series_similarity.odp)/[pdf](pdf/tt28_time_series_similarity.pdf)
-   *
+   * Google spreadsheet: dynamic time warping
 * Lecture TT29: time series forecasting [odp](odp/tt29_forecasting.odp)/[pdf](pdf/tt29_forecasting.pdf)
-   *
+   * Google spreadsheet: simple auto-regressive model
 
 ### After class
 
