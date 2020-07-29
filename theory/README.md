@@ -181,16 +181,15 @@ We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
 
 * :tv: Watch this 14-minutes talk and demo on [isolation forests in Python](https://www.youtube.com/watch?v=TP3wdwD8JVY)
 * :tv: Watch this 4-minutes animation on [reservoir sampling](https://www.youtube.com/watch?v=A1iwzSew5QY) by Eric Laber
-* :tv: Watch this 3-minutes quick presentation on [bloom filters](https://www.youtube.com/watch?v=-SuTGoFYjZs) by Cube Drone
 
 ## During class
 
 * Lecture TT21: isolation and distance-based methods [odp](odp/tt21_outliers_isolation.odp)/[pdf](pdf/tt21_outliers_isolation.pdf)
    * Nearpod draw-it: isolation forest example
 * Lecture TT22: data streams [odp](odp/tt22_streams.odp)/[pdf](pdf/tt22_streams.pdf)
+   * Nearpod collaborate: probability of a false positive or a false negative
 * Lecture TT23: reservoir sampling [odp](odp/tt23_reservoir_sampling.odp)/[pdf](pdf/tt23_reservoir_sampling.pdf)
-* Lecture TT24: bloom filters [odp](odp/tt24_bloom_filters.odp)/[pdf](pdf/tt24_bloom_filters.pdf)
-* Lecture TT25: probabilistic counting [odp](odp/tt25_probabilistic_counting.odp)/[pdf](pdf/tt25_probabilistic_counting.pdf)
+   * Nearpod open-ended question: probabilities in a reservoir sample
 
 ## After class
 
@@ -201,7 +200,16 @@ We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
 * Read the original ICDM 2008 [paper on isolation forests](https://scholar.google.com/scholar?cluster=11545522615192696786&hl=en&as_sdt=0,5) -- do not worry if you cannot follow all the details
 * See presentation TT26: moments estimation [odp](odp/tt26_estimating_moments.odp)/[pdf](pdf/tt26_estimating_moments.pdf)
 
-## Session 10: Time series mining
+## Session 10: Streams (cont.) + Time series mining
+
+### Before class
+* :tv: Watch this 3-minutes quick presentation on [bloom filters](https://www.youtube.com/watch?v=-SuTGoFYjZs) by Cube Drone
+
+### During class 
+
+* Lecture TT24: bloom filters [odp](odp/tt24_bloom_filters.odp)/[pdf](pdf/tt24_bloom_filters.pdf)
+   * :tv: We will watch this 6-minutes [animation on Bloom Filters](https://www.youtube.com/watch?v=kfFacplFY4Y)
+*
 
 ## Session 11: Spectral Clustering
 
