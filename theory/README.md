@@ -169,17 +169,34 @@ We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
 * Lecture TT19: outliers introduction and extreme value analysis [odp](odp/tt19_outliers_extreme_values.odp)/[pdf](pdf/tt19_outliers_extreme_values.pdf)
    * Google spreadsheet: outliers using z-score
 * Lecture TT20: probability and density-based methods [odp](odp/tt20_outliers_probability_density.odp)/[pdf](pdf/tt20_outliers_probability_density.pdf)
-* Lecture TT21: isolation and distance-based methods [odp](odp/tt21_outliers_isolation.odp)/[pdf](pdf/tt21_outliers_isolation.pdf)
-   * Nearpod draw-it: isolation forest example
 
 ### After class
 
 * Read [sections 9.4-9.5 of Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
-* Read chapter 8 of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
+* Read chapter 8 (except 8.5) of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
 
-## Session 9: Data streams
+## Session 9: Outlier analysis (cont.) + Data streams
+
+## Before class
+
+* :tv: Watch this 14-minutes video on [isolation forests in Python](https://www.youtube.com/watch?v=TP3wdwD8JVY)
+
+## During class
+
+* Lecture TT21: isolation and distance-based methods [odp](odp/tt21_outliers_isolation.odp)/[pdf](pdf/tt21_outliers_isolation.pdf)
+   * Nearpod draw-it: isolation forest example
+
+## After class
+
+* Read section except 8.5 of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
+
+## Optional/additional material
+
+* Read the original ICDM 2008 [paper on isolation forests](https://scholar.google.com/scholar?cluster=11545522615192696786&hl=en&as_sdt=0,5) -- do not worry if you cannot follow all the details
 
 ## Session 10: Time series mining
+
+## Session 11: Spectral Clustering
 
 # OLD MATERIAL BELOW THIS LINE
 
