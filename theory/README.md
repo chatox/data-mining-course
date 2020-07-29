@@ -8,7 +8,7 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 
 ### Before class
 
-* :tv: Watch this 6-minutes introduction to the [Knowledge Discovery in Databases](https://www.youtube.com/watch?v=0PDq4wYZqP0) process by Ali Soofastaei
+* :tv: Watch this 6-minutes presentation of the [Knowledge Discovery in Databases](https://www.youtube.com/watch?v=0PDq4wYZqP0) process by Ali Soofastaei
 * Take a look at the list of [theory topics](./),  [practice sessions](../practicum/README.md), and [evaluation rules](../upf/upf-evaluation.md)
 
 ### During class
@@ -37,8 +37,8 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 
 ### Before class
 
-* :tv: Watch this 14-minutes video on [Cleaning Data](https://www.youtube.com/watch?v=zVImIQuqjQ0) by Mike Pound; his examples use R but the same can be done in many languages.
-* :tv: Watch this 5-minutes video on [Cleaning Data with Python and Pandas](https://www.youtube.com/watch?v=ZOX18HfLHGQ); the video ends with an advert for an online course that I do not endorse.
+* :tv: Watch this 14-minutes talk and demo on [Cleaning Data](https://www.youtube.com/watch?v=zVImIQuqjQ0) by Mike Pound; his examples use R but the same can be done in many languages.
+* :tv: Watch this 5-minutes presentation and demo on [Cleaning Data with Python and Pandas](https://www.youtube.com/watch?v=ZOX18HfLHGQ); the video ends with an advert for an online course that I do not endorse.
 
 ### During class
 
@@ -62,7 +62,7 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 
 ### Before class
 
-* :tv: Watch this 37-minutes video by Ben Langmead on [Jaccard coefficient and min-hashing](https://www.youtube.com/watch?v=aTwRpqUnQX8)
+* :tv: Watch this 37-minutes lecture by Ben Langmead on [Jaccard coefficient and min-hashing](https://www.youtube.com/watch?v=aTwRpqUnQX8)
 
 ### During class
 
@@ -86,7 +86,7 @@ There are 11 theory sessions of 2 hours each. In one of the sessions, a *midterm
 
 ### Before class
 
-* :tv: Watch the first 8 minutes of an [explanation of the Apriori algorithm](https://www.youtube.com/watch?v=WGlMlS_Yydk), for an explanation of the concepts of itemsets, support, confidence, and lift.
+* :tv: Watch the first 8 minutes of this animated video [explanation of the Apriori algorithm](https://www.youtube.com/watch?v=WGlMlS_Yydk), for an explanation of the concepts of itemsets, support, confidence, and lift.
 
 ### During class
 
@@ -141,7 +141,7 @@ We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
 
 ### Before class
 
-* :tv: Watch the 6-minutes [introduction to recommender systems](https://www.youtube.com/watch?v=U-yq3I9QugQ)
+* :tv: Watch the 6-minutes presentation of an [introduction to recommender systems](https://www.youtube.com/watch?v=U-yq3I9QugQ)
 * :tv: Watch the 17-minutes [introductory lecture to recommender systems](https://www.youtube.com/watch?v=1JRrCEgiyHM) by Anand Rajaraman
 
 ### During class
@@ -160,8 +160,8 @@ We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
 
 ### Before class
 
-* :tv: Watch the 8-minutes video [how recommender systems work](https://www.youtube.com/watch?v=n3RKsY2H-NE) by Art of the Problem, which describes a factorization-based method
-* :tv: Watch the 7-minutes video [outlier analysis](https://www.youtube.com/watch?v=R_XKJ_l1jBc) by Gourab Nath, discussing why outliers occur
+* :tv: Watch the 8-minutes presentation on [how recommender systems work](https://www.youtube.com/watch?v=n3RKsY2H-NE) by Art of the Problem, which describes a factorization-based method
+* :tv: Watch the 7-minutes lecture on [outlier analysis](https://www.youtube.com/watch?v=R_XKJ_l1jBc) by Gourab Nath, discussing why outliers occur
 
 ### During class
 
@@ -179,12 +179,18 @@ We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
 
 ## Before class
 
-* :tv: Watch this 14-minutes video on [isolation forests in Python](https://www.youtube.com/watch?v=TP3wdwD8JVY)
+* :tv: Watch this 14-minutes talk and demo on [isolation forests in Python](https://www.youtube.com/watch?v=TP3wdwD8JVY)
+* :tv: Watch this 4-minutes animation on [reservoir sampling](https://www.youtube.com/watch?v=A1iwzSew5QY) by Eric Laber
+* :tv: Watch this 3-minutes quick presentation on [bloom filters](https://www.youtube.com/watch?v=-SuTGoFYjZs) by Cube Drone
 
 ## During class
 
 * Lecture TT21: isolation and distance-based methods [odp](odp/tt21_outliers_isolation.odp)/[pdf](pdf/tt21_outliers_isolation.pdf)
    * Nearpod draw-it: isolation forest example
+* Lecture TT22: data streams [odp](odp/tt22_streams.odp)/[pdf](pdf/tt22_streams.pdf)
+* Lecture TT23: reservoir sampling [odp](odp/tt23_reservoir_sampling.odp)/[pdf](pdf/tt23_reservoir_sampling.pdf)
+* Lecture TT24: bloom filters [odp](odp/tt24_bloom_filters.odp)/[pdf](pdf/tt24_bloom_filters.pdf)
+* Lecture TT25: probabilistic counting [odp](odp/tt25_probabilistic_counting.odp)/[pdf](pdf/tt25_probabilistic_counting.pdf)
 
 ## After class
 
@@ -193,6 +199,7 @@ We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
 ## Optional/additional material
 
 * Read the original ICDM 2008 [paper on isolation forests](https://scholar.google.com/scholar?cluster=11545522615192696786&hl=en&as_sdt=0,5) -- do not worry if you cannot follow all the details
+* See presentation TT26: moments estimation [odp](odp/tt26_estimating_moments.odp)/[pdf](pdf/tt26_estimating_moments.pdf)
 
 ## Session 10: Time series mining
 
