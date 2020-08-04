@@ -14,6 +14,7 @@ This is not a full repository of datasets for data mining, but instead some data
 | Filename | Credits |
 |----------|--------|
 | device_db.csv, re_dataset.csv | Mobile purchase data |
+| CovidLockDownCatalonia.json.gz | [CrisisNLP Team](https://crisisnlp.qcri.org/covid19) |
 
 ## Other datasets
 
