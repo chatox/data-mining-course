@@ -35,8 +35,8 @@ In the following table, **R** stands for remote/online session, while **F** stan
 | 3 | R | [PS03](ps03_near_duplicates.ipynb)            | Near-duplicate detection | 24 hours after session #5 |
 | 4 | F | [PS04](ps04_association_rules.ipynb)          | Association rules mining | 24 hours after session #5 |
 | 5 | R | PS03+PS04                                     | Wrap-up | |
-| 6 | F | [PS05](ps05_recommendation_engine.ipynb)      | User-based recommendations    | 24 hours after session #8 |
-| 7 | R | [PS06](ps06_content_based_recsys.ipynb)       | Content-based recommendations | 24 hours after session #8 |
+| 6 | F | [PS05](ps05_content_based_recsys.ipynb)       | Content-based recommendations        | 24 hours after session #8 |
+| 7 | R | [PS06](ps06_latent_factors_recsys.ipynb)      | Matrix factorization recommendations | 24 hours after session #8 |
 | 8 | R | PS05+PS06                                     | Wrap-up | |
 | 9 | F | [PS07](ps07_outlier_analysis.ipynb)           | Outlier analysis        | 24 hours after session #12 |
 | 10 | R | [PS08](ps08_data_streams.ipynb)              | Data streams            | 24 hours after session #12 |
