@@ -11,6 +11,7 @@ You will need:
    * [numpy](https://numpy.org/)
    * [scikit-learn](https://scikit-learn.org/stable/)
    * [apyori](https://pypi.org/project/apyori/)
+   * [wordcloud](https://github.com/amueller/word_cloud)
 * Jupyter Notebooks.
    * Follow [these instructions](https://jupyter.org/install.html).
 
