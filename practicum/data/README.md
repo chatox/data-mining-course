@@ -15,6 +15,8 @@ This is not a full repository of datasets for data mining, but instead some data
 |----------|--------|
 | device_db.csv, re_dataset.csv | Mobile purchase data |
 | CovidLockDownCatalonia.json.gz | [CrisisNLP Team](https://crisisnlp.qcri.org/covid19) |
+| services_purchased.csv | B2B service purchase history |
+| BreadBasket_DMS.csv | [Vikram Venkataramanan](https://github.com/viktree/curly-octo-chainsaw) |
 
 ## Other datasets
 
@@ -25,6 +27,5 @@ This is not a full repository of datasets for data mining, but instead some data
 | furniture-sales.csv | [Tableau community forum](https://community.tableau.com/docs/DOC-1236) |
 | prices-split-adjusted.csv | [Kaggle](https://www.kaggle.com/dgawlik/nyse) |
 | thyroid.csv | [ODDS](http://odds.cs.stonybrook.edu/thyroid-disease-dataset/) |
-| dataset_associationrules.csv | B2B service purchase history |
 | movielens-1M.zip | [MovieLens](https://grouplens.org/datasets/movielens/1m/) |
 | instacart/ | [Instacart](https://www.kaggle.com/c/instacart-market-basket-analysis) |
