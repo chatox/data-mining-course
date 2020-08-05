@@ -14,7 +14,7 @@ This is not a full repository of datasets for data mining, but instead some data
 | Filename | Credits |
 |----------|--------|
 | device_db.csv, re_dataset.csv | Mobile purchase data |
-| CovidLockDownCatalonia.json.gz | [CrisisNLP Team](https://crisisnlp.qcri.org/covid19) |
+| CovidLockDownCatalonia.json.gz + CovidLockdownCatalonia-hashtags.csv.gz | [CrisisNLP Team](https://crisisnlp.qcri.org/covid19) |
 | services_purchased.csv | B2B service purchase history |
 | BreadBasket_DMS.csv | [Vikram Venkataramanan](https://github.com/viktree/curly-octo-chainsaw) |
 
