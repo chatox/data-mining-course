@@ -12,6 +12,8 @@ You will need:
    * [scikit-learn](https://scikit-learn.org/stable/)
    * [apyori](https://pypi.org/project/apyori/)
    * [wordcloud](https://github.com/amueller/word_cloud)
+   * [nltk](https://www.nltk.org/)
+      * You will also need to run in your Python interpreter: `import nlkt` and `nltk.download('punkt')`
 * Jupyter Notebooks.
    * Follow [these instructions](https://jupyter.org/install.html).
 
