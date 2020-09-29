@@ -1,4 +1,4 @@
-# <img src="upf_logo.png" align="right" width="80"/>Rules for course at UPF (2019)
+# <img src="upf_logo.png" align="right" width="80"/>Rules for course at UPF (2020)
 
 ## 1. Grades
 
@@ -23,7 +23,7 @@ To obtain a grade in the practical session, you must:
 * Attend the practical session
 * Submit a screenshot of your work at the end of the session through *Aula Global* (an image of the last part of what you were doing when the time ended)
 * Deliver your work within the deadline.
-* A grace period of 24 years after the deadline will be given, with a -2 points penalization. Saturdays, Sundays, and holidays do not count in the grace period.
+* A grace period of 24 hours after the deadline will be given, with a -2 points penalization. Saturdays, Sundays, and holidays do not count in the grace period.
 
 Extra points might be added to your grade, allowing you to have up to 12 points (instead of 10) in some practice sessions, however your total practice grade is capped at 10 points.
 
@@ -31,7 +31,7 @@ Automatically the lowest grade in the practice sessions will be discarded, which
 
 Not coming to a practice session or not delivering your work means a zero grade in that session, unless you can justify your absence to the teaching assistant (*profesor de prácticas*).
 
-:unamused: Do not work alone and isolated during the practice session. You can prevent simple mistakes by talking to someone else. You can work in pairs.
+:unamused: Do not work alone and isolated during the practice session. You can prevent simple mistakes by talking to someone else. You can work in pairs, but each one should submit his/her own work individually, they cannot be sample.
 
 :rage: Do not work in groups of three or more during the practice session. Feel free to exchange ideas with other students, but do not copy from others.
 
@@ -88,7 +88,7 @@ These are some of the most common mistakes in reports, these deduct points from 
 
 #### 2.2.2. Delivering your code
 
-Your code is delivered as a self-contained Python notebook. This notebook should be readable and understandable on its own by a person familiar with networks science. Think of the notebook as a report in which you tell a story, and tell that story well and professionally.
+Your code is delivered as a self-contained Python notebook. This notebook should be readable and understandable on its own by a person familiar with the course's topic. Think of the notebook as a report in which you tell a story, and tell that story well and professionally.
 
 Remember to identify the authorship and date of your code. Include as many markdown cells between code cells as needed to explain what you are doing and what we are looking at.
 
@@ -121,3 +121,13 @@ Delivering consistently top-quality work takes time and effort, but it can be ve
 **Be careful** with the presentation of your work. For instance, do not use low-quality screenshots, or poorly cropped screenshots showing toolbars and window borders. Instead, export and save high-quality images from each application. Do not copy-paste or screenshot tables into your report without making them to actual tables.
 
 As a data scientist your reports and code should be (among other things) correct, understandable, pristine, clear, and pleasant to look at. Ensure you set aside enough time to review, improve, and polish your work. Get used to produce top-quality work and it will become a habit.
+
+# 3. Asking questions
+
+If you need help installing software or packages in your computer, please ask your classmates, for instance through the Aula Global's forum. Teaching staff does not have the bandwidth to debug your installation.
+
+If you have questions about theory slides, please [create an issue](https://github.com/chatox/data-mining-course/issues) and select project "Theory". Ask as many questions as you need.
+
+If you have questions about a practice, please [create an issue](https://github.com/chatox/data-mining-course/issues) and select project "Practice". Ask as many questions as you need. 
+
+To ask for an appointment, send an e-mail to the course's professor. No appointments will be given in the 72 hours before partial or final exams.

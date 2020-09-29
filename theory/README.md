@@ -183,6 +183,10 @@ We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
 * Read [sections 9.4-9.5 of Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
 * Read chapter 8 (except 8.5) of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
 
+### Optional/additional material
+
+* :tv: If you did not understand the latent factors method, watch this 33-minutes presentation on [How does Netflix recommend movies? Matrix Factorization](https://www.youtube.com/watch?v=ZspR5PZemcs)
+
 ## Session 9: Outlier analysis (cont.) + Data streams
 
 ## Before class
