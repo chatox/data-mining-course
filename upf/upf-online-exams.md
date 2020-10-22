@@ -52,7 +52,7 @@ Ensure your mobile is in the indicated position. You must keep, at all times, th
 
 You will receive through Aula Global a link to a Google Form to answer the exam.
 
-You can save your answers at any time. All answers can be edited multiple times until the deadline.
+:pencil: You should save your answers often, in case your computer crashes. You can click submit as many times as you want, and come back to editing your answers. All answers can be edited multiple times until the deadline, except the ones that are answered with a photo.
 
 :warning: For questions that are answered with a photo, prepare your answer on paper in a readable manner but **do not upload it** until 10 minutes before the deadline. The reason is (a) those answers cannot be modified, and (b) you may need to use your mobile.
 
