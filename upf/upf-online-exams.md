@@ -28,7 +28,7 @@ Please make sure you can use [Google Meet](https://meet.google.com/)
 
 The class will be divided into groups, each of them supervised by a different person. You will receive the link to Google Meet for your particular group before the exam.
 
-Please arrive 15 minutes before - please come to the Google Meet 15 minutes before
+Please arrive 15 minutes before the exam stars.
 
 ### Please have with you
 
@@ -36,7 +36,7 @@ Your ID card.
 
 Your laptop for answering the Google Form.
 
-Your mobile for remote proctoring using Google Meet; position it to **show the space of the table where you will be solving the exam, the laptop screen and you**.
+Your mobile for remote proctoring using Google Meet; **position it to show the space of the table where you will be solving the exam, the laptop screen and you**.
 
 Blank paper and a pen, ideally a black or dark pen that marks well.
 
@@ -60,9 +60,9 @@ Please write readable, short, clear answers and go straight to the point of what
 
 ### While the exam proceeds
 
-The screen of your laptop/PC must show, at all times, the exam only. The microphone must be ON at all times. You will not be recorded during the exam.
+The screen of your laptop/PC must show, at all times, the exam only. **The microphone must be ON at all times.** You will not be recorded during the exam.
 
-The sound must be as LOW as possible, considering you will need to listen to the professor.
+**The speaker must be as LOW as possible,** but note you will need to listen to the professor.
 
 Asking questions: You will raise your hand (physically, not using the app) and wait for the turn to speak. The questions will be public for everyone.
 
