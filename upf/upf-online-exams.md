@@ -9,7 +9,7 @@ Exams will be conducted online, and you will need two devices: a PC/laptop (lapt
 
 ### In your laptop 
 
-:warning: Please test this [exam simulation to test your setup](https://forms.gle/RtNYyW4xvuZYNtYT9) in your laptop.
+:warning: **Please test this [exam simulation to test your setup](https://forms.gle/RtNYyW4xvuZYNtYT9) in your laptop.**
 You will need to find your a way of taking a photo and upload it to the Google Form.
 Notice that in this form photos are limited to 1MB per photo. Search online for
 how to reduce photo size in [Android](https://www.google.com/search?q=android+reduce+photo+size) or [iPhone](https://www.google.com/search?q=android+reduce+photo+size).
