@@ -1,6 +1,6 @@
 # Protocol for online exams
 
-Exams will be conducted online, and you will need two devices: a PC/laptop (laptop in the following), and a mobile/tablet/laptop (mobile in the following).
+Exams will be conducted online, and you will need two devices: a PC/laptop (simply "laptop" in the following), and a second device with a camera, which can be a mobile/tablet/laptop (simply "mobile" in the following).
 
 * The laptop will be for reading and answering the questions through Google Forms.
 * The mobile will be for remote proctoring through Google Meet.
@@ -36,23 +36,23 @@ Your ID card.
 
 Your laptop for answering the Google Form.
 
-Your mobile for remote proctoring using Google Meet; **position it to show the space of the table where you will be solving the exam, the laptop screen and you**.
+Your mobile for remote proctoring using Google Meet.
 
 Blank paper and a pen, ideally a black or dark pen that marks well.
 
-### Plug your devices
+### Plug your devices and position your mobile
 
 Make sure your devices will not run out of battery. Consider keeping them plugged.
+
+Ensure your mobile is positioned it **to show the space of the table where you will be solving the exam, the laptop screen, and you**. You must keep, at all times, the video conference on the phone with a correct camera position.
 
 ## During the exam
 
 ### Open the exam
 
-Ensure your mobile is in the indicated position. You must keep, at all times, the video conference on the phone with a correct camera position.
-
 You will receive through Aula Global a link to a Google Form to answer the exam.
 
-:pencil: You should save your answers often, in case your computer crashes. You can click submit as many times as you want, and come back to editing your answers. All answers can be edited multiple times until the deadline, except the ones that are answered with a photo.
+:pencil: You should save your answers often, in case your computer crashes. You can click *submit* as many times as you want, and come back to editing your answers. All answers can be edited multiple times until the deadline, except the ones that are answered with a photo.
 
 :warning: For questions that are answered with a photo, prepare your answer on paper in a readable manner but **do not upload it** until 10 minutes before the deadline. The reason is (a) those answers cannot be modified, and (b) you may need to use your mobile.
 
