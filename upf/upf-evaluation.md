@@ -49,11 +49,7 @@ Not coming to an in-class test means a zero grade in that in-class test, unless 
 
 ### 2.1. Exams
 
-Please write clearly your full name in the space allocated for it.
-
-Please write readable, short, clear answers and go straight to the point of what you have been asked.
-
-When asked for an algorithm, pseudocode is the best. Written descriptions tend to be ambiguous which makes them poor answers.
+Please read the [Exams protocol for online exams](upf-online-exams.md).
 
 ### 2.2. Practices and assignments
 
@@ -126,8 +122,8 @@ As a data scientist your reports and code should be (among other things) correct
 
 If you need help installing software or packages in your computer, please ask your classmates, for instance through the Aula Global's forum. Teaching staff does not have the bandwidth to debug your installation.
 
-If you have questions about theory slides, please [create an issue](https://github.com/chatox/data-mining-course/issues) and select project "Theory". Ask as many questions as you need.
+If you have questions about theory, please ask in the *Thery forum* of the Aula Global.
 
-If you have questions about a practice, please [create an issue](https://github.com/chatox/data-mining-course/issues) and select project "Practice". Ask as many questions as you need. 
+If you have questions about practice work, please ask in the *Pracice forum* of the Aula Global.
 
 To ask for an appointment, send an e-mail to the course's professor. No appointments will be given in the 72 hours before partial or final exams.
