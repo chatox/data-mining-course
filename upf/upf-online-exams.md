@@ -15,8 +15,10 @@ Notice that in this form photos are limited to 1MB per photo. Search online for
 how to reduce photo size in [Android](https://www.google.com/search?q=android+reduce+photo+size) or [iPhone](https://www.google.com/search?q=android+reduce+photo+size).
 You can also take the photo with the camera of your laptop, if you know how to do that. Just make sure it is clear.
 
-Please make sure your answer is recorded properly by looking at [this spreadsheet](https://docs.google.com/spreadsheets/d/1LwFtLnctJqRhp1QgJ6yo4t8cMlblvYZ4MoZ_79Oxdeo/edit#). 
+Please make sure your photo is recorded properly by looking at [this spreadsheet](https://docs.google.com/spreadsheets/d/1LwFtLnctJqRhp1QgJ6yo4t8cMlblvYZ4MoZ_79Oxdeo/edit#). 
 You should see clearly the image you uploaded. 
+
+It is your responsibility to test this before the exam. If you cannot take a photo during the exam, you will have zero points in the questions that required a photo.
 
 ### In your mobile: test Google Meet
 
