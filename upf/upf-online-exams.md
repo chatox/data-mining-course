@@ -72,4 +72,4 @@ Asking questions: You will raise your hand (physically, not using the app) and w
 
 # In case of doubt
 
-In the case that the professor has any doubt that, for any of you, the exam is being carried out without guarantees, the exam for this person will be cancelled, and the evaluation will be carried out orally.
+In the case that the professor has any doubt that, for any of you, the exam is being carried out without guarantees, the exam for this person will be void, and the evaluation will be carried out orally.
