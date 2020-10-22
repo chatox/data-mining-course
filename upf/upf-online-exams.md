@@ -12,10 +12,11 @@ Exams will be conducted online, and you will need two devices: a PC/laptop (lapt
 :warning: Please test this [exam simulation to test your setup](https://forms.gle/RtNYyW4xvuZYNtYT9) in your laptop.
 You will need to find your a way of taking a photo and upload it to the Google Form.
 Notice that in this form photos are limited to 1MB per photo. Search online for
-how to reduce photo size in [Android](https://www.google.com/search?q=android+reduce+photo+size) or [iPhone](https://www.google.com/search?q=android+reduce+photo+size)
+how to reduce photo size in [Android](https://www.google.com/search?q=android+reduce+photo+size) or [iPhone](https://www.google.com/search?q=android+reduce+photo+size).
+You can also take the photo with the camera of your laptop, if you know how to do that. Just make sure it is clear.
 
 Please make sure your answer is recorded properly by looking at [this spreadsheet](https://docs.google.com/spreadsheets/d/1LwFtLnctJqRhp1QgJ6yo4t8cMlblvYZ4MoZ_79Oxdeo/edit#). 
-You should see clearly the image you uploaded.
+You should see clearly the image you uploaded. 
 
 ### In your mobile
 
@@ -55,7 +56,6 @@ You can save your answers at any time. Except for the questions answered with ph
 
 Please write readable, short, clear answers and go straight to the point of what you have been asked. When asked for an algorithm, pseudocode is the best. Written descriptions tend to be ambiguous which makes them poor answers.
 
-
 ### While the exam proceeds
 
 The screen of your laptop/PC must show, at all times, the exam only. The microphone must be ON at all times. You will not be recorded during the exam.
@@ -64,13 +64,10 @@ The sound must be as LOW as possible, considering you will need to listen to the
 
 Asking questions: You will raise your hand (physically, not using the app) and wait for the turn to speak. The questions will be public for everyone.
 
-## Delivering the exam
+## Taking photos (for answers that require a photo) and delivering
 
 10 minutes before the deadline, please upload the answer to the questions that are answered with a photo and submit.
 
 # In case of doubt
 
 In the case that the professor has any doubt that, for any of you, the exam is being carried out without guarantees, the exam for this person will be cancelled, and the evaluation will be carried out orally.
-
-
-    
