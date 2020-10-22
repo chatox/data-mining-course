@@ -49,7 +49,7 @@ Not coming to an in-class test means a zero grade in that in-class test, unless 
 
 ### 2.1. Exams
 
-Please read the [Exams protocol for online exams](upf-online-exams.md).
+Please read the [protocol for online exams](upf-online-exams.md).
 
 ### 2.2. Practices and assignments
 
