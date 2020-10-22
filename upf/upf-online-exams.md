@@ -7,7 +7,7 @@ Exams will be conducted online, and you will need two devices: a PC/laptop (lapt
 
 ## Before the exam
 
-### In your laptop 
+### In your laptop: run the exam simulation
 
 :warning: **Please test this [exam simulation to test your setup](https://forms.gle/RtNYyW4xvuZYNtYT9) in your laptop.**
 You will need to find your a way of taking a photo and upload it to the Google Form.
@@ -18,7 +18,7 @@ You can also take the photo with the camera of your laptop, if you know how to d
 Please make sure your answer is recorded properly by looking at [this spreadsheet](https://docs.google.com/spreadsheets/d/1LwFtLnctJqRhp1QgJ6yo4t8cMlblvYZ4MoZ_79Oxdeo/edit#). 
 You should see clearly the image you uploaded. 
 
-### In your mobile
+### In your mobile: test Google Meet
 
 Please make sure you can use [Google Meet](https://meet.google.com/)
 
