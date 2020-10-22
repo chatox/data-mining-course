@@ -68,9 +68,7 @@ Asking questions: You will raise your hand (physically, not using the app) and w
 
 ## Taking photos (for answers that require a photo) and delivering
 
-:warning: 10 minutes before the deadline, please upload the answer to the questions that are answered with a photo.
-
-Review your answers, and submit.
+:warning: 10 minutes before the deadline, please upload the answer to the questions that are answered with a photo, and submit.
 
 # In case of doubt
 
