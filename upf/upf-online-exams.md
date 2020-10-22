@@ -52,7 +52,9 @@ Ensure your mobile is in the indicated position. You must keep, at all times, th
 
 You will receive through Aula Global a link to a Google Form to answer the exam.
 
-You can save your answers at any time. Except for the questions answered with photos, all answers can be edited multiple times until the deadline.
+You can save your answers at any time. All answers can be edited multiple times until the deadline.
+
+:warning: For questions that are answered with a photo, prepare your answer on paper in a readable manner but **do not upload it** until 10 minutes before the deadline. The reason is (a) those answers cannot be modified, and (b) you may need to use your mobile.
 
 Please write readable, short, clear answers and go straight to the point of what you have been asked. When asked for an algorithm, pseudocode is the best. Written descriptions tend to be ambiguous which makes them poor answers.
 
@@ -66,7 +68,9 @@ Asking questions: You will raise your hand (physically, not using the app) and w
 
 ## Taking photos (for answers that require a photo) and delivering
 
-10 minutes before the deadline, please upload the answer to the questions that are answered with a photo and submit.
+:warning: 10 minutes before the deadline, please upload the answer to the questions that are answered with a photo.
+
+Review your answers, and submit.
 
 # In case of doubt
 
