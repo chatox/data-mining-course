@@ -60,7 +60,7 @@ Please write readable, short, clear answers and go straight to the point of what
 
 ### While the exam proceeds
 
-The screen of your laptop/PC must show, at all times, the exam only. **The microphone must be ON at all times.** You will not be recorded during the exam.
+The screen of your laptop must show, at all times, the exam only. **The microphone must be ON at all times.** You will not be recorded during the exam.
 
 **The speaker must be as LOW as possible,** but note you will need to listen to the professor.
 
@@ -72,4 +72,4 @@ Asking questions: You will raise your hand (physically, not using the app) and w
 
 # In case of doubt
 
-In the case that the professor has any doubt that, for any of you, the exam is being carried out without guarantees, the exam for this person will be void, and the evaluation will be carried out orally.
+In the case that the professor has any doubt that, for anyone, the exam was carried out without guarantees, the exam for this person will be void, and the evaluation will be carried out orally.
