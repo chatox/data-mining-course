@@ -34,13 +34,12 @@ Please arrive 15 minutes before the exam stars.
 
 ### Please have with you
 
-Your ID card.
-
-Your laptop for answering the Google Form.
-
-Your mobile for remote proctoring using Google Meet.
-
-Blank paper and a pen, ideally a black or dark pen that marks well.
+* Your ID card.
+* Your laptop for answering the Google Form.
+* Your mobile for remote proctoring using Google Meet.
+* A calculator, which we may use in some exams.
+* A few sheets (~10) of white paper with nothing written or drawn on it.
+* A pen, ideally black or of a dark color that marks well.
 
 ### Plug your devices and position your mobile
 
