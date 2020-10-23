@@ -71,6 +71,13 @@ Asking questions: You will raise your hand (physically, not using the app) and w
 
 :warning: 10 minutes before the deadline, please upload the answer to the questions that are answered with a photo, and submit.
 
+* Leave your pen aside
+* Depending on how you take the photos:
+   * If you take the photos with your mobile, photograph them with your mobile, send to your computer
+   * If you take the photos with your laptop's camera, photograph with whatever software you use for that
+* Send the photos through the Google Form
+* Submit
+
 # In case of doubt
 
 In the case that the professor has any doubt that, for anyone, the exam was carried out without guarantees, the exam for this person will be void, and the evaluation will be carried out orally.
