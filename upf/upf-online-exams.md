@@ -12,7 +12,7 @@ Exams will be conducted online, and you will need two devices: a PC/laptop (simp
 :warning: **Please test this [exam simulation to test your setup](https://forms.gle/RtNYyW4xvuZYNtYT9) in your laptop.**
 
 You will need to find your a way of taking a photo and upload it to the Google Form.
-Notice that in this form photos are limited to 1MB per photo.
+Notice that in this exam simulation the photos are limited to 1MB per photo, and during the actual exam the limit is 10MB per photo.
 
 * **If you use your laptop for taking the photo (recommended)**, you can use [webcamoid](https://webcamoid.github.io/) or any other software to take a photo with your laptop's camera.
 * If you use your mobile for taking the photo (not recommended), search online for how to reduce photo size in [Android](https://www.google.com/search?q=android+reduce+photo+size) or [iPhone](https://www.google.com/search?q=android+reduce+photo+size).
@@ -81,9 +81,11 @@ Notice that you can **press submit as many times as you want to save your progre
   * If you use your mobile for taking the photo (not recommended), you need to remain in Google Meet at all times. For that:
     * Enter Google Meet in your laptop
     * Exit Google Meet in your mobile
-    * Take the photo with your mobile, ideally reduce its size here
+    * Take the photo with your mobile, ideally ensure it is not too large in size here
+    * Send the photo to your laptop
     * Enter Google Meet in your mobile
     * Exit Google Meet in your laptop
+* If any photo is larger than 10MB, reduce its size
 * Upload the photos to the Google Form and submit
 * Submit
 
