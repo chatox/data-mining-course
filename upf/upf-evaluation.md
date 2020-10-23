@@ -122,12 +122,12 @@ As a data scientist your reports and code should be (among other things) correct
 
 If you need help installing software or packages in your computer, please ask your classmates, for instance through the Aula Global's forum. Teaching staff does not have the necessary bandwidth to debug your installation.
 
-* Please use the "Notice board" for general questions, and the forums "Questions about theory" and "Questions about practices" for questions on theory and practices. I get the same questions many times by e-mail and that's not helpful for you or for me. So, unless it's something specific to you, use the forums.
+* Please use the "Notice board" for general questions, and the forums "Questions about theory" and "Questions about practices" for questions on theory and practices. I get the same questions many times by e-mail and that's not helpful for you or for me. So, **unless it's something specific to you, use the forums.**
 
-* Please if you do need to write me or your practice instructors an e-mail because of something specific to you, include the name of the subject in your e-mail, and if necessary, the seminar/practice group in which you are. I've well over 100 students this trimester, which makes it harder to remember everybody.
+* Please if you do need to write me or your practice instructors an e-mail because of something specific to you, **include the name of the subject** in your e-mail, and if necessary, the seminar/practice group in which you are. I've well over 100 students this trimester, which makes it harder to remember everybody.
 
-* Please if you do need to write me or the practice instructors an e-mail, send it from your UPF address, so we can give it priority and answer it promptly.
+* Please if you do need to write me or the practice instructors an e-mail, **send it from your UPF address**, so we can give it priority and answer it promptly.
 
 * Feel free to ask me questions in English, Catalan, or Spanish, independently of the language of your group.
 
-To ask for an appointment, send an e-mail to the course's professor. No appointments will be given in the 72 hours before partial or final exams.
+To ask for an appointment, send an e-mail to the course's professor. **No appointments will be given in the 72 hours before partial or final exams.**
