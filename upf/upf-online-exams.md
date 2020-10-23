@@ -20,7 +20,7 @@ Notice that in this form photos are limited to 1MB per photo.
 Please make sure your photo is recorded properly by looking at [this spreadsheet](https://docs.google.com/spreadsheets/d/1LwFtLnctJqRhp1QgJ6yo4t8cMlblvYZ4MoZ_79Oxdeo/edit#). 
 You should see clearly the image you uploaded. 
 
-It is your responsibility to test this before the exam. If you cannot take a photo during the exam, you will have zero points in the questions that required a photo.
+It is your responsibility to test this before the exam. If you cannot take a photo during the exam, or you cannot upload it, you will have zero points in the questions that required a photo.
 
 ### In your mobile: test Google Meet
 
