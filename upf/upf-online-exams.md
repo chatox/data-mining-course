@@ -79,11 +79,11 @@ Notice that you can **press submit as many times as you want to save your progre
 * Depending on how you take the photos:
   * **If you use your laptop for taking the photo (recommended)**, you can use [webcamoid](https://webcamoid.github.io/) or any other software to take a photo
   * If you use your mobile for taking the photo (not recommended), you need to remain in Google Meet at all times. For that:
-   * Enter Google Meet in your laptop
-   * Exit Google Meet in your mobile
-   * Take the photo with your mobile, ideally reduce its size here
-   * Enter Google Meet in your mobile
-   * Exit Google Meet in your laptop
+    * Enter Google Meet in your laptop
+    * Exit Google Meet in your mobile
+    * Take the photo with your mobile, ideally reduce its size here
+    * Enter Google Meet in your mobile
+    * Exit Google Meet in your laptop
 * Upload the photos to the Google Form and submit
 * Submit
 
