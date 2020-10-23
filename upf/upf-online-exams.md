@@ -75,8 +75,8 @@ Asking questions: You will raise your hand (physically, not using the app) and w
 
 * Leave your pen aside
 * Depending on how you take the photos:
-   * If you take the photos with your mobile, photograph them with your mobile, send to your computer
-   * If you take the photos with your laptop's camera, photograph with whatever software you use for that
+  * **If you use your laptop for taking the photo (recommended)**, you can use [webcamoid](https://webcamoid.github.io/) or any other software to take a photo
+  * If you use your mobile for taking the photo (not recommended), take the photo with your mobile, then send to your laptop
 * Send the photos through the Google Form
 * Submit
 
