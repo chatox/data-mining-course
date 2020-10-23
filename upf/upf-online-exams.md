@@ -76,7 +76,13 @@ Asking questions: You will raise your hand (physically, not using the app) and w
 * Leave your pen aside
 * Depending on how you take the photos:
   * **If you use your laptop for taking the photo (recommended)**, you can use [webcamoid](https://webcamoid.github.io/) or any other software to take a photo
-  * If you use your mobile for taking the photo (not recommended), take the photo with your mobile, then send to your laptop
+  * If you use your mobile for taking the photo (not recommended):
+   * Enter the Google Meet link in your laptop
+   * Exit Google Meet in your mobile
+   * Take the photo with your mobile and send to your laptop
+   * Enter the Google Meet link in your mobile
+   * Exit Google Meet in your laptop
+   * Shrink the photo in your laptop and submit
 * Send the photos through the Google Form
 * Submit
 
