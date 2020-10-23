@@ -69,6 +69,8 @@ The screen of your laptop must show, at all times, the exam only. **The micropho
 
 Asking questions: You will raise your hand (physically, not using the app) and wait for the turn to speak. The questions will be public for everyone.
 
+Notice that you can **press submit as many times as you want to save your progress**, so you don't lose your work in the event of a crash.
+
 ## Taking photos (for answers that require a photo) and delivering
 
 :warning: 10 minutes before the deadline, please upload the answer to the questions that are answered with a photo, and submit.
@@ -76,14 +78,13 @@ Asking questions: You will raise your hand (physically, not using the app) and w
 * Leave your pen aside
 * Depending on how you take the photos:
   * **If you use your laptop for taking the photo (recommended)**, you can use [webcamoid](https://webcamoid.github.io/) or any other software to take a photo
-  * If you use your mobile for taking the photo (not recommended):
-   * Enter the Google Meet link in your laptop
+  * If you use your mobile for taking the photo (not recommended), you need to remain in Google Meet at all times. For that:
+   * Enter Google Meet in your laptop
    * Exit Google Meet in your mobile
-   * Take the photo with your mobile and send to your laptop
-   * Enter the Google Meet link in your mobile
+   * Take the photo with your mobile, ideally reduce its size here
+   * Enter Google Meet in your mobile
    * Exit Google Meet in your laptop
-   * Shrink the photo in your laptop and submit
-* Send the photos through the Google Form
+* Upload the photos to the Google Form and submit
 * Submit
 
 # In case of doubt
