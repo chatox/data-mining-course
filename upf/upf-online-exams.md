@@ -14,7 +14,7 @@ Exams will be conducted online, and you will need two devices: a PC/laptop (simp
 You will need to find your a way of taking a photo and upload it to the Google Form.
 Notice that in this form photos are limited to 1MB per photo.
 
-* If you use your laptop for taking the photo, you can use [webcamoid](https://webcamoid.github.io/) or any other software to take a photo with your laptop's camera.
+* If you use your laptop for taking the photo (recommended), you can use [webcamoid](https://webcamoid.github.io/) or any other software to take a photo with your laptop's camera.
 * If you use your mobile for taking the photo, search online for how to reduce photo size in [Android](https://www.google.com/search?q=android+reduce+photo+size) or [iPhone](https://www.google.com/search?q=android+reduce+photo+size).
 
 Please make sure your photo is recorded properly by looking at [this spreadsheet](https://docs.google.com/spreadsheets/d/1LwFtLnctJqRhp1QgJ6yo4t8cMlblvYZ4MoZ_79Oxdeo/edit#). 
