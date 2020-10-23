@@ -86,7 +86,7 @@ Notice that you can **press submit as many times as you want to save your progre
     * Enter Google Meet in your mobile
     * Exit Google Meet in your laptop
 * If any photo is larger than 10MB, reduce its size
-* Upload the photos to the Google Form and submit
+* Upload the photos to the Google Form and check they are correct by clicking on them
 * Submit
 
 # In case of doubt
