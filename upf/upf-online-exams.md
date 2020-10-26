@@ -1,6 +1,6 @@
 # Protocol for online exams
 
-Exams will be conducted online, and you will need two devices: a desktop PC or laptop (simply "laptop" in the following), and a second device with a camera, which can be a mobile/tablet/laptop (simply "mobile" in the following).
+Exams will be conducted online, and you will need two devices: a desktop PC or laptop (simply "laptop" in the following -- but it can be a desktop PC), and a second device with a camera, which can be a mobile/tablet/laptop (simply "mobile" in the following, but can be a tablet or similar device).
 
 * The laptop will be for reading and answering the questions through Google Forms.
 * The mobile will be for remote proctoring through Google Meet.
