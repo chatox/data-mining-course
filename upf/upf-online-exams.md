@@ -49,6 +49,10 @@ Make sure your devices will not run out of battery. Consider keeping them plugge
 
 Ensure your mobile is positioned it **to show the space of the table where you will be solving the exam, the laptop screen, and you**. You must keep, at all times, the video conference on the phone with a correct camera position.
 
+### Attendance will be taken
+
+You will be asked to show your ID to the camera at the beginning or at some point during the exam, to take attendance.
+
 ## During the exam
 
 ### Open the exam
