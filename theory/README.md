@@ -175,7 +175,7 @@ We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
 * Lecture TT18: latent-factors based recommender systems [odp](odp/tt18_latent_factors_recommenders.odp)/[pdf](pdf/tt18_latent_factors_recommenders.pdf)
 * Lecture TT19: outliers introduction and extreme value analysis [odp](odp/tt19_outliers_extreme_values.odp)/[pdf](pdf/tt19_outliers_extreme_values.pdf)
    * Google spreadsheet: outliers using z-score
-* Lecture TT20: probability and density-based methods [odp](odp/tt20_outliers_probability_density.odp)/[pdf](pdf/tt20_outliers_probability_density.pdf)
+* Lecture TT20: probability and clustering-based methods [odp](odp/tt20_outliers_probability_density.odp)/[pdf](pdf/tt20_outliers_probability_density.pdf)
    * Google spreadsheet: clustering-based outlier detection
 
 ### After class
@@ -196,7 +196,7 @@ We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
 
 ## During class
 
-* Lecture TT21: isolation and distance-based methods [odp](odp/tt21_outliers_isolation.odp)/[pdf](pdf/tt21_outliers_isolation.pdf)
+* Lecture TT21: density- and isolation-based methods [odp](odp/tt21_outliers_isolation.odp)/[pdf](pdf/tt21_outliers_isolation.pdf)
    * Nearpod draw-it: isolation forest example
 * Lecture TT22: data streams [odp](odp/tt22_streams.odp)/[pdf](pdf/tt22_streams.pdf)
    * Nearpod collaborate: probability of a false positive or a false negative
