@@ -18,7 +18,7 @@ This is not a full repository of datasets for data mining, but instead some data
 | services_purchased.csv | B2B service purchase history |
 | BreadBasket_DMS.csv | [Vikram Venkataramanan](https://github.com/viktree/curly-octo-chainsaw) |
 | DCEP-reports-en.txt.gz | [DCEP](https://ec.europa.eu/jrc/en/language-technologies/dcep) |
-| aemet-barcelona-airport-2016-2020.csv | (AEMET)[https://opendata.aemet.es/centrodedescargas/inicio] |
+| aemet-barcelona-airport-2016-2020.csv | [AEMET](https://opendata.aemet.es/centrodedescargas/inicio) |
 | movielens-1M.zip | [MovieLens](https://grouplens.org/datasets/movielens/1m/) |
 
 ## Other datasets (used in previous years)
