@@ -1,4 +1,4 @@
-# Data Mining Course
+# Data Mining Course (2020 edition)
 
 Instructor:  [Carlos Castillo](https://chato.cl/)
 
@@ -9,7 +9,7 @@ These are materials for a twelve-weeks undergraduate course on **Data Mining**, 
 
 ## Contents of this repository
 
-:construction: These materials should not be considered final until he end of the course.
+These materials are archived from the 2020 edition. Please note a newer edition is available.
 
 * :chart_with_upwards_trend: [Theory](theory/README.md): slides and planning for the theory part.
 * :computer: [Practicum](practicum/README.md): activities for practical sessions.
