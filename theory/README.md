@@ -44,7 +44,6 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 ### Before class
 
 * :tv: Watch this 14-minutes talk and demo on [Cleaning Data](https://www.youtube.com/watch?v=zVImIQuqjQ0) by Mike Pound; his examples use R but the same can be done in many languages.
-* :tv: Watch this 5-minutes presentation and demo on [Cleaning Data with Python and Pandas](https://www.youtube.com/watch?v=ZOX18HfLHGQ); the video ends with an advert for an online course that I do not endorse.
 
 ### During class
 
