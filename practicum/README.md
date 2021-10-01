@@ -4,7 +4,7 @@
 
 You will need:
 
-* Python 3.6 or higher.
+* Python 3.8 or higher.
    * You can use the [Anaconda](https://www.anaconda.com/products/individual) package manager.
 * Several Python packages
    * [matplotlib](https://matplotlib.org/)
