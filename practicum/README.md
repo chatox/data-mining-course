@@ -33,7 +33,7 @@ At the end of each handout there is a description of what you should deliver. Pl
 
 | # | Handouts                                    | Contents | Deadline 101 |  Deadline 102 | Deadline 103 | 
 |---|---------------------------------------------|----------| -----------| -----------| ----------- |
-| 1 | [PS01+PS02](ps01_02_data_preparation.ipynb)   | Data preparation (two sessions, grade x 2) | 2021-10-07 14:30 | 2021-10-14 14:30 | 2021-10-11 12:30 | 
+| 1 | [PS01+PS02](ps01_02_data_preparation.ipynb)   | Data preparation (two sessions, grade x 2) | 2021-10-07 14:30 | 2021-10-07 14:30 | 2021-10-11 12:30 | 
 | 2 | PS01+PS02                                     | Wrap-up | -----------|----------- |----------- |
 | 3 | [PS03](ps03_near_duplicates.ipynb)            | Near-duplicate detection | 2021-10-25 14:30 | 2021-10-23 10:30 | 2021-10-21 14:30 |
 | 4 | [PS04](ps04_association_rules.ipynb)          | Association rules mining | 2021-10-25 14:30 | 2021-10-23 10:30 | 2021-10-21 14:30 |
