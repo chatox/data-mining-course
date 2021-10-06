@@ -50,7 +50,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 * Lecture TT04: data integration and cleaning [odp](odp/tt04_integration_cleaning.odp)/[pdf](pdf/tt04_integration_cleaning.pdf)
    * Nearpod collaborate: how to handle missing data
 * Lecture TT05: data reduction and transformation [odp](odp/tt05_reduction.odp)/[pdf](pdf/tt05_reduction.pdf)
-* Lecture TT06: similarity computation on numerical data [odp](odp/tt06_sim_numerical.odp)/[pdf](pdf/tt06_sim_numerical.pdf)
+* Lecture TT06: similarity computation on numerical data [odp](odp/tt06_sim_numerical.odp)/[pdf](pdf/tt06_sim_numerical.pdf) -- MOVED TO SESSION 03
    * Nearpod collaborate: compute Lp norm
 
 ### After class
