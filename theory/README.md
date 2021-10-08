@@ -73,9 +73,9 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 
 * Lecture TT07: similarity computation beyond numerical data [odp](odp/tt07_sim_beyond_numerical.odp)/[pdf](pdf/tt07_sim_beyond_numerical.pdf)
    * Nearpod collaborate: compute Jaccard similarity
-* Lecture TT08: finding near-duplicates [odp](odp/tt08_near_duplicates.odp)/[pdf](pdf/tt08_near_duplicates.pdf)
+* Lecture TT08: finding near-duplicates [odp](odp/tt08_near_duplicates.odp)/[pdf](pdf/tt08_near_duplicates.pdf) -- PARTIALLY MOVED TO SESSION 04
    * Nearpod draw it: compute signature matrix
-* Lecture TT09: locality-sensitive hashing [odp](odp/tt09_locality_sensitive_hashing.odp)/[pdf](pdf/tt09_locality_sensitive_hashing.pdf)
+* Lecture TT09: locality-sensitive hashing [odp](odp/tt09_locality_sensitive_hashing.odp)/[pdf](pdf/tt09_locality_sensitive_hashing.pdf) -- MOVED TO SESSION 04
 
 ### After class
 
@@ -120,7 +120,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 * Lecture TT13: association rules mining [odp](odp/tt13_association_rules_mining.odp)/[pdf](pdf/tt13_association_rules_mining.pdf)
    * Nearpod draw-it: prove confidence monotonicity
    * Google spreadsheet: execute Apriori algorithm
-* Lecture TT14: speeding up association rules mining [odp](odp/tt14_improved_rules_mining.odp)/[pdf](pdf/tt14_improved_rules_mining.pdf)
+* Lecture TT14: speeding up association rules mining [odp](odp/tt14_improved_rules_mining.odp)/[pdf](pdf/tt14_improved_rules_mining.pdf) -- LIKELY TO BE SKIPPED ALTOGETHER
    * Nearpod draw-it: indicate which items are visited in a hash tree
 
 ### After class
