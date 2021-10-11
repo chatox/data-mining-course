@@ -35,8 +35,8 @@ At the end of each handout there is a description of what you should deliver. Pl
 |---|---------------------------------------------|----------| -----------| -----------| ----------- |
 | 1 | [PS01+PS02](ps01_02_data_preparation.ipynb)   | Data preparation (two sessions, grade x 2) | 2021-10-07 14:30 | 2021-10-07 14:30 | 2021-10-11 12:30 | 
 | 2 | PS01+PS02                                     | Wrap-up | -----------|----------- |----------- |
-| 3 | [PS03](ps03_near_duplicates.ipynb)            | Near-duplicate detection | 2021-10-25 14:30 | 2021-10-25 10:30 | 2021-10-21 14:30 |
-| 4 | [PS04](ps04_association_rules.ipynb)          | Association rules mining | 2021-10-25 14:30 | 2021-10-25 10:30 | 2021-10-21 14:30 |
+| 3 | [PS03](ps03_near_duplicates.ipynb)            | Near-duplicate detection | 2021-10-25 10:30 | 2021-10-25 10:30 | 2021-10-21 14:30 |
+| 4 | [PS04](ps04_association_rules.ipynb)          | Association rules mining | 2021-10-25 10:30 | 2021-10-25 10:30 | 2021-10-21 14:30 |
 | 5 | PS03+PS04                                     | Wrap-up |----------- | -----------|----------- |
 | 6 | [PS05](ps05_content_based_recsys.ipynb)       | Content-based recommendations         | 2021-11-08 10:30 | 2021-11-08 10:30 | 2021-11-09 12:30 |
 | 7 | [PS06](ps06_item_based_recsys.ipynb)          | Item-based similarity recommendations | 2021-11-08 10:30 | 2021-11-08 10:30 | 2021-11-09 12:30 |
