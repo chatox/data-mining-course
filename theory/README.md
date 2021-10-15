@@ -157,7 +157,7 @@ We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
 * Lecture TT17: interaction-based recommender systems [odp](odp/tt17_interaction_based_recommenders.odp)/[pdf](pdf/tt17_interaction_based_recommenders.pdf)
    * Google spreadsheet: recommender based on user similarity
 
-* Note for 2021 -- need to finish everything in this class for practice sessions to have the necessary background
+Note for 2021 -- need to finish everything in this class for practice sessions to have the necessary background
 
 ### After class
 
