@@ -75,7 +75,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
    * Nearpod collaborate: compute Jaccard similarity
 * Lecture TT08: finding near-duplicates [odp](odp/tt08_near_duplicates.odp)/[pdf](pdf/tt08_near_duplicates.pdf) -- PARTIALLY MOVED TO SESSION 04
    * Nearpod draw it: compute signature matrix
-* Lecture TT09: locality-sensitive hashing [odp](odp/tt09_locality_sensitive_hashing.odp)/[pdf](pdf/tt09_locality_sensitive_hashing.pdf) -- MOVED TO SESSION 04
+* Lecture TT09: locality-sensitive hashing [odp](odp/tt09_locality_sensitive_hashing.odp)/[pdf](pdf/tt09_locality_sensitive_hashing.pdf) -- SKIPPED COMPLETELY (NOT FOR THE EXAM)
 
 ### After class
 
