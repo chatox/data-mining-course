@@ -1,4 +1,4 @@
-# <img src="upf_logo.png" align="right" width="80"/>Rules for course at UPF (2020)
+# <img src="upf_logo.png" align="right" width="80"/>Rules for course at UPF (2021)
 
 ## 1. Grades
 
