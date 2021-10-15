@@ -137,11 +137,11 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 
 ### Before class
 
-Study on your own TT01-TT09, TT11-TT14, try to solve exams from past years. Ask your questions in the forum.
+Study on your own TT01-TT08, TT11-TT14, try to solve exams from past years. Ask your questions in the forum.
 
 ### During class
 
-We will have a mid-term exam covering topics: TT01-TT09, TT11-TT14.
+We will have a mid-term exam covering topics: TT01-TT08, TT11-TT14.
 
 ## Session 7: Recommender systems
 
