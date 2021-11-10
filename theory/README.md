@@ -176,7 +176,7 @@ Note for 2021 -- need to finish everything in this class for practice sessions t
 * Lecture TT18: latent-factors based recommender systems [odp](odp/tt18_latent_factors_recommenders.odp)/[pdf](pdf/tt18_latent_factors_recommenders.pdf)
 * Lecture TT19: outliers introduction and extreme value analysis [odp](odp/tt19_outliers_extreme_values.odp)/[pdf](pdf/tt19_outliers_extreme_values.pdf)
    * Google spreadsheet: outliers using z-score
-* Lecture TT20: probability and clustering-based methods [odp](odp/tt20_outliers_probability_density.odp)/[pdf](pdf/tt20_outliers_probability_density.pdf)
+* Lecture TT20: probability and clustering-based methods [odp](odp/tt20_outliers_probability_density.odp)/[pdf](pdf/tt20_outliers_probability_density.pdf) -- MOVED TO SESSION 09
    * Google spreadsheet: clustering-based outlier detection
 
 ### After class
