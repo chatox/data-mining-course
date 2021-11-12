@@ -199,9 +199,9 @@ Note for 2021 -- need to finish everything in this class for practice sessions t
 
 * Lecture TT21: density- and isolation-based methods [odp](odp/tt21_outliers_isolation.odp)/[pdf](pdf/tt21_outliers_isolation.pdf)
    * Nearpod draw-it: isolation forest example
-* Lecture TT22: data streams [odp](odp/tt22_streams.odp)/[pdf](pdf/tt22_streams.pdf)
+* Lecture TT22: data streams [odp](odp/tt22_streams.odp)/[pdf](pdf/tt22_streams.pdf) -- PARTIALLY MOVED TO SESSION 10
    * Nearpod collaborate: probability of a false positive or a false negative
-* Lecture TT23: reservoir sampling [odp](odp/tt23_reservoir_sampling.odp)/[pdf](pdf/tt23_reservoir_sampling.pdf)
+* Lecture TT23: reservoir sampling [odp](odp/tt23_reservoir_sampling.odp)/[pdf](pdf/tt23_reservoir_sampling.pdf) -- MOVED TO SESSION 10
    * Nearpod open-ended question: probabilities in a reservoir sample
 
 ## After class
