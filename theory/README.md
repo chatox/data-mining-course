@@ -225,7 +225,7 @@ Note for 2021 -- need to finish everything in this class for practice sessions t
    * :tv: We will watch this 6-minutes [animation on Bloom Filters](https://www.youtube.com/watch?v=kfFacplFY4Y)
 * Lecture TT25: probabilistic counting [odp](odp/tt25_probabilistic_counting.odp)/[pdf](pdf/tt25_probabilistic_counting.pdf)
    * Nearpod open-ended question: ideas for simple probabilistic counting
-* Lecture TT27: time series [odp](odp/tt27_time_series.odp)/[pdf](pdf/tt27_time_series.pdf)
+* Lecture TT27: time series [odp](odp/tt27_time_series.odp)/[pdf](pdf/tt27_time_series.pdf) -- MOVED TO NEXT SESSION
    * Google spreadsheet: smooth a time series
 
 ### After class
@@ -245,7 +245,7 @@ Note for 2021 -- need to finish everything in this class for practice sessions t
 
 ### During class
 
-* Lecture TT28: time series similarity [odp](odp/tt28_time_series_similarity.odp)/[pdf](pdf/tt28_time_series_similarity.pdf) -- LIKELY TO BE SKIPPED
+* Lecture TT28: time series similarity [odp](odp/tt28_time_series_similarity.odp)/[pdf](pdf/tt28_time_series_similarity.pdf)
    * Google spreadsheet: dynamic time warping
 * Lecture TT29: time series forecasting [odp](odp/tt29_forecasting.odp)/[pdf](pdf/tt29_forecasting.pdf)
    * Google spreadsheet: simple auto-regressive model
