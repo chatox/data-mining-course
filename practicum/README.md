@@ -43,5 +43,5 @@ At the end of each handout there is a description of what you should deliver. Pl
 | 8 | PS05+PS06                                     | Wrap-up | -----------| -----------|----------- |
 | 9 | [PS07](ps07_outlier_analysis.ipynb)           | Outlier analysis        | 2021-12-02 14:30 | 2021-12-02 14:30 | 2021-12-06 10:30 |
 | 10 | [PS08](ps08_data_streams.ipynb)              | Data streams            | 2021-12-02 14:30 | 2021-12-02 14:30 | 2021-12-06 10:30 |
-| 11 | [PS09](ps09_forecasting.ipynb)               | Time series forecasting | 2021-12-02 14:30 | 2021-12-02 14:30 | 2021-12-06 10:30 |
+| 11 | [PS09](ps09_forecasting.ipynb)               | Time series forecasting | 2021-12-07 18:00 | 2021-12-07 18:00 | 2021-12-07 18:00 |
 | 12 | PS07+PS08+PS09                               | Wrap-up | -----------|----------- |----------- |
