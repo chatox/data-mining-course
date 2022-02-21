@@ -38,6 +38,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 ### Optional/additional material
 
 * :computer: Strongly recommended to help you prepare for the practice sessions: [tutorials 1 and 2](http://www.cse.msu.edu/~ptan/dmbook/software/) of the book by Tan et al. These tutorials are an introduction to Python, which you should do unless you are very comfortable with this language, and about `numpy` and `pandas`, which will save you a ton of time in the practices.
+* Read [data sources and biases](http://trustworthymachinelearning.com/trustworthymachinelearning-04.htm) free book chapter of the Trustworthy Machine Learning book.
 
 ## Session 2: Data cleaning
 
