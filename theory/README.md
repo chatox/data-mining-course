@@ -98,10 +98,10 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 ### During class
 
 * Lecture TT11: itemsets [odp](odp/tt11_itemsets.odp)/[pdf](pdf/tt11_itemsets.pdf)
-   * Google spreadsheet: compute itemset support
-   * Nearpod collaborate: compute maximal itemsets
+   * Exercise: compute itemset support (spreadsheet)
+   * Exercise: compute maximal itemsets
 * Lecture TT12: association rules [odp](odp/tt12_association_rules.odp)/[pdf](pdf/tt12_association_rules.pdf)
-   * Nearpod draw-it: compute support, confidence, and lift of a rule
+   * Exercise: compute support, confidence, and lift of a rule
 
 ### After class
 
