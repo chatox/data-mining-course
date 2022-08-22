@@ -25,8 +25,8 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
    * Overview of [practice sessions](../practicum/README.md)
    * Overview of [evaluation rules](../upf/upf-evaluation.md)
 * Lecture TT02: data, methods, and scenarios [odp](odp/tt02_data_methods_scenarios.odp)/[pdf](pdf/tt02_data_methods_scenarios.pdf)
-   * Nearpod open ended question: confidence of a rule
-   * Nearpod time to climb: identify data mining tasks
+   * Exercise: confidence of a rule
+   * Exercise: which ones are data mining tasks? (pin board)
 * Lecture TT03: data preparation, data types [odp](odp/tt03_data_types.odp)/[pdf](pdf/tt03_data_types.pdf) -- MOVED TO SESSION 02
    * Google spreadsheet: compute binning
 
