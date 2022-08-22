@@ -27,7 +27,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 * Lecture TT02: data, methods, and scenarios [odp](odp/tt02_data_methods_scenarios.odp)/[pdf](pdf/tt02_data_methods_scenarios.pdf)
    * Exercise: confidence of a rule
    * Exercise: which ones are data mining tasks? (pin board)
-* Lecture TT03: data preparation, data types [odp](odp/tt03_data_types.odp)/[pdf](pdf/tt03_data_types.pdf) 
+* Lecture TT03: data preparation, data types [odp](odp/tt03_data_types.odp)/[pdf](pdf/tt03_data_types.pdf)
    * Exercise: compute binning (spreadsheet)
 
 ### After class
@@ -51,7 +51,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 * Lecture TT04: data integration and cleaning [odp](odp/tt04_integration_cleaning.odp)/[pdf](pdf/tt04_integration_cleaning.pdf)
    * Exercise: how to handle missing data
 * Lecture TT05: data reduction and transformation [odp](odp/tt05_reduction.odp)/[pdf](pdf/tt05_reduction.pdf)
-* Lecture TT06: similarity computation on numerical data [odp](odp/tt06_sim_numerical.odp)/[pdf](pdf/tt06_sim_numerical.pdf) 
+* Lecture TT06: similarity computation on numerical data [odp](odp/tt06_sim_numerical.odp)/[pdf](pdf/tt06_sim_numerical.pdf)
    * Exercise: compute Lp norm
 
 ### After class
@@ -73,10 +73,10 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 ### During class
 
 * Lecture TT07: similarity computation beyond numerical data [odp](odp/tt07_sim_beyond_numerical.odp)/[pdf](pdf/tt07_sim_beyond_numerical.pdf)
-   * Nearpod collaborate: compute Jaccard similarity
-* Lecture TT08: finding near-duplicates [odp](odp/tt08_near_duplicates.odp)/[pdf](pdf/tt08_near_duplicates.pdf) -- PARTIALLY MOVED TO SESSION 04
-   * Nearpod draw it: compute signature matrix
-* Lecture TT09: locality-sensitive hashing [odp](odp/tt09_locality_sensitive_hashing.odp)/[pdf](pdf/tt09_locality_sensitive_hashing.pdf) -- SKIPPED COMPLETELY (NOT FOR THE EXAM)
+   * Exercise: compute Jaccard similarity
+* Lecture TT08: finding near-duplicates [odp](odp/tt08_near_duplicates.odp)/[pdf](pdf/tt08_near_duplicates.pdf)
+   * Exercise: compute signature matrix
+* Lecture TT09: locality-sensitive hashing [odp](odp/tt09_locality_sensitive_hashing.odp)/[pdf](pdf/tt09_locality_sensitive_hashing.pdf)
 
 ### After class
 
