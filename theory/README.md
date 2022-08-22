@@ -27,8 +27,8 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 * Lecture TT02: data, methods, and scenarios [odp](odp/tt02_data_methods_scenarios.odp)/[pdf](pdf/tt02_data_methods_scenarios.pdf)
    * Exercise: confidence of a rule
    * Exercise: which ones are data mining tasks? (pin board)
-* Lecture TT03: data preparation, data types [odp](odp/tt03_data_types.odp)/[pdf](pdf/tt03_data_types.pdf) -- MOVED TO SESSION 02
-   * Google spreadsheet: compute binning
+* Lecture TT03: data preparation, data types [odp](odp/tt03_data_types.odp)/[pdf](pdf/tt03_data_types.pdf) 
+   * Exercise: compute binning (spreadsheet)
 
 ### After class
 
