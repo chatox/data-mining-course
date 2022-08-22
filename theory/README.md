@@ -255,9 +255,7 @@ Note for 2021 -- need to finish everything in this class for practice sessions t
 
 * Read section 14.3 of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
 
-### Optional/additional material
-
-* See presentation TT30: spectral graph clustering [odp](odp/tt30_spectral_graph_clustering.odp)/[pdf](pdf/tt30_spectral_graph_clustering.pdf)
+# Notes
 
 Note that session numbers are approximate and subject to change.
 
