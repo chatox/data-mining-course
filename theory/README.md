@@ -121,7 +121,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 * Lecture TT13: association rules mining [odp](odp/tt13_association_rules_mining.odp)/[pdf](pdf/tt13_association_rules_mining.pdf)
    * Exercise: prove confidence monotonicity
    * Exercise: execute Apriori algorithm (spreadsheet)
-* Lecture TT14: speeding up association rules mining [odp](odp/tt14_improved_rules_mining.odp)/[pdf](pdf/tt14_improved_rules_mining.pdf) 
+* Lecture TT14: speeding up association rules mining [odp](odp/tt14_improved_rules_mining.odp)/[pdf](pdf/tt14_improved_rules_mining.pdf)
    * Exercise: indicate which items are visited in a hash tree
 
 ### After class
@@ -138,11 +138,11 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 
 ### Before class
 
-Study on your own TT01-TT08, TT11-TT13, try to solve exams from past years. Ask your questions in the forum.
+Study on your own, try to solve exams from past years. Ask your questions in the forum.
 
 ### During class
 
-We will have a mid-term exam covering topics: TT01-TT08, TT11-TT13.
+We will have a mid-term exam, with no class after the mid-term.
 
 ## Session 7: Recommender systems
 
@@ -154,9 +154,9 @@ We will have a mid-term exam covering topics: TT01-TT08, TT11-TT13.
 ### During class
 
 * Lecture TT16: recommender systems [odp](odp/tt16_recommender_systems.odp)/[pdf](pdf/tt16_recommender_systems.pdf)
-   * Google spreadsheet: content-based single-user recommendations
+   * Exercise: content-based single-user recommendations (spreadsheet)
 * Lecture TT17: interaction-based recommender systems [odp](odp/tt17_interaction_based_recommenders.odp)/[pdf](pdf/tt17_interaction_based_recommenders.pdf)
-   * Google spreadsheet: recommender based on user similarity
+   * Exercise: recommender based on user similarity (spreadsheet)
 
 Note for 2021 -- need to finish everything in this class for practice sessions to have the necessary background
 
