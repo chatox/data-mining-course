@@ -119,10 +119,10 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 ### During class
 
 * Lecture TT13: association rules mining [odp](odp/tt13_association_rules_mining.odp)/[pdf](pdf/tt13_association_rules_mining.pdf)
-   * Nearpod draw-it: prove confidence monotonicity
-   * Google spreadsheet: execute Apriori algorithm
-* Lecture TT14: speeding up association rules mining [odp](odp/tt14_improved_rules_mining.odp)/[pdf](pdf/tt14_improved_rules_mining.pdf) -- UNTIL HASH TREES ONLY
-   * Nearpod draw-it: indicate which items are visited in a hash tree
+   * Exercise: prove confidence monotonicity
+   * Exercise: execute Apriori algorithm (spreadsheet)
+* Lecture TT14: speeding up association rules mining [odp](odp/tt14_improved_rules_mining.odp)/[pdf](pdf/tt14_improved_rules_mining.pdf) 
+   * Exercise: indicate which items are visited in a hash tree
 
 ### After class
 
