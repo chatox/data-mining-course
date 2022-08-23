@@ -177,7 +177,7 @@ Note for 2021 -- need to finish everything in this class for practice sessions t
 * Lecture TT18: latent-factors based recommender systems [odp](odp/tt18_latent_factors_recommenders.odp)/[pdf](pdf/tt18_latent_factors_recommenders.pdf)
 * Lecture TT19: outliers introduction and extreme value analysis [odp](odp/tt19_outliers_extreme_values.odp)/[pdf](pdf/tt19_outliers_extreme_values.pdf)
    * Google spreadsheet: outliers using z-score
-* Lecture TT20: probability and clustering-based methods [odp](odp/tt20_outliers_probability_density.odp)/[pdf](pdf/tt20_outliers_probability_density.pdf) -- MOVED TO SESSION 09
+* Lecture TT20: probability and clustering-based methods [odp](odp/tt20_outliers_probability_density.odp)/[pdf](pdf/tt20_outliers_probability_density.pdf)
    * Google spreadsheet: clustering-based outlier detection
 
 ### After class
@@ -200,9 +200,9 @@ Note for 2021 -- need to finish everything in this class for practice sessions t
 
 * Lecture TT21: density- and isolation-based methods [odp](odp/tt21_outliers_isolation.odp)/[pdf](pdf/tt21_outliers_isolation.pdf)
    * Nearpod draw-it: isolation forest example
-* Lecture TT22: data streams [odp](odp/tt22_streams.odp)/[pdf](pdf/tt22_streams.pdf) -- PARTIALLY MOVED TO SESSION 10
+* Lecture TT22: data streams [odp](odp/tt22_streams.odp)/[pdf](pdf/tt22_streams.pdf)
    * Nearpod collaborate: probability of a false positive or a false negative
-* Lecture TT23: reservoir sampling [odp](odp/tt23_reservoir_sampling.odp)/[pdf](pdf/tt23_reservoir_sampling.pdf) -- MOVED TO SESSION 10
+* Lecture TT23: reservoir sampling [odp](odp/tt23_reservoir_sampling.odp)/[pdf](pdf/tt23_reservoir_sampling.pdf)
    * Nearpod open-ended question: probabilities in a reservoir sample
 
 ## After class
@@ -226,7 +226,7 @@ Note for 2021 -- need to finish everything in this class for practice sessions t
    * :tv: We will watch this 6-minutes [animation on Bloom Filters](https://www.youtube.com/watch?v=kfFacplFY4Y)
 * Lecture TT25: probabilistic counting [odp](odp/tt25_probabilistic_counting.odp)/[pdf](pdf/tt25_probabilistic_counting.pdf)
    * Nearpod open-ended question: ideas for simple probabilistic counting
-* Lecture TT27: time series [odp](odp/tt27_time_series.odp)/[pdf](pdf/tt27_time_series.pdf) -- MOVED TO NEXT SESSION
+* Lecture TT27: time series [odp](odp/tt27_time_series.odp)/[pdf](pdf/tt27_time_series.pdf)
    * Google spreadsheet: smooth a time series
 
 ### After class
