@@ -176,9 +176,9 @@ Note for 2021 -- need to finish everything in this class for practice sessions t
 * :tv: We will watch this 8-minutes presentation on [how recommender systems work](https://www.youtube.com/watch?v=n3RKsY2H-NE) by Art of the Problem, which describes a factorization-based (latent-factors based) method
 * Lecture TT18: latent-factors based recommender systems [odp](odp/tt18_latent_factors_recommenders.odp)/[pdf](pdf/tt18_latent_factors_recommenders.pdf)
 * Lecture TT19: outliers introduction and extreme value analysis [odp](odp/tt19_outliers_extreme_values.odp)/[pdf](pdf/tt19_outliers_extreme_values.pdf)
-   * Google spreadsheet: outliers using z-score
+   * Exercise: outliers using z-score (spreadsheet)
 * Lecture TT20: probability and clustering-based methods [odp](odp/tt20_outliers_probability_density.odp)/[pdf](pdf/tt20_outliers_probability_density.pdf)
-   * Google spreadsheet: clustering-based outlier detection
+   * Exercise: clustering-based outlier detection (spreadsheet)
 
 ### After class
 
@@ -199,11 +199,11 @@ Note for 2021 -- need to finish everything in this class for practice sessions t
 ## During class
 
 * Lecture TT21: density- and isolation-based methods [odp](odp/tt21_outliers_isolation.odp)/[pdf](pdf/tt21_outliers_isolation.pdf)
-   * Nearpod draw-it: isolation forest example
+   * Exercise: isolation forest example
 * Lecture TT22: data streams [odp](odp/tt22_streams.odp)/[pdf](pdf/tt22_streams.pdf)
-   * Nearpod collaborate: probability of a false positive or a false negative
+   * Exercise: probability of a false positive or a false negative
 * Lecture TT23: reservoir sampling [odp](odp/tt23_reservoir_sampling.odp)/[pdf](pdf/tt23_reservoir_sampling.pdf)
-   * Nearpod open-ended question: probabilities in a reservoir sample
+   * Exercise: probabilities in a reservoir sample
 
 ## After class
 
