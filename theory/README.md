@@ -247,9 +247,9 @@ Note for 2021 -- need to finish everything in this class for practice sessions t
 ### During class
 
 * Lecture TT28: time series similarity [odp](odp/tt28_time_series_similarity.odp)/[pdf](pdf/tt28_time_series_similarity.pdf)
-   * Google spreadsheet: dynamic time warping
+   * Example: dynamic time warping (spreadsheet)
 * Lecture TT29: time series forecasting [odp](odp/tt29_forecasting.odp)/[pdf](pdf/tt29_forecasting.pdf)
-   * Google spreadsheet: simple auto-regressive model
+   * Example: simple auto-regressive model (spreadsheet)
 
 ### After class
 
