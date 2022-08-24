@@ -31,17 +31,17 @@ There are 09 practice sessions in this course, the handouts are Python notebooks
 
 At the end of each handout there is a description of what you should deliver. Please ask in the course forum or to your practice instructor ("*profesor/a de prácticas*") any questions you may have.
 
-| # | Handouts                                    | Contents | Deadline 101 |  Deadline 102 | Deadline 103 | 
+| # | Handouts                                    | Contents | Deadline 101 |  Deadline 102 | Deadline 103 |
 |---|---------------------------------------------|----------| -----------| -----------| ----------- |
-| 1 | [PS01+PS02](ps01_02_data_preparation.ipynb)   | Data preparation (two sessions, grade x 2) | 2021-10-07 14:30 | 2021-10-07 14:30 | 2021-10-11 12:30 | 
+| 1 | [PS01+PS02](ps01_02_data_preparation.ipynb)   | Data preparation (two sessions, grade x 2) | 2022-10-07 10:30 | 2022-10-07 10:30 | 2022-10-06 14:30 |
 | 2 | PS01+PS02                                     | Wrap-up | -----------|----------- |----------- |
-| 3 | [PS03](ps03_near_duplicates.ipynb)            | Near-duplicate detection | 2021-10-25 10:30 | 2021-10-25 10:30 | 2021-10-21 14:30 |
-| 4 | [PS04](ps04_association_rules.ipynb)          | Association rules mining | 2021-10-25 10:30 | 2021-10-25 10:30 | 2021-10-21 14:30 |
+| 3 | [PS03](ps03_near_duplicates.ipynb)            | Near-duplicate detection | 2022-10-26 10:30 | 2022-10-26 10:30 | 2022-10-27 14:30 |
+| 4 | [PS04](ps04_association_rules.ipynb)          | Association rules mining | 2022-10-26 10:30 | 2022-10-26 10:30 | 2022-10-27 14:30 |
 | 5 | PS03+PS04                                     | Wrap-up |----------- | -----------|----------- |
-| 6 | [PS05](ps05_content_based_recsys.ipynb)       | Content-based recommendations         | 2021-11-08 10:30 | 2021-11-08 10:30 | 2021-11-09 12:30 |
-| 7 | [PS06](ps06_item_based_recsys.ipynb)          | Item-based similarity recommendations | 2021-11-08 10:30 | 2021-11-08 10:30 | 2021-11-09 12:30 |
+| 6 | [PS05](ps05_content_based_recsys.ipynb)       | Content-based recommendations         | 2022-11-14 10:30 | 2022-11-14 10:30 | 2022-11-16 14:30 |
+| 7 | [PS06](ps06_item_based_recsys.ipynb)          | Item-based similarity recommendations | 2022-11-14 10:30 | 2022-11-14 10:30 | 2022-11-16 14:30 |
 | 8 | PS05+PS06                                     | Wrap-up | -----------| -----------|----------- |
-| 9 | [PS07](ps07_outlier_analysis.ipynb)           | Outlier analysis        | 2021-12-02 14:30 | 2021-12-02 14:30 | 2021-12-06 10:30 |
-| 10 | [PS08](ps08_data_streams.ipynb)              | Data streams            | 2021-12-02 14:30 | 2021-12-02 14:30 | 2021-12-06 10:30 |
-| 11 | [PS09](ps09_forecasting.ipynb)               | Time series forecasting | 2021-12-07 18:00 | 2021-12-07 18:00 | 2021-12-07 18:00 |
+| 9 | [PS07](ps07_outlier_analysis.ipynb)           | Outlier analysis        | 2022-12-02 10:30 | 2022-12-02 10:30 | 2022-12-01 14:30 |
+| 10 | [PS08](ps08_data_streams.ipynb)              | Data streams            | 2022-12-02 10:30 | 2022-12-02 10:30 | 2022-12-01 14:30 |
+| 11 | [PS09](ps09_forecasting.ipynb)               | Time series forecasting | 2022-12-02 10:30 | 2022-12-02 10:30 | 2022-12-01 14:30 |
 | 12 | PS07+PS08+PS09                               | Wrap-up | -----------|----------- |----------- |
