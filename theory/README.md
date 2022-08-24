@@ -201,7 +201,7 @@ Note for 2021 -- need to finish everything in this class for practice sessions t
 * Lecture TT21: density- and isolation-based methods [odp](odp/tt21_outliers_isolation.odp)/[pdf](pdf/tt21_outliers_isolation.pdf)
    * Exercise: isolation forest example
 * Lecture TT22: data streams [odp](odp/tt22_streams.odp)/[pdf](pdf/tt22_streams.pdf)
-   * Exercise: probability of a false positive or a false negative
+   * Exercise: sampling at a fixed rate
 * Lecture TT23: reservoir sampling [odp](odp/tt23_reservoir_sampling.odp)/[pdf](pdf/tt23_reservoir_sampling.pdf)
    * Exercise: probabilities in a reservoir sample
 
@@ -225,9 +225,9 @@ Note for 2021 -- need to finish everything in this class for practice sessions t
 * Lecture TT24: bloom filters [odp](odp/tt24_bloom_filters.odp)/[pdf](pdf/tt24_bloom_filters.pdf)
    * :tv: We will watch this 6-minutes [animation on Bloom Filters](https://www.youtube.com/watch?v=kfFacplFY4Y)
 * Lecture TT25: probabilistic counting [odp](odp/tt25_probabilistic_counting.odp)/[pdf](pdf/tt25_probabilistic_counting.pdf)
-   * Nearpod open-ended question: ideas for simple probabilistic counting
+   * Exercise: ideas for simple probabilistic counting
 * Lecture TT27: time series [odp](odp/tt27_time_series.odp)/[pdf](pdf/tt27_time_series.pdf)
-   * Google spreadsheet: smooth a time series
+   * Exercise: smooth a time series (spreadsheet)
 
 ### After class
 
