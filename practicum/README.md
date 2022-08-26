@@ -8,6 +8,7 @@ You will need:
    * You can use the [Anaconda](https://www.anaconda.com/products/individual) package manager.
 * Several Python packages
    * [matplotlib](https://matplotlib.org/)
+   * [seaborn](https://seaborn.pydata.org/)
    * [numpy](https://numpy.org/)
    * [scikit-learn](https://scikit-learn.org/stable/)
    * [apyori](https://pypi.org/project/apyori/)
