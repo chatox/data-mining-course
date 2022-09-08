@@ -14,7 +14,7 @@ This is not a full repository of datasets for data mining, but instead some data
 | Filename | Credits |
 |----------|--------|
 | device_db.csv, re_dataset.csv | Mobile purchase data |
-| CovidLockDownCatalonia.json.gz | [CrisisNLP Team](https://crisisnlp.qcri.org/covid19) |
+| CovidLockDownCatalonia/ | [CrisisNLP Team](https://crisisnlp.qcri.org/covid19) |
 | services_purchased.csv | B2B service purchase history |
 | DCEP-reports-en.txt.gz | [DCEP](https://ec.europa.eu/jrc/en/language-technologies/dcep) |
 | aemet-barcelona-airport-2016-2021.csv | [AEMET](https://opendata.aemet.es/centrodedescargas/inicio) |

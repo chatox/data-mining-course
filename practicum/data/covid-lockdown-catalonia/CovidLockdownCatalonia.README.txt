@@ -1,0 +1,13 @@
+
+This file was obtained from CrisisNLP [1].
+
+This is a website that provides COVID-19 collections of tweets, however,
+they only provide the identifier of the tweet, known as a tweet-id.
+
+To recover the entire tweet, a process commonly known as *re-hydration*
+needs to be used, which involves querying an API from Twitter, giving the
+tweet-id, and obtaining the tweet. This can be done with a little bit of
+programming or using a software such as TWARC [2].
+
+[1] https://crisisnlp.qcri.org/covid19
+[2] https://github.com/DocNow/twarc#dehydrate
