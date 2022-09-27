@@ -9,7 +9,7 @@ Filtered to contain only movies released in the year 2000 or later
 
 ratings-2000s.csv:
 Filtered to contain only movies released in the year 2000 or later
-Filtered to sample only 20% of the ratings
+Filtered to sample only 20% of the users and all of their ratings
 
 tags-2000s.csv:
 Filtered to contain only movies released in the year 2000 or later
