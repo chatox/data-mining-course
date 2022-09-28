@@ -134,7 +134,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 * See presentation TT15: extending association analysis [odp](odp/tt015_extended_association_analysis.odp)/[pdf](pdf/tt15_extended_association_analysis.pdf)
 * If you did not understand well the hash tree, watch these four videos (18 minutes in total) from the J. Academy: [support counting using hash tree (part 1)](https://www.youtube.com/watch?v=qPIp3Wq64Vs), [support counting using hash tree (part 2)](https://www.youtube.com/watch?v=AIqOQA5mnGA), [hash tree generation step by step](https://www.youtube.com/watch?v=btW-uU1dhWI), [hash tree and support counting](https://www.youtube.com/watch?v=d040C7c06e4); if you find this easy to follow check their entire [playlist on association rules mining](https://www.youtube.com/playlist?list=PLk6n8LK7VfVg8r39BtrJUBrjyShlZ0nqt).
 
-## Session 6: Mid-term exam
+## Session 6: Mid-term exam (Friday October 28th, 2022)
 
 ### Before class
 
