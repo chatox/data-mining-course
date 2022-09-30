@@ -31,5 +31,5 @@ This is not a full repository of datasets for data mining, but instead some data
 | EstamosPorTi.json.gz | [Gabriele  2018](https://archive.org/details/EstamosporTIOohmm2018032618831Ids) |
 | furniture-sales.csv | [Tableau community forum](https://community.tableau.com/docs/DOC-1236) |
 | prices-split-adjusted.csv | [Kaggle](https://www.kaggle.com/dgawlik/nyse) |
-| thyroid.csv | [ODDS](http://odds.cs.stonybrook.edu/thyroid-disease-dataset/) |
+| annthyroid.csv | [ODDS](http://odds.cs.stonybrook.edu/annthyroid-dataset/) |
 | instacart/ | [Instacart](https://www.kaggle.com/c/instacart-market-basket-analysis) |
