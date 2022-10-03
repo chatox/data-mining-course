@@ -16,7 +16,8 @@ This is not a full repository of datasets for data mining, but instead some data
 | device_db.csv, re_dataset.csv | Mobile purchase data |
 | CovidLockDownCatalonia/ | [CrisisNLP Team](https://crisisnlp.qcri.org/covid19) |
 | Instacart/ | [Kaggle](https://www.kaggle.com/c/instacart-market-basket-analysis) |
-| DCEP-reports-en.txt.gz | [DCEP](https://ec.europa.eu/jrc/en/language-technologies/dcep) |
+| annthyroid.csv | [ODDS](http://odds.cs.stonybrook.edu/annthyroid-dataset/) |
+| movie_dialog_corpus/ | [Movie Dialog Corpus](https://www.kaggle.com/datasets/Cornell-University/movie-dialog-corpus) |
 | aemet-barcelona-airport-2016-2021.csv | [AEMET](https://opendata.aemet.es/centrodedescargas/inicio) |
 | movielens-25M-filtered | Filtered [MovieLens 25M](https://grouplens.org/datasets/movielens/25m/) |
 
@@ -31,5 +32,5 @@ This is not a full repository of datasets for data mining, but instead some data
 | EstamosPorTi.json.gz | [Gabriele  2018](https://archive.org/details/EstamosporTIOohmm2018032618831Ids) |
 | furniture-sales.csv | [Tableau community forum](https://community.tableau.com/docs/DOC-1236) |
 | prices-split-adjusted.csv | [Kaggle](https://www.kaggle.com/dgawlik/nyse) |
-| annthyroid.csv | [ODDS](http://odds.cs.stonybrook.edu/annthyroid-dataset/) |
+| DCEP-reports-en.txt.gz | [DCEP](https://ec.europa.eu/jrc/en/language-technologies/dcep) |
 | instacart/ | [Instacart](https://www.kaggle.com/c/instacart-market-basket-analysis) |
