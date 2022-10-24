@@ -138,9 +138,9 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 
 ### Before class
 
-Study on your own TT01-TT08, TT09, TT11-TT13, try to solve exams from past years. Ask your questions in the forum.
+Study on your own TT01-TT08, TT11-TT13, try to solve exams from past years. Ask your questions in the forum.
 
-The exam will not include TT08, TT10 or TT14.
+The exam will not include TT09, TT10 or TT14.
 
 ### During class
 
