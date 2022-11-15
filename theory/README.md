@@ -160,8 +160,6 @@ We will have a mid-term exam, with no class after the mid-term.
 * Lecture TT17: interaction-based recommender systems [odp](odp/tt17_interaction_based_recommenders.odp)/[pdf](pdf/tt17_interaction_based_recommenders.pdf)
    * Exercise: recommender based on user similarity (spreadsheet)
 
-Note for 2021 -- need to finish everything in this class for practice sessions to have the necessary background
-
 ### After class
 
 * Read [sections 9.1-9.3 of Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
@@ -207,6 +205,8 @@ Note for 2021 -- need to finish everything in this class for practice sessions t
 * Lecture TT23: reservoir sampling [odp](odp/tt23_reservoir_sampling.odp)/[pdf](pdf/tt23_reservoir_sampling.pdf)
    * Exercise: probabilities in a reservoir sample
 
+Note for 2022 -- *need to finish outlier detection on this class* - isolation forest - for practice sessions to have the necessary background.
+
 ## After class
 
 * Read [sections 4.1 and 4.2 of Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/ch4.pdf)
@@ -231,6 +231,8 @@ Note for 2021 -- need to finish everything in this class for practice sessions t
 * Lecture TT27: time series [odp](odp/tt27_time_series.odp)/[pdf](pdf/tt27_time_series.pdf)
    * Exercise: smooth a time series (spreadsheet)
 
+Note for 2022 -- need to finish probabilistic counting for practice session on probabilistic counting to have the necessary background
+
 ### After class
 
 * Read [sections 4.3 and 4.4 of Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/ch4.pdf)
@@ -252,6 +254,8 @@ Note for 2021 -- need to finish everything in this class for practice sessions t
    * Example: dynamic time warping (spreadsheet)
 * Lecture TT29: time series forecasting [odp](odp/tt29_forecasting.odp)/[pdf](pdf/tt29_forecasting.pdf)
    * Example: simple auto-regressive model (spreadsheet)
+
+Note for 2022 -- need to finish forecasting for practice session on temperature prediction to have the necessary background
 
 ### After class
 
