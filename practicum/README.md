@@ -42,7 +42,7 @@ At the end of each handout there is a description of what you should deliver. Pl
 | 6 | [PS05](ps05_content_based_recsys.ipynb)       | Content-based recommendations         | 2022-11-14 10:30 | 2022-11-14 10:30 | 2022-11-16 14:30 |
 | 7 | [PS06](ps06_item_based_recsys.ipynb)          | Item-based similarity recommendations | 2022-11-14 10:30 | 2022-11-14 10:30 | 2022-11-16 14:30 |
 | 8 | PS05+PS06                                     | Wrap-up | -----------| -----------|----------- |
-| 9 | [PS07](ps07_outlier_analysis.ipynb)           | Outlier analysis        | 2022-12-02 10:30 | 2022-12-02 10:30 | 2022-12-07 14:30 |
-| 10 | [PS08](ps08_data_streams.ipynb)              | Data streams            | 2022-12-02 10:30 | 2022-12-02 10:30 | 2022-12-07 14:30 |
-| 11 | [PS09](ps09_forecasting.ipynb)               | Time series forecasting | 2022-12-02 10:30 | 2022-12-02 10:30 | 2022-12-07 14:30 |
+| 9 | [PS07](ps07_outlier_analysis.ipynb)           | Outlier analysis        | 2022-12-07 23:59 | 2022-12-07 23:59 | 2022-12-07 23:59 |
+| 10 | [PS08](ps08_data_streams.ipynb)              | Data streams            | 2022-12-07 23:59 | 2022-12-07 23:59 | 2022-12-07 23:59 |
+| 11 | [PS09](ps09_forecasting.ipynb)               | Time series forecasting | 2022-12-07 23:59 | 2022-12-07 23:59 | 2022-12-07 23:59 |
 | 12 | PS07+PS08+PS09                               | Wrap-up | -----------|----------- |----------- |
