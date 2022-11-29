@@ -261,6 +261,10 @@ Note for 2022 -- need to finish forecasting for practice session on temperature 
 
 * Read section 14.3 of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
 
+## Final exam (Friday, December 16th, 2022)
+
+The final exam will include topics TT16-TT25, TT27-TT29; it will not include topic TT26.
+
 # Notes
 
 Note that session numbers are approximate and subject to change.
