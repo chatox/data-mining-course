@@ -20,7 +20,7 @@ If you fail to pass, you will have to take the resit exam. The resit exam replac
 
 To obtain a grade in the practical session, you must:
 
-* Attend the practical session (attendance to "wrap-up" sessions)
+* Attend the practical session (attendance to "wrap-up" sessions is NOT mandatory)
 * Submit a screenshot of your work at the end of the session through *Aula Global* (an image of the last part of what you were doing when the time ended)
 * Deliver your work within the deadline.
 * A grace period of 24 hours after the deadline will be given, with a -2 points penalization. Saturdays, Sundays, and holidays do not count in the grace period.
