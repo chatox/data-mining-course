@@ -250,12 +250,12 @@ Note for 2022 -- need to finish probabilistic counting for practice session on p
 
 ### During class
 
-* Lecture TT28: time series similarity [odp](https://docs.google.com/presentation/d/1W_LjPLv_Qo-zGe-hj9d1I3O3yvCPhtw8ShqxNGGC1zA/edit?usp=share_link)/[pdf](pdf/tt28_time_series_similarity_L11.pdf)
+* Lecture TT28: time series similarity [ppt](https://docs.google.com/presentation/d/1W_LjPLv_Qo-zGe-hj9d1I3O3yvCPhtw8ShqxNGGC1zA/edit?usp=share_link)/[pdf](pdf/tt28_time_series_similarity_L11.pdf)
    * Example: dynamic time warping (spreadsheet)
-* Lecture TT29: time series forecasting [odp](https://docs.google.com/presentation/d/1zk07T0Urs707uApRynmniui1eKEUPurDIN8jqUaCdCE/edit?usp=share_link)/[pdf](pdf/tt29_forecasting_L11.pdf)
+* Lecture TT29: time series forecasting [ppt](https://docs.google.com/presentation/d/1zk07T0Urs707uApRynmniui1eKEUPurDIN8jqUaCdCE/edit?usp=share_link)/[pdf](pdf/tt29_forecasting_L11.pdf)
    * Example: simple auto-regressive model (spreadsheet)
 
-Note for 2022 -- need to finish forecasting for practice session on temperature prediction to have the necessary background
+Note for 2023 -- need to finish forecasting for practice session on temperature prediction to have the necessary background
 
 ### After class
 
