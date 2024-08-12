@@ -1,6 +1,6 @@
 # Data Mining Course
 
-Instructor: [Teodora Sandra Buda](https://tbuda.github.io/)
+Instructor: [Carlos "ChaTo" Castillo](https://chato.cl/)
 
 These are materials for a twelve-weeks undergraduate course on **Data Mining**, and include two-hour lectures and two-hour practice sessions every week. They were developed for third year students of the bachelor degree on *Mathematical Engineering on Data Science* at Universitat Pompeu Fabra, Barcelona.
 
@@ -26,6 +26,6 @@ Material specific to UPF students:
 
 # Acknowledgments
 
-This course was developed by [Carlos "ChaTo" Castillo](https://chato.cl/). ChaTo is thankful to Aris Gionis and Aris Anagnostopoulos for their comments on an earlier version of these materials. Thanks to Miguel Angel Cordobés for his work on several of the practical sessions, and to Fedor Vitiugin for his corrections and improvements on the practical sessions.
+This course was developed by [Carlos "ChaTo" Castillo](https://chato.cl/) and updated in 2023 by [Teodora Sandra Buda](https://tbuda.github.io/). ChaTo is thankful to Aris Gionis and Aris Anagnostopoulos for their comments on an earlier version of these materials. Thanks to Miguel Angel Cordobés for his work on several of the practical sessions, and to Fedor Vitiugin for his corrections and improvements on the practical sessions.
 
 [<img src="upf/cc-by-80x15.png" width="80" height="15" hspace="4"/>](https://creativecommons.org/licenses/by/4.0/) All course materials are available under a [Creative Commons](https://creativecommons.org/licenses/by/4.0/) license unless specified otherwise.
