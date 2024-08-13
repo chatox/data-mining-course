@@ -10,6 +10,8 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 
 **After each session, there is some reading for you to do.** These readings will be much easier after you have attended each lecture, will bring depth to what you learn in class, and will help you remember these contents better. Think of these readings as a form of continuous studying that will save you time and effort when preparing for the exams.
 
+:file_folder: You can find the slides for 2024 in this [Google Drive Folder](https://drive.google.com/drive/u/1/folders/1rbD4yqTNoNPsZ-S_qtPYBvO3CTvs-s4S).
+
 ## Session 1: Introduction
 
 ### Before class
@@ -19,7 +21,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 
 ### During class
 
-* Lecture TT01: introduction [ppt](https://docs.google.com/presentation/d/12kqLrpH_-i2sMdwG2GjyYOtdUyYqJvp9UKC0VOERMtM/edit?usp=share_link)/[pdf](pdf/tt01_introduction_L1.pdf)
+* **Lecture TT01: The Data Mining Process**
 * Course overview
    * Overview of [theory topics](./)
    * Overview of [practice sessions](../practicum/README.md)
