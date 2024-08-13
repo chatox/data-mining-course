@@ -10,7 +10,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 
 **After each session, there is some reading for you to do.** These readings will be much easier after you have attended each lecture, will bring depth to what you learn in class, and will help you remember these contents better. Think of these readings as a form of continuous studying that will save you time and effort when preparing for the exams.
 
-:file_folder: You can find the slides for 2024 in this [Google Drive Folder](https://drive.google.com/drive/u/1/folders/1rbD4yqTNoNPsZ-S_qtPYBvO3CTvs-s4S).
+:file_folder: this [Google Drive Folder](https://drive.google.com/drive/u/1/folders/1rbD4yqTNoNPsZ-S_qtPYBvO3CTvs-s4S) contains the slides for the 2024 lectures.
 
 ## Session 1: Introduction
 
@@ -26,10 +26,10 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
    * Overview of [theory topics](./)
    * Overview of [practice sessions](../practicum/README.md)
    * Overview of [evaluation rules](../upf/upf-evaluation.md)
-* Lecture TT02: data, methods, and scenarios [ppt](https://docs.google.com/presentation/d/1LwJ7-TkvtY92yVhdD9xANoCoKhh9XOsQ7VJkIllC7sE/edit?usp=share_link)/[pdf](pdf/tt02_data_methods_scenarios_L1.pdf)
+* **Lecture TT02: Data, Methods, and Scenarios**
    * Exercise: confidence of a rule
    * Exercise: which ones are data mining tasks? (pin board)
-* Lecture TT03: data preparation, data types [ppt](https://docs.google.com/presentation/d/1BerVrboqh1WiK-aRxRHSOPvbANIEVUCFywvlazWgy98/edit?usp=share_link)/[pdf](pdf/tt03_data_types_L1.pdf)
+* ** Lecture TT03: Data Preparation - Data Types**
    * Exercise: compute binning (spreadsheet)
 
 ### After class
@@ -50,10 +50,10 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 
 ### During class
 
-* Lecture TT04: data integration and cleaning [ppt](https://docs.google.com/presentation/d/142RU3QPFcS8jpw3xW8SrkwJWQQ3zSkaGW9C4qaWcHvs/edit?usp=share_link)/[pdf](pdf/tt04_integration_cleaning_L2.pdf)
+* ** Lecture TT04: Data Preparation - Integration and Cleaning**
    * Exercise: how to handle missing data
-* Lecture TT05: data reduction and transformation [ppt](https://docs.google.com/presentation/d/1eEakhvPVe1ykQiUC2bVsjPxrwexwEYIqqzOMz-vFnDc/edit?usp=share_link)/[pdf](pdf/tt05_reduction_L2.pdf)
-* Lecture TT06: similarity computation on numerical data [ppt](https://docs.google.com/presentation/d/1jzC2CbKFKnP5kxZ7EgV57otMEbKK3mj7W8THo7aftq0/edit?usp=share_linkp)/[pdf](pdf/tt06_sim_numerical_L2.pdf)
+* ** Lecture TT05: Data Preparation - Reduction and Transformation**
+* ** Lecture TT06: Similarity - Numerical Data**
    * Exercise: compute Lp norm
 
 ### After class
@@ -74,11 +74,11 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 
 ### During class
 
-* Lecture TT07: similarity computation beyond numerical data [ppt](https://docs.google.com/presentation/d/1VOrirgaf0gfeMKVmuiuq0_9gKhDgGO_8etcl0GJge3E/edit?usp=share_link)/[pdf](pdf/tt07_sim_beyond_numerical_L3.pdf)
+* **Lecture TT07: Similarity - Beyond Numerical Data**
    * Exercise: compute Jaccard similarity
-* Lecture TT08: finding near-duplicates [ppt](https://docs.google.com/presentation/d/1nDBeolUrQ1EIhIuJtM7FKh8CLPD0lTdY6wRI7i7lUDc/edit?usp=share_link)/[pdf](pdf/tt08_near_duplicates_L3.pdf)
+* **Lecture TT08: Finding Near-Duplicates**
    * Exercise: compute signature matrix
-* Lecture TT09: locality-sensitive hashing [ppt](https://docs.google.com/presentation/d/1wT0pWcSjUSERRSom_3_ZlKqsOwfFno57mu-5opALwjM/edit?usp=share_link)/[pdf](pdf/tt09_locality_sensitive_hashing_L3_supl.pdf) [SKIPPED IN 2022 -- NOT TO BE INCLUDED IN EXAMS]
+* **Lecture TT09: Locality-Sensitive Hashing**
 
 ### After class
 
@@ -89,7 +89,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 
 * :tv: Watch this 37-minutes lecture by Ben Langmead on [Jaccard coefficient and min-hashing](https://www.youtube.com/watch?v=aTwRpqUnQX8)
 * :tv: Watch Jeffrey D. Ullman, a famous computer scientist and co-author of one of the books we use in the course and of this method specifically describe this near-duplicate finding method. Two 50-minutes videos: [part 1](https://www.youtube.com/watch?v=bQAYY8INBxg), [part 2](https://www.youtube.com/watch?v=MaqNlNSY4gc).
-* See presentation TT10: locality-sensitive hashing additional materials [ppt](https://docs.google.com/presentation/d/1-etsQbPafHpBvdVBeLbYDwurzk86hobBDRPTst9fVJw/edit?usp=share_link)/[pdf](pdf/tt10_locality_sensitive_hashing_additional_L3_supl.pdf)
+* See presentation **TT10: Locality-Sensitive Hashing (Additional)**
 
 ## Session 4: Itemsets
 
@@ -99,10 +99,10 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 
 ### During class
 
-* Lecture TT11: itemsets [ppt](https://docs.google.com/presentation/d/1aLdz-eYKJrhzw42XwYKkymB63xkTRHCerVaSDrXFAG0/edit?usp=share_link)/[pdf](pdf/tt11_itemsets_L4.pdf)
+* **Lecture TT11: Itemsets**
    * Exercise: compute itemset support (spreadsheet)
    * Exercise: compute maximal itemsets
-* Lecture TT12: association rules [ppt](https://docs.google.com/presentation/d/1PSVja43RMfkOYVS55A2ORyluHwJ0BpIESQD7UvsF73E/edit?usp=share_link)/[pdf](pdf/tt12_association_rules_L4.pdf)
+* **Lecture TT12: Association Rules**
    * Exercise: compute support, confidence, and lift of a rule
 
 ### After class
@@ -120,10 +120,10 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 
 ### During class
 
-* Lecture TT13: association rules mining [ppt](https://docs.google.com/presentation/d/1teDn5V54e0tg7dLDR_E00zvSmrseW6wOgD0wsJn2pFY/edit?usp=share_link)/[pdf](pdf/tt13_association_rules_mining_L5.pdf)
+* **Lecture TT13: Association Rules Mining**
    * Exercise: prove confidence monotonicity
    * Exercise: execute Apriori algorithm (spreadsheet)
-* Lecture TT14: speeding up association rules mining [ppt](https://docs.google.com/presentation/d/1fIUo99cXK7OmTc84z1FmECuuOWsPiZFSgC6jhUEu5_k/edit?usp=share_link)/[pdf](pdf/tt14_improved_rules_mining_L5.pdf)
+* **Lecture TT14: Improved Association Rules Mining**
    * Exercise: indicate which items are visited in a hash tree
 
 ### After class
@@ -133,10 +133,10 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 
 ### Optional/additional material
 
-* See presentation TT15: extending association analysis [ppt](https://docs.google.com/presentation/d/1wdcg0s2UJGpc8Zu0y1aGYBQKv2ETv77gh1pFdTzPnGU/edit?usp=share_link)/[pdf](pdf/tt15_extended_association_analysis_L5_supl.pdf)
+* See presentation **TT15: Extending Association Rules Analysis (Additional)**
 * If you did not understand well the hash tree, watch these four videos (18 minutes in total) from the J. Academy: [support counting using hash tree (part 1)](https://www.youtube.com/watch?v=qPIp3Wq64Vs), [support counting using hash tree (part 2)](https://www.youtube.com/watch?v=AIqOQA5mnGA), [hash tree generation step by step](https://www.youtube.com/watch?v=btW-uU1dhWI), [hash tree and support counting](https://www.youtube.com/watch?v=d040C7c06e4); if you find this easy to follow check their entire [playlist on association rules mining](https://www.youtube.com/playlist?list=PLk6n8LK7VfVg8r39BtrJUBrjyShlZ0nqt).
 
-## Session 6: Mid-term exam (Wednesday October 25th, 2023)
+## Session 6: Mid-term exam (date TBA)
 
 ### Before class
 
@@ -157,9 +157,9 @@ We will have a mid-term exam, with no class after the mid-term.
 
 ### During class
 
-* Lecture TT16: recommender systems [ppt](https://docs.google.com/presentation/d/18eMSNG-mDNMOHE1VA7Gd_JiJcHz7UDJlp8GFvIo0GoU/edit?usp=share_link)/[pdf](pdf/tt16_recommender_systems_L7.pdf)
+* **Lecture TT16: Recommender Systems**
    * Exercise: content-based single-user recommendations (spreadsheet)
-* Lecture TT17: interaction-based recommender systems [ppt](https://docs.google.com/presentation/d/1A4nw83Aquqdb_KHkw_ua6_59VNKpWvV21ioPOrQ5ghQ/edit?usp=share_link)/[pdf](pdf/tt17_interaction_based_recommenders_L7.pdf)
+* **Lecture TT17: Recommender Systems - Interaction-Based**
    * Exercise: recommender based on user similarity (spreadsheet)
 
 ### After class
@@ -176,10 +176,10 @@ We will have a mid-term exam, with no class after the mid-term.
 ### During class
 
 * :tv: We will watch this 8-minutes presentation on [how recommender systems work](https://www.youtube.com/watch?v=n3RKsY2H-NE) by Art of the Problem, which describes a factorization-based (latent-factors based) method
-* Lecture TT18: latent-factors based recommender systems [ppt](https://docs.google.com/presentation/d/1LgxSWBAI_eUFZh9WbIvHMFUPwDzg8J6emAxst7Y9G64/edit?usp=share_link)/[pdf](pdf/tt18_latent_factors_recommenders_L8.pdf)
-* Lecture TT19: outliers introduction and extreme value analysis [ppt](https://docs.google.com/presentation/d/1fx8oy9VmyqiP00BW6PkToBkiOQDxnzCa3G_qviNk0fE/edit?usp=share_link)/[pdf](pdf/tt19_outliers_extreme_values_L8.pdf)
+* **Lecture TT18: Recommender Systems - Latent Factors**
+* **Lecture TT19: Outliers - Extreme Values**
    * Exercise: outliers using z-score (spreadsheet)
-* Lecture TT20: probability and clustering-based methods [ppt](https://docs.google.com/presentation/d/1qoqT_wnDFksfE3k_S7Moc-gClYjz1Lea3CQIVEdXNO0/edit?usp=share_link)/[pdf](pdf/tt20_outliers_probability_density_L8.pdf)
+* **Lecture TT20: Outliers - Probability Density Methods**
    * Exercise: clustering-based outlier detection (spreadsheet)
 
 ### After class
@@ -200,14 +200,12 @@ We will have a mid-term exam, with no class after the mid-term.
 
 ## During class
 
-* Lecture TT21: density- and isolation-based methods [ppt](https://docs.google.com/presentation/d/1kmmJcywlqyn76ZqNYmbkY-gGjiR9VgqCHIH7s41-dEY/edit?usp=share_link)/[pdf](pdf/tt21_outliers_isolation_L9.pdf)
+* **Lecture TT21: Outliers - Density- and Isolation-Based Methods**
    * Exercise: isolation forest example
-* Lecture TT22: data streams [ppt](https://docs.google.com/presentation/d/1bihFtSXT5xSNuliqgNhKzvYwqRDNfBrd-HNdiusPLZA/edit?usp=share_link)/[pdf](pdf/tt22_streams_L9.pdf)
+* **Lecture TT22: Data Streams**
    * Exercise: sampling at a fixed rate
-* Lecture TT23: reservoir sampling [ppt](https://docs.google.com/presentation/d/1n1hzzkrNP3xrsOlfSWKB_3wyryX_vW4dvOC70UCPCG0/edit?usp=share_link)/[pdf](pdf/tt23_reservoir_sampling_L9.pdf)
+* **Lecture TT23: Data Streams - Reservoir Sampling**
    * Exercise: probabilities in a reservoir sample
-
-Note for 2022 -- *need to finish outlier detection on this class* - isolation forest - for practice sessions to have the necessary background.
 
 ## After class
 
@@ -226,14 +224,12 @@ Note for 2022 -- *need to finish outlier detection on this class* - isolation fo
 
 ### During class
 
-* Lecture TT24: bloom filters [ppt](https://docs.google.com/presentation/d/1a3-U9vZe6fzsx0zupA9WmLYmZ-ltR9cP4XtdSXi_Z-E/edit?usp=share_link)/[pdf](pdf/tt24_bloom_filters_L10.pdf)
+* **Lecture TT24: Data Streams - Bloom Filters**
    * :tv: We will watch this 6-minutes [animation on Bloom Filters](https://www.youtube.com/watch?v=kfFacplFY4Y)
-* Lecture TT25: probabilistic counting [ppt](https://docs.google.com/presentation/d/1U9sIvq3pSJ0LTeBOgulgar_9n5LA2_8gBO8EZBzB87k/edit?usp=share_link)/[pdf](pdf/tt25_probabilistic_counting_L10.pdf)
+* **Lecture TT25: Data Streams - Probabilistic Counting**
    * Exercise: ideas for simple probabilistic counting
-* Lecture TT27: time series [ppt](https://docs.google.com/presentation/d/1dU9f1VG9O-P7TRbmKh9LPP7vEj51xQapYLhj7j6X3ao/edit?usp=share_link)/[pdf](pdf/tt27_time_series_L10.pdf)
+* **Lecture TT27: Time Series Analysis**
    * Exercise: smooth a time series (spreadsheet)
-
-Note for 2022 -- need to finish probabilistic counting for practice session on probabilistic counting to have the necessary background
 
 ### After class
 
@@ -242,7 +238,7 @@ Note for 2022 -- need to finish probabilistic counting for practice session on p
 
 ### Optional/additional material
 
-* See presentation TT26: moments estimation [ppt](https://docs.google.com/presentation/d/1tdSQw5ryEdqc7TK-XWoILeXUO0tEx35NTFEjY2OuYmw/edit?usp=share_link)/[pdf](pdf/tt26_estimating_moments_L10_supl.pdf)
+* See presentation **TT26: Data Streams - Estimating Moments (Additional)**
 
 ## Session 11: Time series mining (cont.)
 
@@ -252,18 +248,16 @@ Note for 2022 -- need to finish probabilistic counting for practice session on p
 
 ### During class
 
-* Lecture TT28: time series similarity [ppt](https://docs.google.com/presentation/d/1W_LjPLv_Qo-zGe-hj9d1I3O3yvCPhtw8ShqxNGGC1zA/edit?usp=share_link)/[pdf](pdf/tt28_time_series_similarity_L11.pdf)
+* **Lecture TT28: Time Series - Similarity**
    * Example: dynamic time warping (spreadsheet)
-* Lecture TT29: time series forecasting [ppt](https://docs.google.com/presentation/d/1zk07T0Urs707uApRynmniui1eKEUPurDIN8jqUaCdCE/edit?usp=share_link)/[pdf](pdf/tt29_forecasting_L11.pdf)
+* **Lecture TT29: Time Series - Forecasting**
    * Example: simple auto-regressive model (spreadsheet)
-
-Note for 2023 -- need to finish forecasting for practice session on temperature prediction to have the necessary background
 
 ### After class
 
 * Read section 14.3 of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
 
-## Final exam (Wednesday, December 13th, 2023)
+## Final exam (date TBA)
 
 The final exam will include recommender systems, outlier analysis, data streams, and forecasting: topics TT16-TT25, TT27-TT29; it will not include topic TT26.
 
