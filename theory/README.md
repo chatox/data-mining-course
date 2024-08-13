@@ -29,7 +29,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 * **Lecture TT02: Data, Methods, and Scenarios**
    * Exercise: confidence of a rule
    * Exercise: which ones are data mining tasks? (pin board)
-* ** Lecture TT03: Data Preparation - Data Types**
+* **Lecture TT03: Data Preparation - Data Types**
    * Exercise: compute binning (spreadsheet)
 
 ### After class
@@ -50,10 +50,10 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 
 ### During class
 
-* ** Lecture TT04: Data Preparation - Integration and Cleaning**
+* **Lecture TT04: Data Preparation - Integration and Cleaning**
    * Exercise: how to handle missing data
-* ** Lecture TT05: Data Preparation - Reduction and Transformation**
-* ** Lecture TT06: Similarity - Numerical Data**
+* **Lecture TT05: Data Preparation - Reduction and Transformation**
+* **Lecture TT06: Similarity - Numerical Data**
    * Exercise: compute Lp norm
 
 ### After class
