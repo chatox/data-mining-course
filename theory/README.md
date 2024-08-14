@@ -27,6 +27,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
    * Overview of [practice sessions](../practicum/README.md)
    * Overview of [evaluation rules](../upf/upf-evaluation.md)
 * **Lecture TT02: Data, Methods, and Scenarios**
+   * Exercise: number of columns
    * Exercise: confidence of a rule
    * Exercise: which ones are data mining tasks? (pin board)
 * **Lecture TT03: Data Preparation - Data Types**
