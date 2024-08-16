@@ -6,12 +6,8 @@ These are materials for a twelve-weeks undergraduate course on **Data Mining**, 
 
 * *"A very interesting subject for students of data science. In practice sessions, you complete your understanding of the theory concepts."* -- a student from the 2022 edition
 * *"I could say this is the best subject I've had during the studies"* -- a student from the 2021 edition
-* *"A lot of work in the practices, but it was helpful"* -- a student from the 2020 edition
-* *"A lot of work. However, the theory and practice materials are excellent"* -- a student from the 2019 edition
 
 ## Contents of this repository
-
-:construction: These materials should not be considered final until the end of the course.
 
 * :chart_with_upwards_trend: [Theory](theory/README.md): slides and planning for the theory part.
 * :computer: [Practicum](practicum/README.md): activities for practical sessions.

@@ -137,7 +137,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 * See presentation **TT15: Extending Association Rules Analysis (Additional)**
 * If you did not understand well the hash tree, watch these four videos (18 minutes in total) from the J. Academy: [support counting using hash tree (part 1)](https://www.youtube.com/watch?v=qPIp3Wq64Vs), [support counting using hash tree (part 2)](https://www.youtube.com/watch?v=AIqOQA5mnGA), [hash tree generation step by step](https://www.youtube.com/watch?v=btW-uU1dhWI), [hash tree and support counting](https://www.youtube.com/watch?v=d040C7c06e4); if you find this easy to follow check their entire [playlist on association rules mining](https://www.youtube.com/playlist?list=PLk6n8LK7VfVg8r39BtrJUBrjyShlZ0nqt).
 
-## Session 6: Mid-term exam (date TBA)
+## Session 6: Mid-term exam (Tue October 22nd, 2024 08:30-10:30)
 
 ### Before class
 
@@ -258,7 +258,7 @@ We will have a mid-term exam, with no class after the mid-term.
 
 * Read section 14.3 of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
 
-## Final exam (date TBA)
+## Final exam (date to be arranged by the school)
 
 The final exam will include recommender systems, outlier analysis, data streams, and forecasting: topics TT16-TT25, TT27-TT29; it will not include topic TT26.
 

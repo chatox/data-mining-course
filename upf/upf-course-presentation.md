@@ -1,7 +1,5 @@
 # <img src="upf_logo.png" align="right" width="80"/>24933 – Mining of Massive Datasets
 
-Course presentation for the 2019 edition.
-
 ## Presentation
 
 Finding patterns in large datasets is one of the main tasks that a data scientist performs professionally. Data mining sits at the intersection of databases and statistics, and includes several steps from managing to pre-processing, cleaning, modeling, and performing inferences using data.
@@ -53,66 +51,37 @@ The practical part of the course will be delivered in Python, hence it is strong
 
 ## Contents
 
-There are 12 theory topics (TT01-TT12) in this course.
+There are 29 theory lectures (TT01-TT29) in this course.
 
 * TT01 Introduction to Data Mining
-    * Data mining scenarios
-    * Data types
-    * Methods overview
-    * Challenges overview
-* TT02 Data preparation
-    * Data type conversions
-    * Data cleaning
-    * Sampling
-    * Data reduction
-* TT03 Similarity
-    * Data types and similarity
-    * Lp norm
-    * Distances and orientation
-    * Local variations
-* TT04 Near duplicates
-    * Shingling
-    * Min-hash
-    * Locality-sensitive hashing
-* TT05 Itemsets
-    * Transaction and itemset
-    * Maximal and closed itemsets
-    * Association rules
-    * Support, confidence, lift
-* TT06 Association rule mining
-    * A priori algorithm
-    * Interesting patterns
-* TT07 Extending association analysis
-    * Interestingness measures
-    * Categorical and continuous attributes
-    * Min-Apriori
-    * Mining rules on a hierarchy
-* TT08 Recommender systems
-    * Content-based recommendations
-    * Interaction-based recommendations (user-based, item-based)
-    * Latent factors methods
-    * Evaluation
-* TT09 Outlier analysis
-    * Extreme values analysis
-    * Isolation forest
-    * Clustering-based methods
-    * Distance-based methods
-    * Density-based methods
-    * Outlier validity
-* TT10 Streams
-    * Load shedding
-    * Sampling (fixed proportion)
-    * Sampling (fixed size)
-    * Bloom filters
-    * Probabilistic counting
-    * Moments
-* TT11 Time series mining
-    * Series preparation (interpolation, smoothing)
-    * Dynamic time warping
-    * Time series forecasting
-    * Event detection
-* TT12 Spectral graph clustering
-    * Graph projections
+* TT02: Data, Methods, and Scenarios
+* TT03: Data Preparation - Data Types
+* TT04: Data Preparation - Integration and Cleaning
+* TT05: Data Preparation - Reduction and Transformation
+* TT06: Similarity - Numerical Data
+* TT07: Similarity - Beyond Numerical Data
+* TT08: Finding Near-Duplicates
+* TT09: Locality-Sensitive Hashing
+* TT10: Locality-Sensitive Hashing (Additional)
+* TT11: Itemsets
+* TT12: Association Rules
+* TT13: Association Rules Mining
+* TT14: Improved Association Rules Mining
+* TT15: Extending Association Rules Analysis (Additional)
+* TT16: Recommender Systems
+* TT17: Recommender Systems - Interaction-Based
+* TT18: Recommender Systems - Latent Factors
+* TT19: Outliers - Extreme Values
+* TT20: Outliers - Probability Density Methods
+* TT21: Outliers - Density- and Isolation-Based Methods
+* TT22: Data Streams
+* TT23: Data Streams - Reservoir Sampling
+* TT24: Data Streams - Bloom Filters
+* TT25: Data Streams - Probabilistic Counting
+* TT26: Data Streams - Estimating Moments (Additional)
+* TT27: Time Series Analysis
+* TT28: Time Series - Similarity
+* TT29: Time Series - Forecasting
 
 ## Methodology
 
