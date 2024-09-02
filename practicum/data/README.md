@@ -18,7 +18,7 @@ This is not a full repository of datasets for data mining, but instead some data
 | Instacart/ | [Kaggle](https://www.kaggle.com/c/instacart-market-basket-analysis) |
 | annthyroid.csv | [ODDS](http://odds.cs.stonybrook.edu/annthyroid-dataset/) |
 | movie_dialog_corpus/ | [Movie Dialog Corpus](https://www.kaggle.com/datasets/Cornell-University/movie-dialog-corpus) |
-| aemet-barcelona-airport-2016-2022.json | [AEMET](https://opendata.aemet.es/centrodedescargas/inicio) |
+| aemet-barcelona-airport-2016-2024.json | [AEMET](https://opendata.aemet.es/centrodedescargas/inicio) |
 | movielens-25M-filtered | Filtered [MovieLens 25M](https://grouplens.org/datasets/movielens/25m/) |
 
 ## Other datasets (used in previous years)
