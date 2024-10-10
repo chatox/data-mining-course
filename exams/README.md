@@ -5,6 +5,5 @@ The ordering of the contents and the relative difficulty of exams may vary from 
 
 ## Sample exams
 
-* Midterm: [ex01](ex-en-01.pdf)
-* Final exam: [exFF](ex-en-FF.pdf)
-* Resit exam (oral): [exRR](sample_questions_resit.odp)
+* Midterm: [2021](2021-ex01-en.pdf) [2022](2021-ex01-en.pdf) [2023](2021-ex01-en.pdf)
+* Final exam: [2021](2021-exFF-en.pdf) [2022](2021-exFF-en.pdf) [2023](2021-exFF-en.pdf)
