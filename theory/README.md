@@ -258,7 +258,9 @@ We will have a mid-term exam, with no class after the mid-term.
 
 * Read section 14.3 of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
 
-## Final exam (date to be arranged by the school)
+## Final exam (December 11th, 09:30-11:30)
+
+The [date of the final exam](https://www.upf.edu/web/etic/primer-trimestre-tic) is fixed by the School of Engineering. Please check their webpage for potential changes.
 
 The final exam will include recommender systems, outlier analysis, data streams, and forecasting: topics TT16-TT25, TT27-TT29; it will not include topic TT26.
 
