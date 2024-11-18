@@ -227,6 +227,7 @@ We will have a mid-term exam, with no class after the mid-term.
 
 * **Lecture TT24: Data Streams - Bloom Filters**
    * :tv: We will watch this 6-minutes [animation on Bloom Filters](https://www.youtube.com/watch?v=kfFacplFY4Y)
+   * Exercise: Bloom filter collisions
 * **Lecture TT25: Data Streams - Probabilistic Counting**
    * Exercise: ideas for simple probabilistic counting
 * **Lecture TT27: Time Series Analysis**
