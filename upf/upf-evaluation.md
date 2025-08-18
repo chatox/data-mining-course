@@ -1,4 +1,4 @@
-# <img src="upf_logo.png" align="right" width="80"/>Rules for course at UPF (2023)
+# <img src="upf_logo.png" align="right" width="80"/>Rules for course at UPF (2025)
 
 ## 1. Grades
 
@@ -14,14 +14,12 @@ To pass the course under continuous evaluation, all of the following must be tru
 1. Theory grade, 0.4 B + 0.6 C ≥ 5.0
 1. Final grade, 0.5 A + 0.2 B + 0.3 C ≥ 5.0
 
-If you fail to pass, you will have to take the resit exam. The resit exam replaces the theory grade (B and C in the list above).
+If you fail to pass because of practices, you will have to deliver aditional work. If you fail to pass because of exams, you will have to take the resit exam, and if you pass it you will pass this subject with a 5.0 in the exam grades (which will be averaged with whatever practices grade you have).
 
 ### 1.1. Getting a grade in the practical sessions (PSxx, individual)
 
 To obtain a grade in the practical session, you must:
 
-* Attend the practical session (attendance to "wrap-up" sessions is NOT mandatory)
-* Submit a screenshot of your work at the end of the session through *Aula Global* (an image of the last part of what you were doing when the time ended)
 * Deliver your work within the deadline.
 * A grace period of 24 hours after the deadline will be given, with a -2 points penalization. Saturdays, Sundays, and holidays do not count in the grace period.
 
@@ -37,19 +35,19 @@ Not coming to a practice session or not delivering your work means a zero grade 
 
 :warning: Copying from external sources without acknowledging them in your work, and copying the work from other person/group in your class, are considered by the university as serious misconduct ("*falta grave*"). The instructor will make a case for the university to sanction this serious misconduct, as per the [university regulations](https://seuelectronica.upf.edu/es/regim-disciplinari-dels-estudiants-de-la-universitat-pompeu-fabra), with a **suspension from the university** for a minimum of six months and a maximum of four years.
 
-### 1.2. Getting a grade in the in-class tests or exam
+### 1.2. Getting a grade in the exam
 
-In-class tests and exams are individual work.
+Midterm exams and final exams are individual work.
 
-Not coming to an in-class test means a zero grade in that in-class test, unless you can justify your absence to the professor (*profesor de teoría*).
+Not coming to an exam means a zero grade in that test, unless you can justify your absence to the professor (*profesor de teoría*).
 
-:warning: Copying during a test/exam, knowingly facilitating the copy of others, elaborating, lending, or facilitating instruments for copying during an exam, are considered by the university as serious misconduct ("*falta grave*"). The instructor will make a case for the university to sanction this serious misconduct, as per the university regulations, with a **suspension from the university** for a minimum of six months and a maximum of four years.
+:warning: Copying during an exam, knowingly facilitating the copy of others, elaborating, lending, or facilitating instruments for copying during an exam, are considered by the university as serious misconduct ("*falta grave*"). The instructor will make a case for the university to sanction this serious misconduct, as per the university regulations, with a **suspension from the university** for a minimum of six months and a maximum of four years.
 
 ## 2. Guidelines for submitting your work
 
 ### 2.1. Exams
 
-The exam will be with pen and paper.
+The exam will usually be with pen and paper.
 
 ### 2.2. Practices and assignments
 

@@ -1,11 +1,13 @@
 # Data Mining Course
 
-Instructor: [Carlos "ChaTo" Castillo](https://chato.cl/)
+Instructor: [Carlos "ChaTo" Castillo](https://chato.cl/science)
 
 These are materials for a twelve-weeks undergraduate course on **Data Mining**, and include two-hour lectures and two-hour practice sessions every week. They were developed for third year students of the bachelor degree on *Mathematical Engineering on Data Science* at Universitat Pompeu Fabra, Barcelona.
 
+* *"This is my favorite subject I have taken so far. The contents are super practical and diverse. Every exercise and practice session we do has a purpose."* -- a student from the 2024 edition
+* *"One of the most interesting and useful courses. I have learned a lot."* -- a student from the 2024 edition
+* *"I think the workload is too much. There are too many assignments."* -- a student from the 2024 edition
 * *"A very interesting subject for students of data science. In practice sessions, you complete your understanding of the theory concepts."* -- a student from the 2022 edition
-* *"I could say this is the best subject I've had during the studies"* -- a student from the 2021 edition
 
 ## Contents of this repository
 
