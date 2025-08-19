@@ -1,6 +1,6 @@
 # List of theory topics
 
-**:file_folder: This [Google Drive Folder](https://drive.google.com/drive/u/1/folders/1rbD4yqTNoNPsZ-S_qtPYBvO3CTvs-s4S) contains the slides.
+**:file_folder: This [Google Drive Folder](https://drive.google.com/drive/u/1/folders/1rbD4yqTNoNPsZ-S_qtPYBvO3CTvs-s4S) contains the slides.**
 
 There are 11 theory sessions of 2 hours each. They will all take place face-to-face. Please bring your laptop.
 
@@ -10,7 +10,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 
 **After each session, there is some reading for you to do.** These readings will be much easier after you have attended each lecture, will bring depth to what you learn in class, and will help you remember these contents better. Think of these readings as a form of continuous studying that will save you time and effort when preparing for the exams.
 
-**:file_folder: This [Google Drive Folder](https://drive.google.com/drive/u/1/folders/1rbD4yqTNoNPsZ-S_qtPYBvO3CTvs-s4S) contains the slides.
+**:file_folder: This [Google Drive Folder](https://drive.google.com/drive/u/1/folders/1rbD4yqTNoNPsZ-S_qtPYBvO3CTvs-s4S) contains the slides.**
 
 ## Session 1: Introduction
 
