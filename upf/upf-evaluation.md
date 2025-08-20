@@ -33,7 +33,9 @@ Not coming to a practice session or not delivering your work means a zero grade 
 
 :rage: Do not work in groups of three or more during the practice session. Feel free to exchange ideas with other students, but do not copy from others.
 
-:warning: Copying from external sources without acknowledging them in your work, and copying the work from other person/group in your class, are considered by the university as serious misconduct ("*falta grave*"). The instructor will make a case for the university to sanction this serious misconduct, as per the [university regulations](https://seuelectronica.upf.edu/es/regim-disciplinari-dels-estudiants-de-la-universitat-pompeu-fabra), with a **suspension from the university** for a minimum of six months and a maximum of four years.
+:warning: It is OK to use an AI-enabled assistant for (i) understanding a mistake in your code, (ii) explaining how to use a certain function. It is absolutely not OK to feed the practice questions to an AI-enabled assistant for it to do the practice for you. If you are copying from the practice questions and pasting into an AI chatbot, **you are cheating**.
+
+:warning: Copying the work from other person/group in your class, are considered by the university as serious misconduct ("*falta grave*"). The instructor will make a case for the university to sanction this serious misconduct, as per the [university regulations](https://seuelectronica.upf.edu/es/regim-disciplinari-dels-estudiants-de-la-universitat-pompeu-fabra), with a **suspension from the university** for a minimum of six months and a maximum of four years.
 
 ### 1.2. Getting a grade in the exam
 
