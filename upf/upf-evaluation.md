@@ -27,7 +27,7 @@ Extra points might be added to your grade, allowing you to have up to 12 points 
 
 Automatically the lowest grade in the practice sessions will be discarded, which allows you to skip one session and still get the maximum grade.
 
-Not coming to a practice session or not delivering your work means a zero grade in that session, unless you can justify your absence to the teaching assistant (*profesor de prácticas*).
+Not delivering your work means a zero grade in that session.
 
 :unamused: Do not work alone and isolated during the practice session. You can prevent simple mistakes by talking to someone else. You can work in pairs, but each one should submit his/her own work individually and the works must be different.
 
