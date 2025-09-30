@@ -45,4 +45,4 @@ At the end of each handout there is a description of what you should deliver. Pl
 | 9 | [PS07](ps07_outlier_analysis.ipynb)         | Outlier analysis                           | 12/11 | 12/11 | 13/11 | 24H after session 12 | 
 | 10 | [PS08](ps08_data_streams.ipynb)            | Data streams                               | 19/11 | 19/11 | 21/11 | 24H after session 12 |
 | 11 | [PS09](ps09_forecasting.ipynb)             | Time series forecasting                    | 26/11 | 26/11 | 27/11 | 24H after session 12 |
-| 12 | PS07+PS08+PS09                             | Wrap-up                                    | 02/12 | 02/12 | 02/12 | During theory session |
+| 12 | PS07+PS08+PS09 (during theory session)                             | Wrap-up                                    | 02/12 | 02/12 | 02/12 | |
