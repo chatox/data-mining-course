@@ -137,7 +137,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 * See presentation **TT15: Extending Association Rules Analysis (Additional)**
 * If you did not understand well the hash tree, watch these four videos (18 minutes in total) from the J. Academy: [support counting using hash tree (part 1)](https://www.youtube.com/watch?v=qPIp3Wq64Vs), [support counting using hash tree (part 2)](https://www.youtube.com/watch?v=AIqOQA5mnGA), [hash tree generation step by step](https://www.youtube.com/watch?v=btW-uU1dhWI), [hash tree and support counting](https://www.youtube.com/watch?v=d040C7c06e4); if you find this easy to follow check their entire [playlist on association rules mining](https://www.youtube.com/playlist?list=PLk6n8LK7VfVg8r39BtrJUBrjyShlZ0nqt).
 
-## Session 6: Mid-term exam (Tue October 22nd, 2024 08:30-10:30)
+## Session 6: Mid-term exam
 
 ### Before class
 
@@ -259,7 +259,7 @@ We will have a mid-term exam, with no class after the mid-term.
 
 * Read section 14.3 of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
 
-## Final exam (December 11th, 09:30-11:30)
+## Final exam
 
 The [date of the final exam](https://www.upf.edu/web/etic/primer-trimestre-tic) is fixed by the School of Engineering. Please check their webpage for potential changes.
 
