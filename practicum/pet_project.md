@@ -21,7 +21,10 @@ Think of a fun pet project worthy of a data scientist.
    *  **Results**: what did you observe.
    *  **Conclusions**: a closing paragraph with your learnings and thoughts, and what does it mean to you personally.
    * **Generative AI Statement**: a paragraph in which you indicate whether you used Generative AI to write your report, and how, specifically.
-* A .zip file with your Python notebook and data; should be professional, understandable, and reproducible.
+* A link to a repository containing your code and data
+   * It should be professional, understandable, and reproducible.
+   * You can use a private repo on GitHub, share it with GitHub user chatox.
+   * You can use a private repo elsewhere, share it with the e-mail of the instructor.
 
 Your project belongs to you. I will not distribute it.
 
