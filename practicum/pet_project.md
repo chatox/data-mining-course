@@ -1,0 +1,40 @@
+# Pet project
+
+*What is a silly/quirky/fun thing in your own life or environment that you could datafy and analyze?*
+
+Your "pet project" should have some personal connection to you. This is neither about downloading a dataset and working with it, nor about participating in a data science competition.
+
+Instead, this is about creating a dataset about something that is connected to you, as an individual, and analyzing this dataset. It can be something silly or quirky.
+
+Think of a fun pet project worthy of a data scientist.
+
+**Make it fun and wholesome.**
+
+## What to deliver
+
+* A two-page report including:
+   * **Title**: should be descriptive and fun
+   *  **Goals**: what are your motivations and objectives, and *how is this connected to you* as an individual.
+   *  **Methods**: how you created and processed your data.
+   *  **Results**: what did you observe.
+   *  **Conclusions**: a closing paragraph with your learnings and thoughts, and what does it mean to you personally.
+   * **Generative AI Statement**: a paragraph in which you indicate whether you used Generative AI to write your report, and how, specifically.
+* A .zip file with your Python notebook and data; should be professional, understandable, and reproducible.
+
+Your project belongs to you. I will not distribute it.
+
+## How it will be evaluated
+
+The pet project is essentially for you to enjoy using the tools you have learned to do something fun.
+
+However, I will also +0.5 your final practice grade if your pet project is:
+
+* interesting or fun,
+* non-trivial, and
+* perfectly executed.
+
+Please note that the following will lead to a no-evaluation:
+
+* Your project has nothing to do with you.
+* Your report does not look as if it was written by you. This is about you, I want to read your writing.
+* Your project captures other people's personal data without their consent.

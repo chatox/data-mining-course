@@ -32,17 +32,19 @@ There are 09 practice sessions in this course, the handouts are Python notebooks
 
 At the end of each handout there is a description of what you should deliver. Please ask in the course forum or to your practice instructor ("*profesor/a de prácticas*") any questions you may have.
 
+See also: [pet project](pet_project.md)
+
 | # | Handouts                                    | Contents | Date 101 |  Date 102 | Date 103 | Deadline |
 |---|---------------------------------------------|----------| -----------| -----------| ----------- | --------- |
-| 1 | [PS01+PS02](ps01_02_data_preparation.ipynb) | Data preparation (two sessions, grade x 2) | 01/10 | 01/10 | 01/10 | 24H after session 2 | 
+| 1 | [PS01+PS02](ps01_02_data_preparation.ipynb) | Data preparation (two sessions, grade x 2) | 01/10 | 01/10 | 01/10 | 24H after session 2 |
 | 2 | PS01+PS02                                   | Wrap-up                                    | 02/10 | 02/10 | 02/10 | |
 | 3 | [PS03](ps03_near_duplicates.ipynb)          | Near-duplicate detection                   | 14/10 | 14/10 | 14/10 | 24H after session 5 |
 | 4 | [PS04](ps04_association_rules.ipynb)        | Association rules mining                   | 15/10 | 15/10 | 16/10 | 24H after session 5 |
 | 5 | PS03+PS04                                   | Wrap-up                                    | 21/10 | 21/10 | 21/10 | |
 | 6 | [PS05](ps05_content_based_recsys.ipynb)     | Content-based recommendations              | 29/10 | 29/10 | 30/10 | 24H after session 8 |
 | 7 | [PS06](ps06_item_based_recsys.ipynb)        | Item-based similarity recommendations      | 31/10 | 31/10 | 04/11 | 24H after session 8 |
-| 8 | PS05+PS06                                   | Wrap-up                                    | 05/11 | 05/11 | 05/11 | | 
-| 9 | [PS07](ps07_outlier_analysis.ipynb)         | Outlier analysis                           | 12/11 | 12/11 | 13/11 | 24H after session 12 | 
+| 8 | PS05+PS06                                   | Wrap-up                                    | 05/11 | 05/11 | 05/11 | |
+| 9 | [PS07](ps07_outlier_analysis.ipynb)         | Outlier analysis                           | 12/11 | 12/11 | 13/11 | 24H after session 12 |
 | 10 | [PS08](ps08_data_streams.ipynb)            | Data streams                               | 19/11 | 19/11 | 21/11 | 24H after session 12 |
 | 11 | [PS09](ps09_forecasting.ipynb)             | Time series forecasting                    | 26/11 | 26/11 | 27/11 | 24H after session 12 |
 | 12 | PS07+PS08+PS09 (during theory session)                             | Wrap-up                                    | 02/12 | 02/12 | 02/12 | |
