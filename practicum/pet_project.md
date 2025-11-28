@@ -2,7 +2,9 @@
 
 *What is a silly/quirky/fun thing in your own life or environment that you could datafy and analyze?*
 
-Your "pet project" should have some personal connection to you. This is neither about downloading a dataset and working with it, nor about participating in a data science competition.
+Data mining gives you a powerful toolbox, and I want to give you a chance to use it in something that is of interest to you. 
+
+Hence, I invite you to do a totally optional "pet project" during the trimester. It should be something that has some personal connection to you. This is neither about downloading an existing dataset and working with it, nor about participating in a canned data science competition.
 
 Instead, this is about creating a dataset about something that is connected to you, as an individual, and analyzing this dataset. It can be something silly or quirky.
 
