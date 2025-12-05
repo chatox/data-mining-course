@@ -222,6 +222,7 @@ We will have a mid-term exam, with no class after the mid-term.
 ### Before class
 
 * :tv: Watch this 3-minutes quick presentation on [bloom filters](https://www.youtube.com/watch?v=-SuTGoFYjZs) by Cube Drone
+* :tv: Watch the first 10 minutes of this video on [probabilistic counting](https://www.youtube.com/watch?v=lJYufx0bfpw) by Breaking Taps.
 
 ### During class
 
