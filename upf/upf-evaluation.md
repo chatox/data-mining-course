@@ -4,17 +4,19 @@
 
 Continuous evaluation will be based in the following elements:
 
-* A: Average grade in the 8-9 practical sessions with grade, minus the lowest one: 50%
-* B: Grade in the mid-term exam: 20%
-* C: Grade in the final exam: 30%
+* PS: Average grade in the 9 practical sessions with grade, minus the lowest one: 30%
+* PE: Grade in the practices exam: 10%
+* TM: Grade in the mid-term exam: 30%
+* TF: Grade in the final exam: 30%
 
 To pass the course under continuous evaluation, all of the following must be true:
 
-1. Practice grade, A ≥ 5.0
-1. Theory grade, 0.4 B + 0.6 C ≥ 5.0
-1. Final grade, 0.5 A + 0.2 B + 0.3 C ≥ 5.0
+* Practice grade, PS ≥ 5.0
+* Practice exam grade, PE ≥ 5.0
+* Theory grade, 0.5 TM + 0.5 TF ≥ 5.0
+* Final grade, 0.3 PS + 0.1 PE + 0.3 TM + 0.3 TF ≥ 5.0
 
-If you fail to pass because of practices, you will have to deliver aditional work. If you fail to pass because of exams, you will have to take the resit exam, and if you pass it you will pass this subject with a 5.0 in the exam grades (which will be averaged with whatever practices grade you have).
+If you fail to pass because of practices, you will have to deliver additional work. If you fail to pass because of exams, you will have to take the resit exam, and if you pass it you will pass this subject with a 5.0 in the exam grades (which will be averaged with whatever practices grade you have).
 
 ### 1.1. Getting a grade in the practical sessions (PSxx, individual)
 
@@ -23,7 +25,7 @@ To obtain a grade in the practical session, you must:
 * Deliver your work within the deadline.
 * A grace period of 24 hours after the deadline will be given, with a -2 points penalization. Saturdays, Sundays, and holidays do not count in the grace period.
 
-Extra points might be added to your grade, allowing you to have up to 12 points (instead of 10) in some practice sessions, however your total practice grade is capped at 10 points.
+Extra points might be added to your grade, allowing you to have up to 12 points (instead of 10) in some practice sessions, however **your total practice grade is capped at 10 points.**
 
 Automatically the lowest grade in the practice sessions will be discarded, which allows you to skip one session and still get the maximum grade.
 
@@ -33,7 +35,13 @@ Not delivering your work means a zero grade in that session.
 
 :rage: Do not work in groups of three or more during the practice session. Feel free to exchange ideas with other students, but do not copy from others.
 
-:warning: It is OK to use an AI-enabled assistant for (i) understanding a mistake in your code, (ii) explaining how to use a certain function. It is absolutely not OK to feed the practice questions to an AI-enabled assistant for it to do the practice for you. If you are copying from the practice questions and pasting into an AI chatbot, **you are cheating**.
+:heavy_check_mark: It is OK to use an AI-enabled assistant for:
+
+* Understand how to do some operations.
+* Understand mistakes in your code.
+* Produce small snippets of code, which you must review before incorporating, but not entire functions.
+
+:warning: It is absolutely not OK to feed the practice questions to an AI-enabled assistant for it to do the practice for you, or to generate text responses using an AI-enabled assistant.
 
 :warning: Copying the work from other person/group in your class, are considered by the university as serious misconduct ("*falta grave*"). The instructor will make a case for the university to sanction this serious misconduct, as per the [university regulations](https://seuelectronica.upf.edu/es/regim-disciplinari-dels-estudiants-de-la-universitat-pompeu-fabra), with a **suspension from the university** for a minimum of six months and a maximum of four years.
 
@@ -55,21 +63,7 @@ The exam will usually be with pen and paper.
 
 Each practice session and assignment specifies what you should deliver.
 
-#### 2.2.1. Delivering your report
-
-Identify the authorship and date of each report with a paragraph on the first page, including:
-
-* the report's title or purpose,
-* the author name(s) and e-mail(s), and
-* the date in which the report was completed.
-
-All of your reports should end with the following statement:
-
-> **I hereby declare that, except for the code provided by the course instructors, all of my code, report, and figures were produced by myself.**
-
-or, in the case of work done in pairs/groups (if any):
-
-> **We hereby declare that, except for the code provided by the course instructors, all of our code, report, and figures were produced by ourselves.**
+#### 2.2.1. Delivering reports
 
 These are some of the most common mistakes in reports, these deduct points from your grade:
 
@@ -110,7 +104,7 @@ These are some of the most common mistakes in code, these deduct points from you
 
 Delivering consistently top-quality work takes time and effort, but it can be very rewarding both personally and professionally :sunglasses:
 
-**Check** your answers, your code, and your reports as many times as needed to ensure they are correct.
+**Check** your answers, your code, and your reports as many times as needed to ensure they are correct. Be particularly careful when incorporating snippets of code generated by AI. 
 
 **Be precise:** use the section numbers (1.1, 1.2, ...) of the notebook to present your results in the report, and refer to sections by their number. If you need to refer to your figures or tables, number them and refer to them by numbers. Do not include ambiguous statements or plots without a scale or a legend. Do not use colors if you do not explain what each color means. State clearly your assumptions and limitations.
 
@@ -130,4 +124,4 @@ If you need help installing software or packages in your computer, please ask yo
 
 * Feel free to ask me questions in English, Catalan, or Spanish, independently of the language of your group.
 
-To ask for an appointment, send an e-mail to the course's professor. **No appointments will be given in the 72 hours before partial or final exams.**
+To ask for an appointment, send an e-mail to the course's professor. **No appointments will be given in the 72 hours before midterm or final exams.**
