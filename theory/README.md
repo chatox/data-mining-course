@@ -12,7 +12,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 
 **:file_folder: This [Google Drive Folder](https://drive.google.com/drive/u/1/folders/1rbD4yqTNoNPsZ-S_qtPYBvO3CTvs-s4S) contains the slides.**
 
-## Session 1: Introduction
+## Session 1: Introduction :spiral_calendar: 2026-09-28
 
 ### Before class
 
@@ -43,7 +43,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 * :computer: Strongly recommended to help you prepare for the practice sessions: [tutorials 1 and 2](http://www.cse.msu.edu/~ptan/dmbook/software/) of the book by Tan et al. These tutorials are an introduction to Python, which you should do unless you are very comfortable with this language, and about `numpy` and `pandas`, which will save you a ton of time in the practices.
 * Read [data sources and biases](http://trustworthymachinelearning.com/trustworthymachinelearning-04.htm) free book chapter of the Trustworthy Machine Learning book.
 
-## Session 2: Data cleaning
+## Session 2: Data cleaning :spiral_calendar: 2026-09-29
 
 ### Before class
 
@@ -67,7 +67,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 
 * :computer: [Tutorials 3 and 4](http://www.cse.msu.edu/~ptan/dmbook/software/) of the book by Tan et al. cover issues of data exploration and data pre-processing. The latter is quite similar to our first practice session, but uses a different dataset.
 
-## Session 3: Near duplicates
+## Session 3: Near duplicates :spiral_calendar: 2026-10-07
 
 ### Before class
 
@@ -92,7 +92,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 * :tv: Watch Jeffrey D. Ullman, a famous computer scientist and co-author of one of the books we use in the course and of this method specifically describe this near-duplicate finding method. Two 50-minutes videos: [part 1](https://www.youtube.com/watch?v=bQAYY8INBxg), [part 2](https://www.youtube.com/watch?v=MaqNlNSY4gc).
 * See presentation **TT10: Locality-Sensitive Hashing (Additional)**
 
-## Session 4: Itemsets
+## Session 4: Itemsets :spiral_calendar: 2026-10-13
 
 ### Before class
 
@@ -113,7 +113,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 * Read [section 6.1 of Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/ch6.pdf)
    * **Or** read section 4.1 of [Data Mining, The Textbook (2015)](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
 
-## Session 5: Association rules mining
+## Session 5: Association rules mining :spiral_calendar: 2026-10-14
 
 ### Before class
 
@@ -137,7 +137,7 @@ There are 11 theory sessions of 2 hours each. They will all take place face-to-f
 * See presentation **TT15: Extending Association Rules Analysis (Additional)**
 * If you did not understand well the hash tree, watch these four videos (18 minutes in total) from the J. Academy: [support counting using hash tree (part 1)](https://www.youtube.com/watch?v=qPIp3Wq64Vs), [support counting using hash tree (part 2)](https://www.youtube.com/watch?v=AIqOQA5mnGA), [hash tree generation step by step](https://www.youtube.com/watch?v=btW-uU1dhWI), [hash tree and support counting](https://www.youtube.com/watch?v=d040C7c06e4); if you find this easy to follow check their entire [playlist on association rules mining](https://www.youtube.com/playlist?list=PLk6n8LK7VfVg8r39BtrJUBrjyShlZ0nqt).
 
-## Session 6: Mid-term exam
+## Session 6: Mid-term exam :spiral_calendar: 2026-10-21
 
 ### Before class
 
@@ -149,7 +149,7 @@ The exam will not include TT10.
 
 We will have a mid-term exam, with no class after the mid-term.
 
-## Session 7: Recommender systems
+## Session 7: Recommender systems :spiral_calendar: 2026-10-22
 
 ### Before class
 
@@ -168,7 +168,7 @@ We will have a mid-term exam, with no class after the mid-term.
 * Read [sections 9.1-9.3 of Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
 * :tv: Watch the two 21-minutes lectures on [content-based recommender systems](https://www.youtube.com/watch?v=2uxXPzm-7FY) and [collaborative filtering](https://www.youtube.com/watch?v=h9gpufJFF-0) by Anand Rajaraman
 
-## Session 8: Recommender systems (cont.) + Outlier analysis
+## Session 8: Recommender systems (cont.) + Outlier analysis :spiral_calendar: 2026-11-02
 
 ### Before class
 
@@ -192,7 +192,7 @@ We will have a mid-term exam, with no class after the mid-term.
 
 * :tv: If you did not understand the latent factors method, watch this 33-minutes presentation on [How does Netflix recommend movies? Matrix Factorization](https://www.youtube.com/watch?v=ZspR5PZemcs)
 
-## Session 9: Outlier analysis (cont.) + Data streams
+## Session 9: Outlier analysis (cont.) + Data streams :spiral_calendar: 2026-11-09
 
 ## Before class
 
@@ -217,7 +217,7 @@ We will have a mid-term exam, with no class after the mid-term.
 
 * Read the original ICDM 2008 [paper on isolation forests](https://scholar.google.com/scholar?cluster=11545522615192696786&hl=en&as_sdt=0,5) -- do not worry if you cannot follow all the details
 
-## Session 10: Streams (cont.) + Time series mining
+## Session 10: Streams (cont.) + Time series mining :spiral_calendar: 2026-11-16
 
 ### Before class
 
@@ -243,7 +243,7 @@ We will have a mid-term exam, with no class after the mid-term.
 
 * See presentation **TT26: Data Streams - Estimating Moments (Additional)**
 
-## Session 11: Time series mining (cont.)
+## Session 11: Time series mining (cont.) :spiral_calendar: 2026-11-23
 
 ### Before class
 
