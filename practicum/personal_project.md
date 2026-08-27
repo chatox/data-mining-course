@@ -4,19 +4,19 @@
 
 Data mining gives you a powerful toolbox, and I want to give you a chance to use it in something that is of interest to **you.** 
 
-The course includes a "personal project" during the trimester. It should be something that has some personal connection to you. This is neither about downloading an existing dataset and working with it, nor about participating in a canned data science competition.
+The course includes a kind of "pet project" in which you should work throughout the trimester. It should be something that has some personal connection to you. This is neither about downloading an existing dataset and working with it, nor about participating in a canned data science competition.
 
-Instead, this is about **creating and analyzing a personal dataset** about something that is connected to you, as an individual, and analyzing this dataset. It can be something silly, quirky, or fun, as long as it is interesting, let me give you some examples:
+Instead, this is about **creating and analyzing a personal dataset** about something that is connected to you, as an individual. It can be something silly, quirky, or fun, as long as it is interesting, let me give you some examples:
 * Keep track of a health parameter (e.g., mood, exercise, etc.)
 * Keep track of your money expenses (all of them, or specific categories such as entertainment or food).
 * Keep track of your food intake.
-* Keep track of your content consumption (e.g., social media reels, series, movies, music).
-* Download data from a connected device that you own (e.g., steps, heartrate, sleep, etc. from a smart watch).
-* Download data from a service you use (e.g., trajectories in a map service, music or video history in a streming service)
+* Download data from a connected device that you own (e.g., steps, heartrate, sleep, etc. from a smart watch), or better, from multiple devices.
+* Download data from a service you use (e.g., trajectories in a map service, music or video history in a streming service), or better, from multiple services.
+* ... and so on, these are just examples.
 
-Think of a fun pet project worthy of a data scientist.
+In your analysis, you can use techniques we have seen in class, or other techniques.
 
-**Make it personal, interesting, fun, and wholesome.**
+Think of a fun "pet project" worthy of a data scientist. **Make it personal, interesting, fun, and wholesome.**
 
 ## What to deliver
 
@@ -26,7 +26,7 @@ A three-page report using [ACM](https://www.acm.org/publications/proceedings-tem
 *  **Methods** (0.5 pages): how you created and processed your dataset.
 *  **Results** (1.5 pages): what did you observe, using 2-3 (but not more!) tables or figures as support but not subsitute of your narrative.
 *  **Conclusions** (1-2 paragraphs): a closing paragraph with your learnings and thoughts, and what does it mean to you personally.
-* **Generative AI Statement** (1 brief paragraph): a paragraph in which you indicate whether you used Generative AI to write your report, and how, specifically.
+* **Generative AI Statement** (1 brief paragraph): a paragraph in which you indicate whether you used Generative AI to do your project, and how, **specifically.**
 * **Repository** (1 link): a link to a repository containing your code and data
    * It should be professional, understandable, and reproducible.
    * It should have a good `README.md` file in the root.
