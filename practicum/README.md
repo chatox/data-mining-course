@@ -34,17 +34,17 @@ At the end of each handout there is a description of what you should deliver. Pl
 
 See also: [personal project](personal_project.md)
 
-| # | Handouts                                    | Contents | Date 101 |  Date 102 | Date 103 | Deadline |
-|---|---------------------------------------------|----------| -----------| -----------| ----------- | --------- |
-| 1 | [PS01+PS02](ps01_02_data_preparation.ipynb) | Data preparation (two sessions, grade x 2) | 01/10 | 01/10 | 01/10 | 24H after session 2 |
-| 2 | PS01+PS02                                   | Wrap-up                                    | 02/10 | 02/10 | 02/10 | |
-| 3 | [PS03](ps03_near_duplicates.ipynb)          | Near-duplicate detection                   | 14/10 | 14/10 | 14/10 | 24H after session 5 |
-| 4 | [PS04](ps04_association_rules.ipynb)        | Association rules mining                   | 15/10 | 15/10 | 16/10 | 24H after session 5 |
-| 5 | PS03+PS04                                   | Wrap-up                                    | 21/10 | 21/10 | 21/10 | |
-| 6 | [PS05](ps05_content_based_recsys.ipynb)     | Content-based recommendations              | 29/10 | 29/10 | 30/10 | 24H after session 8 |
-| 7 | [PS06](ps06_item_based_recsys.ipynb)        | Item-based similarity recommendations      | 31/10 | 31/10 | 04/11 | 24H after session 8 |
-| 8 | PS05+PS06                                   | Wrap-up                                    | 05/11 | 05/11 | 05/11 | |
-| 9 | [PS07](ps07_outlier_analysis.ipynb)         | Outlier analysis                           | 12/11 | 12/11 | 13/11 | 24H after session 12 |
-| 10 | [PS08](ps08_data_streams.ipynb)            | Data streams                               | 19/11 | 19/11 | 21/11 | 24H after session 12 |
-| 11 | [PS09](ps09_forecasting.ipynb)             | Time series forecasting                    | 26/11 | 26/11 | 27/11 | 24H after session 12 |
-| 12 | PS07+PS08+PS09 (during theory session)                             | Wrap-up                                    | 02/12 | 02/12 | 02/12 | |
+| # | Notebook                                    | Date 101 | Date 102 | Date 103 | Attendance | Deadline       |
+|---|---------------------------------------------|----------| ---------| ---------| -----------| -------------- |
+| 1 | PS01 Data Preparation                       | 30/09    | 30/09    | 30/09    | Mandatory  | End of session |
+| 2 | PS02 Data Cleaning                          | 06/10    | 06/10    | 06/10    | Mandatory  | End of session |
+| 3 | PS03 Near-duplicates                        | 08/10    | 08/10    | 08/10    | Mandatory  | End of session |
+| 4 | PS04 Association rules                      | 19/10    | 19/10    | 19/10    | Mandatory  | End of session |
+| 5 | Personal project plan                       | 20/10    | 20/10    | 20/10    | Optional   |
+| 6 | PS05 Content-based recommender system       | TBA      | TBA      | TBA      | Mandatory  | End of session |
+| 7 | PS06 Item-based similarity recsys           | TBA      | TBA      | TBA      | Mandatory  | End of session |
+| 8 | PS06 Wrap-up                                | TBA      | TBA      | TBA      | Optional   | |
+| 9 | PS07 Outlier analysis                       | TBA      | TBA      | TBA      | Mandatory  | End of session |
+| 10 | PS08 Data streams                          | TBA      | TBA      | TBA      | Mandatory  | End of session | 
+| 11 | PS09 Time series forecasting               | TBA      | TBA      | TBA      | Mandatory  | End of session |
+| 12 | Practices exam                             | TBA      | TBA      | TBA      | Mandatory  | N/A |
