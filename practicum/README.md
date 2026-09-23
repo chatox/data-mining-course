@@ -12,7 +12,6 @@ You will need:
    * [numpy](https://numpy.org/)
    * [scikit-learn](https://scikit-learn.org/stable/)
    * [apyori](https://pypi.org/project/apyori/)
-   * [wordcloud](https://github.com/amueller/word_cloud)
    * [nltk](https://www.nltk.org/)
       * You will also need to run in your Python interpreter: `import nlkt` and `nltk.download('punkt')`
 * Jupyter Notebooks.
@@ -22,11 +21,9 @@ You will need:
 
 ## Practice sessions
 
-Practice sessions are conducted with a computer.
+Bring your laptop to the practice sessions, and clone this repository.
 
-There are 09 practice sessions in this course, the handouts are Python notebooks. Clone this repository and follow the instructions. Each session starts with *psNN* and describe the activities that the students must perform during the practice session.
-
-:bulb: **Read the practice descriptions before the session,** as they can be sometimes long. You can start working on these at any point, but they are not definitive until the end of the session; details may change.
+There are ninve practice sessions in this course, the handouts are Python notebooks. Each session starts with *psNN* and describe the activities that the students must perform during the practice session.
 
 :warning: **Some parts are not visible in the preview shown on the GitHub website**, so you need to download the notebook to see the instructions.
 
