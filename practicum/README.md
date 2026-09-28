@@ -29,19 +29,19 @@ There are ninve practice sessions in this course, the handouts are Python notebo
 
 At the end of each handout there is a description of what you should deliver. Please ask in the course forum or to your practice instructor ("*profesor/a de prácticas*") any questions you may have.
 
-See also: [personal project](personal_project.md)
+See also: [pet project](personal_project.md)
 
 | # | Notebook                                    | Date 101 | Date 102 | Date 103 | Attendance | Deadline       |
 |---|---------------------------------------------|----------| ---------| ---------| -----------| -------------- |
-| 1 | PS01 Data Preparation                       | 30/09    | 30/09    | 30/09    | Mandatory  | End of session |
-| 2 | PS02 Data Cleaning                          | 06/10    | 06/10    | 06/10    | Mandatory  | End of session |
+| 1 | PS01 Data preparation                       | 30/09    | 30/09    | 30/09    | Mandatory  | End of session |
+| 2 | PS02 Data cleaning                          | 06/10    | 06/10    | 06/10    | Mandatory  | End of session |
 | 3 | PS03 Near-duplicates                        | 08/10    | 08/10    | 08/10    | Mandatory  | End of session |
 | 4 | PS04 Association rules                      | 19/10    | 19/10    | 19/10    | Mandatory  | End of session |
-| 5 | Personal project plan                       | 20/10    | 20/10    | 20/10    | Optional   |
-| 6 | PS05 Content-based recommender system       | TBA      | TBA      | TBA      | Mandatory  | End of session |
-| 7 | PS06 Item-based similarity recsys           | TBA      | TBA      | TBA      | Mandatory  | End of session |
-| 8 | PS06 Wrap-up                                | TBA      | TBA      | TBA      | Optional   | |
-| 9 | PS07 Outlier analysis                       | TBA      | TBA      | TBA      | Mandatory  | End of session |
-| 10 | PS08 Data streams                          | TBA      | TBA      | TBA      | Mandatory  | End of session | 
-| 11 | PS09 Time series forecasting               | TBA      | TBA      | TBA      | Mandatory  | End of session |
-| 12 | Practices exam                             | TBA      | TBA      | TBA      | Mandatory  | N/A |
+| 5 | Pet project planning                        | 20/10    | 20/10    | 20/10    | Optional   |
+| 6 | PS05 Content-based recommender system       | 27/10    | 28/10    | 27/10    | Mandatory  | End of session |
+| 7 | PS06 Item-based similarity recsys           | 03/11    | 04/11    | 03/11    | Mandatory  | End of session |
+| 8 | PS06 Wrap-up                                | 05/11    | 05/11    | 05/11    | Optional   | |
+| 9 | PS07 Outlier analysis                       | 10/11    | 11/11    | 10/11    | Mandatory  | End of session |
+| 10 | PS08 Data streams                          | 17/11    | 18/11    | 17/11    | Mandatory  | End of session | 
+| 11 | PS09 Time series forecasting               | 24/11    | 25/11    | 24/11    | Mandatory  | End of session |
+| 12 | Practices exam                             | 30/11    | 30/11    | 30/11    | Mandatory  | N/A |

@@ -1,15 +1,16 @@
-# Personal project
+# Pet project
 
 *What is a silly/quirky/fun/interesting thing in your own life or environment that you could datafy and analyze?*
 
 Data mining gives you a powerful toolbox, and I want to give you a chance to use it in something that is of interest to **you.** 
 
-The course includes a kind of "pet project" in which you should work throughout the trimester. It should be something that has some personal connection to you. This is neither about downloading an existing dataset and working with it, nor about participating in a canned data science competition.
+The course includes a personal project in which you should work throughout the trimester. It should be something that has some personal connection to you. This is neither about downloading an existing dataset and working with it, nor about participating in a canned data science competition.
 
 Instead, this is about **creating and analyzing a personal dataset** about something that is connected to you, as an individual. It can be something silly, quirky, or fun, as long as it is interesting, let me give you some examples:
 * Keep track of a health parameter (e.g., mood, exercise, etc.)
 * Keep track of your money expenses (all of them, or specific categories such as entertainment or food).
 * Keep track of your food intake.
+* Keep track of all the ads you see in the street.
 * Download data from a connected device that you own (e.g., steps, heartrate, sleep, etc. from a smart watch), or better, from multiple devices.
 * Download data from a service you use (e.g., trajectories in a map service, music or video history in a streming service), or better, from multiple services.
 * ... and so on, these are just examples.
