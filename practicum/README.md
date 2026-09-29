@@ -33,8 +33,8 @@ See also: [pet project](personal_project.md)
 
 | # | Notebook                                    | Date 101 | Date 102 | Date 103 | Attendance | Deadline       |
 |---|---------------------------------------------|----------| ---------| ---------| -----------| -------------- |
-| 1 | PS01 Data preparation                       | 30/09    | 30/09    | 30/09    | Mandatory  | End of session |
-| 2 | PS02 Data cleaning                          | 06/10    | 06/10    | 06/10    | Mandatory  | End of session |
+| 1 | [PS01 Null values](ps01-null_values.ipynb)  | 30/09    | 30/09    | 30/09    | Mandatory  | End of session |
+| 2 | PS02 Data preparation                       | 06/10    | 06/10    | 06/10    | Mandatory  | End of session |
 | 3 | PS03 Near-duplicates                        | 08/10    | 08/10    | 08/10    | Mandatory  | End of session |
 | 4 | PS04 Association rules                      | 19/10    | 19/10    | 19/10    | Mandatory  | End of session |
 | 5 | Pet project planning                        | 20/10    | 20/10    | 20/10    | Optional   |
