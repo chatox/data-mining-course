@@ -23,7 +23,7 @@ You will need:
 
 Bring your laptop to the practice sessions, and clone this repository.
 
-There are ninve practice sessions in this course, the handouts are Python notebooks. Each session starts with *psNN* and describe the activities that the students must perform during the practice session.
+There are nine practice sessions in this course, the handouts are Python notebooks. Each session starts with *psNN* and describe the activities that the students must perform during the practice session.
 
 :warning: **Some parts are not visible in the preview shown on the GitHub website**, so you need to download the notebook to see the instructions.
 
