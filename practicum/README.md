@@ -2,22 +2,10 @@
 
 ## Software requirements
 
-You will need:
+* Python 3.8 or higher with the packages in [requirements.txt](requirements.txt)
+* [Jupyter](https://jupyter.org/) or equivalent to run local Python notebooks.
 
-* Python 3.8 or higher.
-   * You can use the [Anaconda](https://www.anaconda.com/products/individual) package manager.
-* Several Python packages
-   * [matplotlib](https://matplotlib.org/)
-   * [seaborn](https://seaborn.pydata.org/)
-   * [numpy](https://numpy.org/)
-   * [scikit-learn](https://scikit-learn.org/stable/)
-   * [apyori](https://pypi.org/project/apyori/)
-   * [nltk](https://www.nltk.org/)
-      * You will also need to run in your Python interpreter: `import nlkt` and `nltk.download('punkt')`
-* Jupyter Notebooks.
-   * Follow [these instructions](https://jupyter.org/install.html).
-
-:warning: Please, if you run into problems installing this software, **ask in the course forum**. Please do not ask the practice instructors, they absolutely do not have the bandwidth for this.
+:warning: Please, if you run into problems installing this software, **ask in the course forum**. Do not ask the practice instructors, they absolutely do not have the bandwidth for this.
 
 ## Practice sessions
 

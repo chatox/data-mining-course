@@ -1,0 +1,23 @@
+# Required libraries
+
+# Math
+numpy
+
+# Plotting
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+scipy
+
+# Association rules
+apyori
+
+# Natural language processing
+nltk
+transliterate
+
+# Time
+humanize
+timeit
