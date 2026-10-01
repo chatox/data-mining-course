@@ -95,7 +95,7 @@ These are some of the most common mistakes in code, these deduct points from you
 
 ## 2.3. Personal project
 
-See [personal project](../practicum/personal_project.md)
+See [pet project](../practicum/personal_project.md)
 
 These are some of the most common mistakes in reports, these deduct points from your grade:
 
