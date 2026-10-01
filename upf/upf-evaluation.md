@@ -32,7 +32,6 @@ To obtain a grade in the practical session, you must:
 * Come to the practice session.
    * To justify an absence, send a justification (e.g., medical certificate) **to your practices instructor.**
 * Deliver your work within the deadline.
-* A grace period of 24 hours after the deadline will be given, with a -2 points penalization.
 
 Extra points might be added to your grade, allowing you to have up to 12 points (instead of 10) in some practice sessions, however **your total practice grade is capped at 10 points.**
 

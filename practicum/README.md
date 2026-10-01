@@ -8,7 +8,7 @@ Please ask in the course forum or to your practice instructor ("*profesor/a de p
 
 Please, **do not ask the instructors to install software in your computer**. If you run into software installation problems, ask in the course forum. The practice instructors absolutely do not have the bandwidth for this.
 
-:warning: The text below is valid for PS01, PS02, PS03, and PS04. It may change from PS05 onwards.
+:warning: The text below is valid for PS02, PS03, and PS04. It probably will stay the same, but we may have to do some adjustments from PS05 onwards.
 
 ## Before the practice session
 
@@ -22,14 +22,17 @@ Each notebook will be posted here a day before your session:
    * Python 3.8 or higher with the packages in [requirements.txt](requirements.txt)
    * [Jupyter](https://jupyter.org/) or equivalent to run local Python notebooks.
 * Run the cell where the dataset is loaded to make sure it loads well in your machine.
-* Read the rest of the notebook to understand what is being asked from you.
+* Look at the data to become familiar with what the dataset is about.
+* Read the rest of the notebook to understand what the task is about.
 * You may bring a little of work done, but not more than the first 20% (according to the percentages next to section titles in the notebook), please. 
 
 ## During the practice session
 
 Bring your laptop to the practice sessions.
 
-You must **attend** the session, and **pre-deliver** at the end of the session. Your pre-delivery should contain progress proportional to the duration of the session (two hours).
+:eight_pointed_black_star: You can use AI, but remember to mark clearly in the code ``#AI`` whenever you copy-pasted a block of code from AI, and ``#AI (edited)`` whenever you copy-pasted a block of code from AI, but then changed it.
+
+:alarm_clock: You must **attend** the session, and **pre-deliver** at the end of the session. Your pre-delivery should contain progress proportional to the duration of the session (two hours).
 
 | # | Notebook                                    | Date 101 | Date 102 | Date 103 | Attendance |
 |---|---------------------------------------------|----------| ---------| ---------| -----------|
