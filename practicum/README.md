@@ -39,7 +39,7 @@ You must **attend** the session, and **pre-deliver** at the end of the session. 
 | 4 | PS04 Association rules                      | 19/10    | 19/10    | 19/10    | Mandatory  |
 | 5 | Pet project planning                        | 20/10    | 20/10    | 20/10    | Optional   |
 | 6 | PS05 Content-based recommender system       | 27/10    | 27/10    | 28/10    | Mandatory  |
-| 7 | PS06 Item-based similarity recsys           | 03/11    | 03/11    | 05/11    | Mandatory  |
+| 7 | PS06 Item-based similarity recsys           | 03/11    | 03/11    | 04/11    | Mandatory  |
 | 8 | PS06 Wrap-up                                | 05/11    | 05/11    | 05/11    | Optional   |
 | 9 | PS07 Outlier analysis                       | 10/11    | 10/11    | 11/11    | Mandatory  |
 | 10 | PS08 Data streams                          | 17/11    | 17/11    | 18/11    | Mandatory  |
