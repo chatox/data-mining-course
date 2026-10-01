@@ -2,7 +2,7 @@
 
 See also: [pet project](personal_project.md)
 
-There are nine practice sessions in this course (PS01-PS09), and the instructions are contained in Python notebooks you have to complete.
+There are nine practice sessions in this course (PS01-PS09), and the instructions are contained in Python notebooks you have to complete. 
 
 Please ask in the course forum or to your practice instructor ("*profesor/a de prácticas*") any questions you may have, and if you cannot attend a session, please contact your practice instructor by e-mail.
 
@@ -23,7 +23,7 @@ Each notebook will be posted here a day before your session:
    * [Jupyter](https://jupyter.org/) or equivalent to run local Python notebooks.
 * Run the cell where the dataset is loaded to make sure it loads well in your machine.
 * Read the rest of the notebook to understand what is being asked from you.
-* You may bring a little of work done, but not more than the first 20%, please.
+* You may bring a little of work done, but not more than the first 20% (according to the percentages next to section titles in the notebook), please. 
 
 ## During the practice session
 
