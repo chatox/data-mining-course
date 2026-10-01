@@ -45,3 +45,11 @@ You must **attend** the session, and **pre-deliver** at the end of the session. 
 | 10 | PS08 Data streams                          | 17/11    | 17/11    | 18/11    | Mandatory  |
 | 11 | PS09 Time series forecasting               | 24/11    | 24/11    | 25/11    | Mandatory  |
 | 12 | Practices exam                             | 30/11    | 30/11    | 30/11    | Mandatory  |
+
+## After the practice session
+
+24h after the end of your session: you must **deliver** your notebook.
+
+Your delivery should be a continuation of your pre-delivery, and will be graded normally.
+
+No late deliveries are accepted, so there is no penalization for late delivery.
