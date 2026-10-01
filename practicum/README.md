@@ -30,9 +30,9 @@ Each notebook will be posted here a day before your session:
 
 Bring your laptop to the practice sessions.
 
-:eight_pointed_black_star: You can use AI, but remember to mark clearly in the code ``#AI`` whenever you copy-pasted a block of code from AI, and ``#AI (edited)`` whenever you copy-pasted a block of code from AI, but then changed it.
+:eight_pointed_black_star: You may use AI, but remember to mark clearly in the code ``#AI`` whenever you copy-pasted a block of code from AI, and ``#AI (edited)`` whenever you copy-pasted a block of code from AI, but then changed it.
 
-:alarm_clock: You must **attend** the session, and **pre-deliver** at the end of the session. Your pre-delivery should contain progress proportional to the duration of the session (two hours).
+:alarm_clock: You must **attend** the session, and **pre-deliver** at the end of the session. Your pre-delivery should contain progress proportional to the duration of the session, two hours.
 
 | # | Notebook                                    | Date 101 | Date 102 | Date 103 | Attendance |
 |---|---------------------------------------------|----------| ---------| ---------| -----------|
@@ -51,8 +51,8 @@ Bring your laptop to the practice sessions.
 
 ## After the practice session
 
-24h after the end of your session: you must **deliver** your notebook.
+:alarm_clock: 24h after the end of your session: you must **deliver** your notebook.
 
 Your delivery should be a continuation of your pre-delivery, and will be graded normally.
 
-No late deliveries are accepted, so there is no penalization for late delivery.
+:warning: No late deliveries are accepted, so there is no penalization for late delivery.
