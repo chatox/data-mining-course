@@ -55,4 +55,4 @@ Bring your laptop to the practice sessions.
 
 Your delivery should be a continuation of your pre-delivery, and will be graded normally.
 
-:warning: No late deliveries are accepted, so there is no penalization for late delivery.
+:warning: No late deliveries are accepted.
