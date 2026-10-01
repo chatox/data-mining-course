@@ -19,8 +19,8 @@ Each notebook will be posted here a day before your session:
 * Clone this repository and pull the changes.
 * Open the notebook
 * Run the *imports* cell to make sure you have all the requirements.
-** Python 3.8 or higher with the packages in [requirements.txt](requirements.txt)
-** [Jupyter](https://jupyter.org/) or equivalent to run local Python notebooks.
+   * Python 3.8 or higher with the packages in [requirements.txt](requirements.txt)
+   * [Jupyter](https://jupyter.org/) or equivalent to run local Python notebooks.
 * Run the cell where the dataset is loaded to make sure it loads well in your machine.
 * Read the rest of the notebook to understand what is being asked from you.
 * You may bring a little of work done, but not more than the first 20%, please.
