@@ -38,18 +38,10 @@ You must **attend** the session, and **pre-deliver** at the end of the session. 
 | 3 | PS03 Near-duplicates                        | 08/10    | 08/10    | 08/10    | Mandatory  |
 | 4 | PS04 Association rules                      | 19/10    | 19/10    | 19/10    | Mandatory  |
 | 5 | Pet project planning                        | 20/10    | 20/10    | 20/10    | Optional   |
-| 6 | PS05 Content-based recommender system       | 27/10    | 28/10    | 27/10    | Mandatory  |
-| 7 | PS06 Item-based similarity recsys           | 03/11    | 04/11    | 03/11    | Mandatory  |
+| 6 | PS05 Content-based recommender system       | 27/10    | 27/10    | 27/10    | Mandatory  |
+| 7 | PS06 Item-based similarity recsys           | 03/11    | 03/11    | 03/11    | Mandatory  |
 | 8 | PS06 Wrap-up                                | 05/11    | 05/11    | 05/11    | Optional   |
-| 9 | PS07 Outlier analysis                       | 10/11    | 11/11    | 10/11    | Mandatory  |
-| 10 | PS08 Data streams                          | 17/11    | 18/11    | 17/11    | Mandatory  |
-| 11 | PS09 Time series forecasting               | 24/11    | 25/11    | 24/11    | Mandatory  |
+| 9 | PS07 Outlier analysis                       | 10/11    | 10/11    | 10/11    | Mandatory  |
+| 10 | PS08 Data streams                          | 17/11    | 17/11    | 17/11    | Mandatory  |
+| 11 | PS09 Time series forecasting               | 24/11    | 24/11    | 24/11    | Mandatory  |
 | 12 | Practices exam                             | 30/11    | 30/11    | 30/11    | Mandatory  |
-
-## After the practice session
-
-24h after the end of your session: you must **deliver** your notebook.
-
-Your delivery should be a continuation of your pre-delivery, and will be graded normally.
-
-No late deliveries are accepted, so there is no penalization for late delivery.
