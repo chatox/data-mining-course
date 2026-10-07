@@ -38,7 +38,7 @@ Bring your laptop to the practice sessions.
 |---|------------------------------------------------------|----------| ---------| ---------| -----------|
 | 1 | [PS01 Null values](ps01-null_values.ipynb)           | 30/09    | 30/09    | 30/09    | Mandatory  |
 | 2 | [PS02 Data preparation](ps02-data_preparation.ipynb) | 06/10    | 06/10    | 06/10    | Mandatory  |
-| 3 | PS03 Near-duplicates                                 | 08/10    | 08/10    | 08/10    | Mandatory  |
+| 3 | [PS03 Near-duplicates](ps03-near_duplicates.ipynb)   | 08/10    | 08/10    | 08/10    | Mandatory  |
 | 4 | PS04 Association rules                               | 19/10    | 19/10    | 19/10    | Mandatory  |
 | 5 | Pet project planning                                 | 20/10    | 20/10    | 20/10    | Optional   |
 | 6 | PS05 Content-based recommender system                | 27/10    | 27/10    | 28/10    | Mandatory  |
