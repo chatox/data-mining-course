@@ -11,10 +11,11 @@ This is not a full repository of datasets for data mining, but instead some data
 
 ## Datasets used during practices
 
-| Filename | Credits |
-|----------|--------|
-| airbnb/  | [Inside Airbnb](https://insideairbnb.com/) |
-| quora/   | [Question pairs dataset](https://www.kaggle.com/datasets/quora/question-pairs-dataset) |
+| Filename    | Credits |
+|-------------|--------|
+| airbnb/     | [Inside Airbnb](https://insideairbnb.com/) |
+| quora/      | [Question pairs](https://www.kaggle.com/datasets/quora/question-pairs-dataset) |
+| groceries/  | [R dataset](https://www.rdocumentation.org/packages/arules/versions/0.2-6/topics/Groceries) |
 | annthyroid/ | [ODDS](http://odds.cs.stonybrook.edu/annthyroid-dataset/) |
 | cardiotocography/ | [ODDS](https://shebuti.com/cardiotocogrpahy-datas) |
 | aemet/ | [AEMET](https://opendata.aemet.es/centrodedescargas/inicio) |
