@@ -61,4 +61,4 @@ Please note that the following will lead to a zero grade.
 
 * Your project has nothing to do with you, e.g., you simply used an existing dataset.
 * Your report does not look as if it was written by you. This is about you, I want to read **your writing.**
-* Your project captures other people's personal data without their consent.
+* Your project captures other people's personal data without their consent. Nobody else but you should be identifiable by your report or your dataset.
