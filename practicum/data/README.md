@@ -17,10 +17,10 @@ This is not a full repository of datasets for data mining, but instead some data
 | quora/      | [Question pairs](https://www.kaggle.com/datasets/quora/question-pairs-dataset) |
 | groceries/  | [R dataset](https://www.rdocumentation.org/packages/arules/versions/0.2-6/topics/Groceries) |
 | movies/     | [Movies dataset](https://github.com/metarank/msrd) |
+| movielens-32M-filtered/ | [MovieLens 32M](https://grouplens.org/datasets/movielens/25m/) |
 | annthyroid/ | [ODDS](http://odds.cs.stonybrook.edu/annthyroid-dataset/) |
 | cardiotocography/ | [ODDS](https://shebuti.com/cardiotocogrpahy-datas) |
 | aemet/ | [AEMET](https://opendata.aemet.es/centrodedescargas/inicio) |
-| movielens-32M-filtered/ | [MovieLens 32M](https://grouplens.org/datasets/movielens/25m/) |
 
 ## Other datasets (used in previous years)
 
