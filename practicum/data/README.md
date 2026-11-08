@@ -11,7 +11,7 @@ This is not a full repository of datasets for data mining, but instead some data
 
 ## Datasets used during practices
 
-| Filename    | Credits |
+| Directory   | Credits |
 |-------------|--------|
 | airbnb/     | [Inside Airbnb](https://insideairbnb.com/) |
 | quora/      | [Question pairs](https://www.kaggle.com/datasets/quora/question-pairs-dataset) |
