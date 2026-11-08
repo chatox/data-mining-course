@@ -20,6 +20,7 @@ This is not a full repository of datasets for data mining, but instead some data
 | movielens-32M-filtered/ | [MovieLens 32M](https://grouplens.org/datasets/movielens/25m/) |
 | annthyroid/ | [ODDS](http://odds.cs.stonybrook.edu/annthyroid-dataset/) |
 | cardiotocography/ | [ODDS](https://shebuti.com/cardiotocogrpahy-datas) |
+| breastcancer/ | [Wisconsin](https://github.com/razuswe/wisconsinBreastCancerAnalysis) |
 | aemet/ | [AEMET](https://opendata.aemet.es/centrodedescargas/inicio) |
 
 ## Other datasets (used in previous years)
