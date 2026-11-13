@@ -21,6 +21,7 @@ This is not a full repository of datasets for data mining, but instead some data
 | annthyroid/ | [ODDS](http://odds.cs.stonybrook.edu/annthyroid-dataset/) |
 | cardiotocography/ | [ODDS](https://shebuti.com/cardiotocogrpahy-datas) |
 | breastcancer/ | [Wisconsin](https://github.com/razuswe/wisconsinBreastCancerAnalysis) |
+| odyssey/ | [Project Gutenberg](https://www.gutenberg.org/cache/epub/1727/pg1727.txt)
 | aemet/ | [AEMET](https://opendata.aemet.es/centrodedescargas/inicio) |
 
 ## Other datasets (used in previous years)
