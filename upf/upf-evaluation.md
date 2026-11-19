@@ -57,7 +57,7 @@ Midterm exams and final exams are individual work.
 
 Not coming to an exam means a zero grade in that test, unless you can justify your absence to the professor (*profesor de teoría*).
 
-:warning: Copying during an exam, knowingly facilitating the copy of others, elaborating, lending, or facilitating instruments for copying during an exam, are considered by the university as serious misconduct ("*falta grave*"). The instructor will make a case for the university to sanction this serious misconduct, as per the university regulations, with a **suspension from the university** for a minimum of six months and a maximum of four years.
+:warning: Copying during an exam, knowingly facilitating the copy of others, elaborating, lending, or facilitating instruments for copying during an exam, are considered by the university as serious misconduct ("*falta grave*"). The instructor will make a case for the university to sanction this serious misconduct, as per the [university regulations](https://seuelectronica.upf.edu/documents/d/seu-electronica/instruccio-compromis-etic-i-honradesa-avaluacio_signat-vr_13112026_censurado).
 
 ## 2. Guidelines for submitting your work
 
