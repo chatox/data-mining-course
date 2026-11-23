@@ -264,7 +264,7 @@ We will have a mid-term exam, with no class after the mid-term.
 
 The [date of the final exam](https://www.upf.edu/web/etic/primer-trimestre-tic) is fixed by the School of Engineering. Please check their webpage for potential changes.
 
-The final exam will include recommender systems (TT16, TT17, TT18), outlier analysis (TT19, TT20, TT21), data streams (TT22, TT23, TT24, TT25), time series analysis (TT27, but not TT28) and forecasting (TT29).
+The final exam will include recommender systems (TT16, TT17, TT18), outlier analysis (TT19, TT20, TT21), data streams (TT22, TT23, TT24, TT25), time series analysis (TT27, TT28) and forecasting (TT29).
 
 # Notes
 
